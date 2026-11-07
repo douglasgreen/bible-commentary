@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="PSA" name="Psalms" testament="ot" number="46" id="PSA.46">
+  <title>Psalm 46</title>
+  <heading kind="psalm-title">For the Chief Musician. By the sons of Korah. According to Alamoth.<noteref ref="PSA.46.FN1"/></heading>
+  <verse number="1" id="PSA.46.1">God is our refuge and strength, a very present help in trouble.</verse>
+  <verse number="2" id="PSA.46.2">Therefore we won’t be afraid, though the earth changes, though the mountains are shaken into the heart of the seas;</verse>
+  <verse number="3" id="PSA.46.3">though its waters roar and are troubled, though the mountains tremble with their swelling. Selah.</verse>
+  <verse number="4" id="PSA.46.4">There is a river, the streams of which make the city of God glad, the holy place of the tents of the Most High.</verse>
+  <verse number="5" id="PSA.46.5">God is within her. She shall not be moved. God will help her at dawn.</verse>
+  <verse number="6" id="PSA.46.6">The nations raged. The kingdoms were moved. He lifted his voice and the earth melted.</verse>
+  <verse number="7" id="PSA.46.7">Yahweh of Armies is with us. The God of Jacob is our refuge. Selah.</verse>
+  <verse number="8" id="PSA.46.8">Come, see Yahweh’s works, what desolations he has made on the earth.</verse>
+  <verse number="9" id="PSA.46.9">He makes wars cease to the end of the earth. He breaks the bow, and shatters the spear. He burns the chariots in the fire.</verse>
+  <verse number="10" id="PSA.46.10">“Be still, and know that I am God. I will be exalted among the nations. I will be exalted on the earth.”</verse>
+  <verse number="11" id="PSA.46.11">Yahweh of Armies is with us. The God of Jacob is our refuge. Selah.</verse>
+  <notes>
+    <note id="PSA.46.FN1" source-id="FN1" type="footnote" marker="†" verse="1">Alamoth is a musical term.</note>
+  </notes>
+</chapter>

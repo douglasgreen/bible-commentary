@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="ROM" name="Romans" testament="nt" number="12" id="ROM.12">
+  <title>Romans 12</title>
+  <verse number="1" id="ROM.12.1">Therefore I urge you, brothers, by the mercies of God, to present your bodies a living sacrifice, holy, acceptable to God, which is your spiritual service.</verse>
+  <verse number="2" id="ROM.12.2">Don’t be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what is the good, well-pleasing, and perfect will of God.</verse>
+  <verse number="3" id="ROM.12.3">For I say through the grace that was given me, to everyone who is among you, not to think of yourself more highly than you ought to think; but to think reasonably, as God has apportioned to each person a measure of faith.</verse>
+  <verse number="4" id="ROM.12.4">For even as we have many members in one body, and all the members don’t have the same function,</verse>
+  <verse number="5" id="ROM.12.5">so we, who are many, are one body in Christ, and individually members of one another,</verse>
+  <verse number="6" id="ROM.12.6">having gifts differing according to the grace that was given to us: if prophecy, let’s prophesy according to the proportion of our faith;</verse>
+  <verse number="7" id="ROM.12.7">or service, let’s give ourselves to service; or he who teaches, to his teaching;</verse>
+  <verse number="8" id="ROM.12.8">or he who exhorts, to his exhorting; he who gives, let him do it with generosity; he who rules, with diligence; he who shows mercy, with cheerfulness.</verse>
+  <verse number="9" id="ROM.12.9">Let love be without hypocrisy. Abhor that which is evil. Cling to that which is good.</verse>
+  <verse number="10" id="ROM.12.10">In love of the brothers be tenderly affectionate to one another; in honor prefer one another,</verse>
+  <verse number="11" id="ROM.12.11">not lagging in diligence, fervent in spirit, serving the Lord,</verse>
+  <verse number="12" id="ROM.12.12">rejoicing in hope, enduring in troubles, continuing steadfastly in prayer,</verse>
+  <verse number="13" id="ROM.12.13">contributing to the needs of the saints, and given to hospitality.</verse>
+  <verse number="14" id="ROM.12.14">Bless those who persecute you; bless, and don’t curse.</verse>
+  <verse number="15" id="ROM.12.15">Rejoice with those who rejoice. Weep with those who weep.</verse>
+  <verse number="16" id="ROM.12.16">Be of the same mind one toward another. Don’t set your mind on high things, but associate with the humble. Don’t be wise in your own conceits.</verse>
+  <verse number="17" id="ROM.12.17">Repay no one evil for evil. Respect what is honorable in the sight of all men.</verse>
+  <verse number="18" id="ROM.12.18">If it is possible, as much as it is up to you, be at peace with all men.</verse>
+  <verse number="19" id="ROM.12.19">Don’t seek revenge yourselves, beloved, but give place to God’s wrath. For it is written, “Vengeance belongs to me; I will repay, says the Lord.”<noteref ref="ROM.12.FN1"/></verse>
+  <verse number="20" id="ROM.12.20">Therefore “If your enemy is hungry, feed him. If he is thirsty, give him a drink; for in doing so, you will heap coals of fire on his head.”<noteref ref="ROM.12.FN2"/></verse>
+  <verse number="21" id="ROM.12.21">Don’t be overcome by evil, but overcome evil with good.</verse>
+  <notes>
+    <note id="ROM.12.FN1" source-id="FN1" type="cross-reference" marker="*" verse="19"><ref book="DEU" chapter="32" verse="35">Deuteronomy 32:35</ref></note>
+    <note id="ROM.12.FN2" source-id="FN2" type="cross-reference" marker="*" verse="20"><ref book="PRO" chapter="25" verse="21">Proverbs 25:21-22</ref></note>
+  </notes>
+</chapter>

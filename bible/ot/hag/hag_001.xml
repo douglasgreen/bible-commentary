@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="HAG" name="Haggai" testament="ot" number="1" id="HAG.1">
+  <title>Haggai 1</title>
+  <heading kind="book-title">The Book of</heading>
+  <heading kind="book-title">Haggai</heading>
+  <verse number="1" id="HAG.1.1">In the second year of Darius the king, in the sixth month, in the first day of the month, Yahweh’s<noteref ref="HAG.1.FN1"/> word came by Haggai the prophet, to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, saying,</verse>
+  <verse number="2" id="HAG.1.2">“This is what Yahweh of Armies says: These people say, ‘The time hasn’t yet come, the time for Yahweh’s house to be built.’ ”</verse>
+  <verse number="3" id="HAG.1.3">Then Yahweh’s word came by Haggai the prophet, saying,</verse>
+  <verse number="4" id="HAG.1.4">“Is it a time for you yourselves to dwell in your paneled houses, while this house lies waste?</verse>
+  <verse number="5" id="HAG.1.5">Now therefore this is what Yahweh of Armies says: ‘Consider your ways.</verse>
+  <verse number="6" id="HAG.1.6">You have sown much, and bring in little. You eat, but you don’t have enough. You drink, but you aren’t filled with drink. You clothe yourselves, but no one is warm; and he who earns wages earns wages to put them into a bag with holes in it.’</verse>
+  <verse number="7" id="HAG.1.7">“This is what Yahweh of Armies says: ‘Consider your ways.</verse>
+  <verse number="8" id="HAG.1.8">Go up to the mountain, bring wood, and build the house. I will take pleasure in it, and I will be glorified,” says Yahweh.</verse>
+  <verse number="9" id="HAG.1.9">“You looked for much, and, behold,<noteref ref="HAG.1.FN2"/> it came to little; and when you brought it home, I blew it away. Why?” says Yahweh of Armies, “Because of my house that lies waste, while each of you is busy with his own house.</verse>
+  <verse number="10" id="HAG.1.10">Therefore for your sake the heavens withhold the dew, and the earth withholds its fruit.</verse>
+  <verse number="11" id="HAG.1.11">I called for a drought on the land, on the mountains, on the grain, on the new wine, on the oil, on that which the ground produces, on men, on livestock, and on all the labor of the hands.”</verse>
+  <verse number="12" id="HAG.1.12">Then Zerubbabel the son of Shealtiel and Joshua the son of Jehozadak, the high priest, with all the remnant of the people, obeyed Yahweh their God’s<noteref ref="HAG.1.FN3"/> voice, and the words of Haggai the prophet, as Yahweh their God had sent him; and the people feared Yahweh.</verse>
+  <verse number="13" id="HAG.1.13">Then Haggai, Yahweh’s messenger, spoke Yahweh’s message to the people, saying, “I am with you,” says Yahweh.</verse>
+  <verse number="14" id="HAG.1.14">Yahweh stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Jehozadak, the high priest, and the spirit of all the remnant of the people; and they came and worked on the house of Yahweh of Armies, their God,</verse>
+  <verse number="15" id="HAG.1.15">in the twenty-fourth day of the month, in the sixth month, in the second year of Darius the king.</verse>
+  <notes>
+    <note id="HAG.1.FN1" source-id="FN1" type="footnote" marker="†" verse="1">“Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.</note>
+    <note id="HAG.1.FN2" source-id="FN2" type="footnote" marker="‡" verse="9">“Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.</note>
+    <note id="HAG.1.FN3" source-id="FN3" type="footnote" marker="§" verse="12">The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).</note>
+  </notes>
+</chapter>

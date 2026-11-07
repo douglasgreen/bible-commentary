@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="REV" name="Revelation" testament="nt" number="1" id="REV.1">
+  <title>Revelation 1</title>
+  <heading kind="book-title">The Revelation to John</heading>
+  <verse number="1" id="REV.1.1">This is the Revelation of Jesus Christ,<noteref ref="REV.1.FN1"/> which God gave him to show to his servants the things which must happen soon, which he sent and made known by his angel<noteref ref="REV.1.FN2"/> to his servant, John,</verse>
+  <verse number="2" id="REV.1.2">who testified to God’s word and of the testimony of Jesus Christ, about everything that he saw.</verse>
+  <verse number="3" id="REV.1.3">Blessed is he who reads and those who hear the words of the prophecy, and keep the things that are written in it, for the time is near.</verse>
+  <verse number="4" id="REV.1.4">John, to the seven assemblies that are in Asia: Grace to you and peace from God, who is and who was and who is to come; and from the seven Spirits who are before his throne;</verse>
+  <verse number="5" id="REV.1.5">and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. To him who loves us, and washed us from our sins by his blood—</verse>
+  <verse number="6" id="REV.1.6">and he made us to be a Kingdom, priests<noteref ref="REV.1.FN3"/> to his God and Father—to him be the glory and the dominion forever and ever. Amen.</verse>
+  <verse number="7" id="REV.1.7">Behold,<noteref ref="REV.1.FN4"/> he is coming with the clouds, and every eye will see him, including those who pierced him. All the tribes of the earth will mourn over him. Even so, Amen.</verse>
+  <verse number="8" id="REV.1.8"><wj>“I am the Alpha and the Omega,</wj><noteref ref="REV.1.FN5"/><wj>”</wj> says the Lord God,<noteref ref="REV.1.FN6"/> <wj>“who is and who was and who is to come, the Almighty.”</wj></verse>
+  <verse number="9" id="REV.1.9">I John, your brother and partner with you in the oppression, Kingdom, and perseverance in Christ Jesus, was on the isle that is called Patmos because of God’s Word and the testimony of Jesus Christ.</verse>
+  <verse number="10" id="REV.1.10">I was in the Spirit on the Lord’s day, and I heard behind me a loud voice, like a trumpet</verse>
+  <verse number="11" id="REV.1.11">saying,<noteref ref="REV.1.FN7"/> <wj>“What you see, write in a book and send to the seven assemblies:</wj><noteref ref="REV.1.FN8"/> <wj>to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and to Laodicea.”</wj></verse>
+  <verse number="12" id="REV.1.12">I turned to see the voice that spoke with me. Having turned, I saw seven golden lamp stands.</verse>
+  <verse number="13" id="REV.1.13">And among the lamp stands was one like a son of man,<noteref ref="REV.1.FN9"/> clothed with a robe reaching down to his feet, and with a golden sash around his chest.</verse>
+  <verse number="14" id="REV.1.14">His head and his hair were white as white wool, like snow. His eyes were like a flame of fire.</verse>
+  <verse number="15" id="REV.1.15">His feet were like burnished brass, as if it had been refined in a furnace. His voice was like the voice of many waters.</verse>
+  <verse number="16" id="REV.1.16">He had seven stars in his right hand. Out of his mouth proceeded a sharp two-edged sword. His face was like the sun shining at its brightest.</verse>
+  <verse number="17" id="REV.1.17">When I saw him, I fell at his feet like a dead man. He laid his right hand on me, saying, <wj>“Don’t be afraid. I am the first and the last, </wj></verse>
+  <verse number="18" id="REV.1.18"><wj>and the Living one. I was dead, and behold, I am alive forever and ever. Amen. I have the keys of Death and of Hades.</wj><noteref ref="REV.1.FN10"/></verse>
+  <verse number="19" id="REV.1.19"><wj>Write therefore the things which you have seen, and the things which are, and the things which will happen hereafter. </wj></verse>
+  <verse number="20" id="REV.1.20"><wj>The mystery of the seven stars which you saw in my right hand, and the seven golden lamp stands is this: The seven stars are the angels</wj><noteref ref="REV.1.FN11"/> <wj>of the seven assemblies. The seven lamp stands are seven assemblies.</wj></verse>
+  <notes>
+    <note id="REV.1.FN1" source-id="FN1" type="footnote" marker="†" verse="1">“Christ” means “Anointed One”.</note>
+    <note id="REV.1.FN2" source-id="FN2" type="footnote" marker="‡" verse="1">or, messenger (here and wherever angel is mentioned)</note>
+    <note id="REV.1.FN3" source-id="FN3" type="cross-reference" marker="*" verse="6"><ref book="EXO" chapter="19" verse="6">Exodus 19:6</ref>; <ref book="ISA" chapter="61" verse="6">Isaiah 61:6</ref></note>
+    <note id="REV.1.FN4" source-id="FN4" type="footnote" marker="§" verse="7">“Behold”, from “ἰδοὺ”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.</note>
+    <note id="REV.1.FN5" source-id="FN5" type="footnote" marker="†" verse="8">TR adds “the Beginning and the End”</note>
+    <note id="REV.1.FN6" source-id="FN6" type="footnote" marker="‡" verse="8">TR omits “God”</note>
+    <note id="REV.1.FN7" source-id="FN7" type="footnote" marker="§" verse="11">TR adds “I am the Alpha and the Omega, the First and the Last.”</note>
+    <note id="REV.1.FN8" source-id="FN8" type="footnote" marker="†" verse="11">TR adds “which are in Asia”</note>
+    <note id="REV.1.FN9" source-id="FN9" type="cross-reference" marker="*" verse="13"><ref book="DAN" chapter="7" verse="13">Daniel 7:13</ref></note>
+    <note id="REV.1.FN10" source-id="FN10" type="footnote" marker="‡" verse="18">or, Hell</note>
+    <note id="REV.1.FN11" source-id="FN11" type="footnote" marker="§" verse="20">or, messengers (here and wherever angels are mentioned)</note>
+  </notes>
+</chapter>

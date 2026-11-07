@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="SIR" name="Sirach" testament="deut" number="26" id="SIR.26">
+  <title>Sirach 26</title>
+  <verse number="1" id="SIR.26.1">Happy is the husband of a good wife. The number of his days will be doubled.</verse>
+  <verse number="2" id="SIR.26.2">A faithful wife gives joy to her husband. He will fulfill his years in peace.</verse>
+  <verse number="3" id="SIR.26.3">A good wife is a great gift. She will be given to those who fear the Lord.</verse>
+  <verse number="4" id="SIR.26.4">Whether a man is rich or poor, a good heart makes a cheerful face at all times.</verse>
+  <verse number="5" id="SIR.26.5">Of three things my heart was afraid, and concerning the fourth<noteref ref="SIR.26.FN1"/> kind I made supplication: The slander of a city, the assembly of a mob, and a false accusation. All these are more grievous than death.</verse>
+  <verse number="6" id="SIR.26.6">A grief of heart and sorrow is a woman who is jealous of another woman. Her tongue-lashing makes it known to all.</verse>
+  <verse number="7" id="SIR.26.7">A wicked woman is like a chafing yoke. He who takes hold of her is like one who grasps a scorpion.</verse>
+  <verse number="8" id="SIR.26.8">A drunken woman causes great wrath. She will not cover her own shame.</verse>
+  <verse number="9" id="SIR.26.9">The fornication of a woman is in the lifting up of her eyes; it will be known by her eyelids.</verse>
+  <verse number="10" id="SIR.26.10">Keep strict watch on a headstrong daughter, lest she find liberty for herself, and use it.</verse>
+  <verse number="11" id="SIR.26.11">Watch out for an impudent eye, and don’t be surprised if it sins against you.</verse>
+  <verse number="12" id="SIR.26.12">She will open her mouth like a thirsty traveller, and drink from every water that is near. She will sit down at every post, and open her quiver to any arrow.</verse>
+  <verse number="13" id="SIR.26.13">The grace of a wife will delight her husband. Her knowledge will strengthen<noteref ref="SIR.26.FN2"/> his bones.</verse>
+  <verse number="14" id="SIR.26.14">A silent woman is a gift of the Lord. There is nothing worth so much as a well-instructed soul.</verse>
+  <verse number="15" id="SIR.26.15">A modest woman is grace upon grace. There are no scales that can weigh the value of a self-controlled soul.</verse>
+  <verse number="16" id="SIR.26.16">As the sun when it arises in the highest places of the Lord, so is the beauty of a good wife in her well-organized home.</verse>
+  <verse number="17" id="SIR.26.17">As the lamp that shines upon the holy lampstand, so is the beauty of the face on a well-proportioned body.</verse>
+  <verse number="18" id="SIR.26.18">As the golden pillars are upon a base of silver, so are beautiful feet with the breasts of one who is steadfast.</verse>
+  <verse number="19" id="SIR.26.19" omitted="true"><noteref ref="SIR.26.FN3"/></verse>
+  <verse number="28" id="SIR.26.28">For two things my heart is grieved, and for the third anger comes upon me: a warrior who suffers for poverty, men of understanding who are counted as garbage, and one who turns back from righteousness to sin— the Lord will prepare him for the sword!</verse>
+  <verse number="29" id="SIR.26.29">It is difficult for a merchant to keep himself from wrong doing, and for a retailer to be acquitted of sin.</verse>
+  <notes>
+    <note id="SIR.26.FN1" source-id="FN1" type="footnote" marker="†" verse="5">Gr. <alternative>countenance. </alternative></note>
+    <note id="SIR.26.FN2" source-id="FN2" type="footnote" marker="‡" verse="13">or, fatten</note>
+    <note id="SIR.26.FN3" source-id="FN3" type="footnote" marker="§" verse="19">Verses 19-27 are omitted by the best authorities.</note>
+  </notes>
+</chapter>

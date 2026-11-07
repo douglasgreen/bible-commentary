@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="HEB" name="Hebrews" testament="nt" number="1" id="HEB.1">
+  <title>Hebrews 1</title>
+  <heading kind="book-title">The Letter to the Hebrews</heading>
+  <verse number="1" id="HEB.1.1">God, having in the past spoken to the fathers through the prophets at many times and in various ways,</verse>
+  <verse number="2" id="HEB.1.2">has at the end of these days spoken to us by his Son, whom he appointed heir of all things, through whom also he made the worlds.</verse>
+  <verse number="3" id="HEB.1.3">His Son is the radiance of his glory, the very image of his substance, and upholding all things by the word of his power, who, when he had by himself purified us of our sins, sat down on the right hand of the Majesty on high,</verse>
+  <verse number="4" id="HEB.1.4">having become as much better than the angels as the more excellent name he has inherited is better than theirs.</verse>
+  <verse number="5" id="HEB.1.5">For to which of the angels did he say at any time, “You are my Son. Today I have become your father?”<noteref ref="HEB.1.FN1"/> and again, “I will be to him a Father, and he will be to me a Son?”<noteref ref="HEB.1.FN2"/></verse>
+  <verse number="6" id="HEB.1.6">When he again brings in the firstborn into the world he says, “Let all the angels of God worship him.”<noteref ref="HEB.1.FN3"/></verse>
+  <verse number="7" id="HEB.1.7">Of the angels he says, “He makes his angels winds, and his servants a flame of fire.”<noteref ref="HEB.1.FN4"/></verse>
+  <verse number="8" id="HEB.1.8">But of the Son he says, “Your throne, O God, is forever and ever. The scepter of uprightness is the scepter of your Kingdom.</verse>
+  <verse number="9" id="HEB.1.9">You have loved righteousness and hated iniquity; therefore God, your God, has anointed you with the oil of gladness above your fellows.”<noteref ref="HEB.1.FN5"/></verse>
+  <verse number="10" id="HEB.1.10">And, “You, Lord, in the beginning, laid the foundation of the earth. The heavens are the works of your hands.</verse>
+  <verse number="11" id="HEB.1.11">They will perish, but you continue. They all will grow old like a garment does.</verse>
+  <verse number="12" id="HEB.1.12">You will roll them up like a mantle, and they will be changed; but you are the same. Your years won’t fail.”<noteref ref="HEB.1.FN6"/></verse>
+  <verse number="13" id="HEB.1.13">But which of the angels has he told at any time, “Sit at my right hand, until I make your enemies the footstool of your feet?”<noteref ref="HEB.1.FN7"/></verse>
+  <verse number="14" id="HEB.1.14">Aren’t they all serving spirits, sent out to do service for the sake of those who will inherit salvation?</verse>
+  <notes>
+    <note id="HEB.1.FN1" source-id="FN1" type="cross-reference" marker="*" verse="5"><ref book="PSA" chapter="2" verse="7">Psalms 2:7</ref></note>
+    <note id="HEB.1.FN2" source-id="FN2" type="cross-reference" marker="*" verse="5"><ref book="2SA" chapter="7" verse="14">2 Samuel 7:14</ref>; <ref book="1CH" chapter="17" verse="13">1 Chronicles 17:13</ref></note>
+    <note id="HEB.1.FN3" source-id="FN3" type="cross-reference" marker="*" verse="6"><ref book="DEU" chapter="32" verse="43">Deuteronomy 32:43</ref> LXX</note>
+    <note id="HEB.1.FN4" source-id="FN4" type="cross-reference" marker="*" verse="7"><ref book="PSA" chapter="104" verse="4">Psalms 104:4</ref></note>
+    <note id="HEB.1.FN5" source-id="FN5" type="cross-reference" marker="*" verse="9"><ref book="PSA" chapter="45" verse="6">Psalms 45:6-7</ref></note>
+    <note id="HEB.1.FN6" source-id="FN6" type="cross-reference" marker="*" verse="12"><ref book="PSA" chapter="102" verse="25">Psalms 102:25-27</ref></note>
+    <note id="HEB.1.FN7" source-id="FN7" type="cross-reference" marker="*" verse="13"><ref book="PSA" chapter="110" verse="1">Psalms 110:1</ref></note>
+  </notes>
+</chapter>

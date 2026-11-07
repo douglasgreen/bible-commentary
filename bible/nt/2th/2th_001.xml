@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="2TH" name="2 Thessalonians" testament="nt" number="1" id="2TH.1">
+  <title>2 Thessalonians 1</title>
+  <heading kind="book-title">Paul’s Second Letter to the Thessalonians</heading>
+  <verse number="1" id="2TH.1.1">Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God our Father and the Lord Jesus Christ:</verse>
+  <verse number="2" id="2TH.1.2">Grace to you and peace from God our Father and the Lord Jesus Christ.</verse>
+  <verse number="3" id="2TH.1.3">We are bound to always give thanks to God for you, brothers,<noteref ref="2TH.1.FN1"/> even as it is appropriate, because your faith grows exceedingly, and the love of each and every one of you toward one another abounds,</verse>
+  <verse number="4" id="2TH.1.4">so that we ourselves boast about you in the assemblies of God for your perseverance and faith in all your persecutions and in the afflictions which you endure.</verse>
+  <verse number="5" id="2TH.1.5">This is an obvious sign of the righteous judgment of God, to the end that you may be counted worthy of God’s Kingdom, for which you also suffer.</verse>
+  <verse number="6" id="2TH.1.6">For it is a righteous thing with God to repay affliction to those who afflict you,</verse>
+  <verse number="7" id="2TH.1.7">and to give relief to you who are afflicted with us when the Lord Jesus is revealed from heaven with his mighty angels in flaming fire,</verse>
+  <verse number="8" id="2TH.1.8">punishing those who don’t know God, and to those who don’t obey the Good News of our Lord Jesus,</verse>
+  <verse number="9" id="2TH.1.9">who will pay the penalty: eternal destruction from the face of the Lord and from the glory of his might,</verse>
+  <verse number="10" id="2TH.1.10">when he comes in that day to be glorified in his saints and to be admired among all those who have believed, because our testimony to you was believed.</verse>
+  <verse number="11" id="2TH.1.11">To this end we also pray always for you that our God may count you worthy of your calling, and fulfill every desire of goodness and work of faith with power,</verse>
+  <verse number="12" id="2TH.1.12">that the name of our Lord Jesus<noteref ref="2TH.1.FN2"/> may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.</verse>
+  <notes>
+    <note id="2TH.1.FN1" source-id="FN1" type="footnote" marker="†" verse="3">The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”</note>
+    <note id="2TH.1.FN2" source-id="FN2" type="footnote" marker="‡" verse="12">TR adds “Christ”</note>
+  </notes>
+</chapter>

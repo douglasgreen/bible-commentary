@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="2CO" name="2 Corinthians" testament="nt" number="1" id="2CO.1">
+  <title>2 Corinthians 1</title>
+  <heading kind="book-title">Paul’s Second Letter to the Corinthians</heading>
+  <verse number="1" id="2CO.1.1">Paul, an apostle of Christ<noteref ref="2CO.1.FN1"/> Jesus through the will of God, and Timothy our brother, to the assembly of God which is at Corinth, with all the saints who are in the whole of Achaia:</verse>
+  <verse number="2" id="2CO.1.2">Grace to you and peace from God our Father and the Lord Jesus Christ.</verse>
+  <verse number="3" id="2CO.1.3">Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort,</verse>
+  <verse number="4" id="2CO.1.4">who comforts us in all our affliction, that we may be able to comfort those who are in any affliction, through the comfort with which we ourselves are comforted by God.</verse>
+  <verse number="5" id="2CO.1.5">For as the sufferings of Christ abound to us, even so our comfort also abounds through Christ.</verse>
+  <verse number="6" id="2CO.1.6">But if we are afflicted, it is for your comfort and salvation. If we are comforted, it is for your comfort, which produces in you the patient enduring of the same sufferings which we also suffer.</verse>
+  <verse number="7" id="2CO.1.7">Our hope for you is steadfast, knowing that, since you are partakers of the sufferings, so you are also of the comfort.</verse>
+  <verse number="8" id="2CO.1.8">For we don’t desire to have you uninformed, brothers,<noteref ref="2CO.1.FN2"/> concerning our affliction which happened to us in Asia: that we were weighed down exceedingly, beyond our power, so much that we despaired even of life.</verse>
+  <verse number="9" id="2CO.1.9">Yes, we ourselves have had the sentence of death within ourselves, that we should not trust in ourselves, but in God who raises the dead,</verse>
+  <verse number="10" id="2CO.1.10">who delivered us out of so great a death, and does deliver, on whom we have set our hope that he will also still deliver us,</verse>
+  <verse number="11" id="2CO.1.11">you also helping together on our behalf by your supplication; that, for the gift given to us by means of many, thanks may be given by many persons on your<noteref ref="2CO.1.FN3"/> behalf.</verse>
+  <verse number="12" id="2CO.1.12">For our boasting is this: the testimony of our conscience that in holiness and sincerity of God, not in fleshly wisdom but in the grace of God, we behaved ourselves in the world, and more abundantly toward you.</verse>
+  <verse number="13" id="2CO.1.13">For we write no other things to you than what you read or even acknowledge, and I hope you will acknowledge to the end—</verse>
+  <verse number="14" id="2CO.1.14">as also you acknowledged us in part—that we are your boasting, even as you also are ours, in the day of our Lord Jesus.</verse>
+  <verse number="15" id="2CO.1.15">In this confidence, I was determined to come first to you, that you might have a second benefit,</verse>
+  <verse number="16" id="2CO.1.16">and by you to pass into Macedonia, and again from Macedonia to come to you, and to be sent forward by you on my journey to Judea.</verse>
+  <verse number="17" id="2CO.1.17">When I therefore planned this, did I show fickleness? Or the things that I plan, do I plan according to the flesh, that with me there should be the “Yes, yes” and the “No, no?”</verse>
+  <verse number="18" id="2CO.1.18">But as God is faithful, our word toward you was not “Yes and no.”</verse>
+  <verse number="19" id="2CO.1.19">For the Son of God, Jesus Christ, who was preached among you by us—by me, Silvanus, and Timothy—was not “Yes and no,” but in him is “Yes.”</verse>
+  <verse number="20" id="2CO.1.20">For however many are the promises of God, in him is the “Yes.” Therefore also through him is the “Amen”, to the glory of God through us.</verse>
+  <verse number="21" id="2CO.1.21">Now he who establishes us with you in Christ and anointed us is God,</verse>
+  <verse number="22" id="2CO.1.22">who also sealed us and gave us the down payment of the Spirit in our hearts.</verse>
+  <verse number="23" id="2CO.1.23">But I call God for a witness to my soul, that to spare you, I didn’t come to Corinth.</verse>
+  <verse number="24" id="2CO.1.24">We don’t control your faith, but are fellow workers with you for your joy. For you stand firm in faith.</verse>
+  <notes>
+    <note id="2CO.1.FN1" source-id="FN1" type="footnote" marker="†" verse="1">“Christ” means “Anointed One”.</note>
+    <note id="2CO.1.FN2" source-id="FN2" type="footnote" marker="‡" verse="8">The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”</note>
+    <note id="2CO.1.FN3" source-id="FN3" type="footnote" marker="§" verse="11">+ MT: your; TR and NU: our</note>
+  </notes>
+</chapter>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="GEN" name="Genesis" testament="ot" number="2" id="GEN.2">
+  <title>Genesis 2</title>
+  <verse number="1" id="GEN.2.1">The heavens, the earth, and all their vast array were finished.</verse>
+  <verse number="2" id="GEN.2.2">On the seventh day God finished his work which he had done; and he rested on the seventh day from all his work which he had done.</verse>
+  <verse number="3" id="GEN.2.3">God blessed the seventh day, and made it holy, because he rested in it from all his work of creation which he had done.</verse>
+  <verse number="4" id="GEN.2.4">This is the history of the generations of the heavens and of the earth when they were created, in the day that Yahweh<noteref ref="GEN.2.FN1"/> God made the earth and the heavens.</verse>
+  <verse number="5" id="GEN.2.5">No plant of the field was yet in the earth, and no herb of the field had yet sprung up; for Yahweh God had not caused it to rain on the earth. There was not a man to till the ground,</verse>
+  <verse number="6" id="GEN.2.6">but a mist went up from the earth, and watered the whole surface of the ground.</verse>
+  <verse number="7" id="GEN.2.7">Yahweh God formed man from the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.</verse>
+  <verse number="8" id="GEN.2.8">Yahweh God planted a garden eastward, in Eden, and there he put the man whom he had formed.</verse>
+  <verse number="9" id="GEN.2.9">Out of the ground Yahweh God made every tree to grow that is pleasant to the sight, and good for food, including the tree of life in the middle of the garden and the tree of the knowledge of good and evil.</verse>
+  <verse number="10" id="GEN.2.10">A river went out of Eden to water the garden; and from there it was parted, and became the source of four rivers.</verse>
+  <verse number="11" id="GEN.2.11">The name of the first is Pishon: it flows through the whole land of Havilah, where there is gold;</verse>
+  <verse number="12" id="GEN.2.12">and the gold of that land is good. Bdellium<noteref ref="GEN.2.FN2"/> and onyx stone are also there.</verse>
+  <verse number="13" id="GEN.2.13">The name of the second river is Gihon. It is the same river that flows through the whole land of Cush.</verse>
+  <verse number="14" id="GEN.2.14">The name of the third river is Hiddekel. This is the one which flows in front of Assyria. The fourth river is the Euphrates.</verse>
+  <verse number="15" id="GEN.2.15">Yahweh God took the man, and put him into the garden of Eden to cultivate and keep it.</verse>
+  <verse number="16" id="GEN.2.16">Yahweh God commanded the man, saying, “You may freely eat of every tree of the garden;</verse>
+  <verse number="17" id="GEN.2.17">but you shall not eat of the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”</verse>
+  <verse number="18" id="GEN.2.18">Yahweh God said, “It is not good for the man to be alone. I will make him a helper comparable to<noteref ref="GEN.2.FN3"/> him.”</verse>
+  <verse number="19" id="GEN.2.19">Out of the ground Yahweh God formed every animal of the field, and every bird of the sky, and brought them to the man to see what he would call them. Whatever the man called every living creature became its name.</verse>
+  <verse number="20" id="GEN.2.20">The man gave names to all livestock, and to the birds of the sky, and to every animal of the field; but for man there was not found a helper comparable to him.</verse>
+  <verse number="21" id="GEN.2.21">Yahweh God caused the man to fall into a deep sleep. As the man slept, he took one of his ribs, and closed up the flesh in its place.</verse>
+  <verse number="22" id="GEN.2.22">Yahweh God made a woman from the rib which he had taken from the man, and brought her to the man.</verse>
+  <verse number="23" id="GEN.2.23">The man said, “This is now bone of my bones, and flesh of my flesh. She will be called ‘woman,’ because she was taken out of Man.”</verse>
+  <verse number="24" id="GEN.2.24">Therefore a man will leave his father and his mother, and will join with his wife, and they will be one flesh.</verse>
+  <verse number="25" id="GEN.2.25">The man and his wife were both naked, and they were not ashamed.</verse>
+  <notes>
+    <note id="GEN.2.FN1" source-id="FN1" type="footnote" marker="†" verse="4">“Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.</note>
+    <note id="GEN.2.FN2" source-id="FN2" type="footnote" marker="‡" verse="12">or, aromatic resin</note>
+    <note id="GEN.2.FN3" source-id="FN3" type="footnote" marker="§" verse="18">or, suitable for, or appropriate for.</note>
+  </notes>
+</chapter>

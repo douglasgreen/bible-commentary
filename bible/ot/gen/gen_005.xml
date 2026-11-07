@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="GEN" name="Genesis" testament="ot" number="5" id="GEN.5">
+  <title>Genesis 5</title>
+  <verse number="1" id="GEN.5.1">This is the book of the generations of Adam. In the day that God created man, he made him in God’s likeness.</verse>
+  <verse number="2" id="GEN.5.2">He created them male and female, and blessed them. On the day they were created, he named them Adam.<noteref ref="GEN.5.FN1"/></verse>
+  <verse number="3" id="GEN.5.3">Adam lived one hundred thirty years, and became the father of a son in his own likeness, after his image, and named him Seth.</verse>
+  <verse number="4" id="GEN.5.4">The days of Adam after he became the father of Seth were eight hundred years, and he became the father of other sons and daughters.</verse>
+  <verse number="5" id="GEN.5.5">All the days that Adam lived were nine hundred thirty years, then he died.</verse>
+  <verse number="6" id="GEN.5.6">Seth lived one hundred five years, then became the father of Enosh.</verse>
+  <verse number="7" id="GEN.5.7">Seth lived after he became the father of Enosh eight hundred seven years, and became the father of other sons and daughters.</verse>
+  <verse number="8" id="GEN.5.8">All of the days of Seth were nine hundred twelve years, then he died.</verse>
+  <verse number="9" id="GEN.5.9">Enosh lived ninety years, and became the father of Kenan.</verse>
+  <verse number="10" id="GEN.5.10">Enosh lived after he became the father of Kenan eight hundred fifteen years, and became the father of other sons and daughters.</verse>
+  <verse number="11" id="GEN.5.11">All of the days of Enosh were nine hundred five years, then he died.</verse>
+  <verse number="12" id="GEN.5.12">Kenan lived seventy years, then became the father of Mahalalel.</verse>
+  <verse number="13" id="GEN.5.13">Kenan lived after he became the father of Mahalalel eight hundred forty years, and became the father of other sons and daughters</verse>
+  <verse number="14" id="GEN.5.14">and all of the days of Kenan were nine hundred ten years, then he died.</verse>
+  <verse number="15" id="GEN.5.15">Mahalalel lived sixty-five years, then became the father of Jared.</verse>
+  <verse number="16" id="GEN.5.16">Mahalalel lived after he became the father of Jared eight hundred thirty years, and became the father of other sons and daughters.</verse>
+  <verse number="17" id="GEN.5.17">All of the days of Mahalalel were eight hundred ninety-five years, then he died.</verse>
+  <verse number="18" id="GEN.5.18">Jared lived one hundred sixty-two years, then became the father of Enoch.</verse>
+  <verse number="19" id="GEN.5.19">Jared lived after he became the father of Enoch eight hundred years, and became the father of other sons and daughters.</verse>
+  <verse number="20" id="GEN.5.20">All of the days of Jared were nine hundred sixty-two years, then he died.</verse>
+  <verse number="21" id="GEN.5.21">Enoch lived sixty-five years, then became the father of Methuselah.</verse>
+  <verse number="22" id="GEN.5.22">After Methuselah’s birth, Enoch walked with God for three hundred years, and became the father of more sons and daughters.</verse>
+  <verse number="23" id="GEN.5.23">All the days of Enoch were three hundred sixty-five years.</verse>
+  <verse number="24" id="GEN.5.24">Enoch walked with God, and he was not found, for God took him.</verse>
+  <verse number="25" id="GEN.5.25">Methuselah lived one hundred eighty-seven years, then became the father of Lamech.</verse>
+  <verse number="26" id="GEN.5.26">Methuselah lived after he became the father of Lamech seven hundred eighty-two years, and became the father of other sons and daughters.</verse>
+  <verse number="27" id="GEN.5.27">All the days of Methuselah were nine hundred sixty-nine years, then he died.</verse>
+  <verse number="28" id="GEN.5.28">Lamech lived one hundred eighty-two years, then became the father of a son.</verse>
+  <verse number="29" id="GEN.5.29">He named him Noah, saying, “This one will comfort us in our work and in the toil of our hands, caused by the ground which Yahweh has cursed.”</verse>
+  <verse number="30" id="GEN.5.30">Lamech lived after he became the father of Noah five hundred ninety-five years, and became the father of other sons and daughters.</verse>
+  <verse number="31" id="GEN.5.31">All the days of Lamech were seven hundred seventy-seven years, then he died.</verse>
+  <verse number="32" id="GEN.5.32">Noah was five hundred years old, then Noah became the father of Shem, Ham, and Japheth.</verse>
+  <notes>
+    <note id="GEN.5.FN1" source-id="FN1" type="footnote" marker="†" verse="2">“Adam” and “Man” are spelled with the exact same consonants in Hebrew, so this can be correctly translated either way.</note>
+  </notes>
+</chapter>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="MAT" name="Matthew" testament="nt" number="7" id="MAT.7">
+  <title>Matthew 7</title>
+  <verse number="1" id="MAT.7.1"><wj>“Don’t judge, so that you won’t be judged. </wj></verse>
+  <verse number="2" id="MAT.7.2"><wj>For with whatever judgment you judge, you will be judged; and with whatever measure you measure, it will be measured to you. </wj></verse>
+  <verse number="3" id="MAT.7.3"><wj>Why do you see the speck that is in your brother’s eye, but don’t consider the beam that is in your own eye? </wj></verse>
+  <verse number="4" id="MAT.7.4"><wj>Or how will you tell your brother, ‘Let me remove the speck from your eye,’ and behold, the beam is in your own eye? </wj></verse>
+  <verse number="5" id="MAT.7.5"><wj>You hypocrite! First remove the beam out of your own eye, and then you can see clearly to remove the speck out of your brother’s eye.</wj></verse>
+  <verse number="6" id="MAT.7.6"><wj>“Don’t give that which is holy to the dogs, neither throw your pearls before the pigs, lest perhaps they trample them under their feet, and turn and tear you to pieces.</wj></verse>
+  <verse number="7" id="MAT.7.7"><wj>“Ask, and it will be given you. Seek, and you will find. Knock, and it will be opened for you. </wj></verse>
+  <verse number="8" id="MAT.7.8"><wj>For everyone who asks receives. He who seeks finds. To him who knocks it will be opened. </wj></verse>
+  <verse number="9" id="MAT.7.9"><wj>Or who is there among you who, if his son asks him for bread, will give him a stone? </wj></verse>
+  <verse number="10" id="MAT.7.10"><wj>Or if he asks for a fish, who will give him a serpent? </wj></verse>
+  <verse number="11" id="MAT.7.11"><wj>If you then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him! </wj></verse>
+  <verse number="12" id="MAT.7.12"><wj>Therefore, whatever you desire for men to do to you, you shall also do to them; for this is the law and the prophets.</wj></verse>
+  <verse number="13" id="MAT.7.13"><wj>“Enter in by the narrow gate; for the gate is wide and the way is broad that leads to destruction, and there are many who enter in by it. </wj></verse>
+  <verse number="14" id="MAT.7.14"><wj>How</wj><noteref ref="MAT.7.FN1"/> <wj>narrow is the gate and the way is restricted that leads to life! There are few who find it.</wj></verse>
+  <verse number="15" id="MAT.7.15"><wj>“Beware of false prophets, who come to you in sheep’s clothing, but inwardly are ravening wolves. </wj></verse>
+  <verse number="16" id="MAT.7.16"><wj>By their fruits you will know them. Do you gather grapes from thorns or figs from thistles? </wj></verse>
+  <verse number="17" id="MAT.7.17"><wj>Even so, every good tree produces good fruit, but the corrupt tree produces evil fruit. </wj></verse>
+  <verse number="18" id="MAT.7.18"><wj>A good tree can’t produce evil fruit, neither can a corrupt tree produce good fruit. </wj></verse>
+  <verse number="19" id="MAT.7.19"><wj>Every tree that doesn’t grow good fruit is cut down and thrown into the fire. </wj></verse>
+  <verse number="20" id="MAT.7.20"><wj>Therefore by their fruits you will know them. </wj></verse>
+  <verse number="21" id="MAT.7.21"><wj>“Not everyone who says to me, ‘Lord, Lord,’ will enter into the Kingdom of Heaven, but he who does the will of my Father who is in heaven. </wj></verse>
+  <verse number="22" id="MAT.7.22"><wj>Many will tell me in that day, ‘Lord, Lord, didn’t we prophesy in your name, in your name cast out demons, and in your name do many mighty works?’ </wj></verse>
+  <verse number="23" id="MAT.7.23"><wj>Then I will tell them, ‘I never knew you. Depart from me, you who work iniquity.’</wj></verse>
+  <verse number="24" id="MAT.7.24"><wj>“Everyone therefore who hears these words of mine and does them, I will liken him to a wise man who built his house on the rock. </wj></verse>
+  <verse number="25" id="MAT.7.25"><wj>The rain came down, the floods came, and the winds blew and beat on that house; and it didn’t fall, for it was founded on the rock. </wj></verse>
+  <verse number="26" id="MAT.7.26"><wj>Everyone who hears these words of mine and doesn’t do them will be like a foolish man who built his house on the sand. </wj></verse>
+  <verse number="27" id="MAT.7.27"><wj>The rain came down, the floods came, and the winds blew and beat on that house; and it fell—and its fall was great.”</wj></verse>
+  <verse number="28" id="MAT.7.28">When Jesus had finished saying these things, the multitudes were astonished at his teaching,</verse>
+  <verse number="29" id="MAT.7.29">for he taught them with authority, and not like the scribes.</verse>
+  <notes>
+    <note id="MAT.7.FN1" source-id="FN1" type="footnote" marker="†" verse="14">TR reads “Because” instead of “How”</note>
+  </notes>
+</chapter>

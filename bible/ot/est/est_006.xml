@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="EST" name="Esther" testament="ot" number="6" id="EST.6">
+  <title>Esther 6</title>
+  <verse number="1" id="EST.6.1">On that night, the king couldn’t sleep. He commanded the book of records of the chronicles to be brought, and they were read to the king.</verse>
+  <verse number="2" id="EST.6.2">It was found written that Mordecai had told of Bigthana and Teresh, two of the king’s eunuchs, who were doorkeepers, who had tried to lay hands on the King Ahasuerus.</verse>
+  <verse number="3" id="EST.6.3">The king said, “What honor and dignity has been given to Mordecai for this?” Then the king’s servants who attended him said, “Nothing has been done for him.”</verse>
+  <verse number="4" id="EST.6.4">The king said, “Who is in the court?” Now Haman had come into the outer court of the king’s house, to speak to the king about hanging Mordecai on the gallows that he had prepared for him.</verse>
+  <verse number="5" id="EST.6.5">The king’s servants said to him, “Behold,<noteref ref="EST.6.FN1"/> Haman stands in the court.” The king said, “Let him come in.”</verse>
+  <verse number="6" id="EST.6.6">So Haman came in. The king said to him, “What shall be done to the man whom the king delights to honor?” Now Haman said in his heart, “Who would the king delight to honor more than myself?”</verse>
+  <verse number="7" id="EST.6.7">Haman said to the king, “For the man whom the king delights to honor,</verse>
+  <verse number="8" id="EST.6.8">let royal clothing be brought which the king uses to wear, and the horse that the king rides on, and on the head of which a royal crown is set.</verse>
+  <verse number="9" id="EST.6.9">Let the clothing and the horse be delivered to the hand of one of the king’s most noble princes, that they may array the man whom the king delights to honor with them, and have him ride on horseback through the city square, and proclaim before him, ‘Thus it shall be done to the man whom the king delights to honor!’ ”</verse>
+  <verse number="10" id="EST.6.10">Then the king said to Haman, “Hurry and take the clothing and the horse, as you have said, and do this for Mordecai the Jew, who sits at the king’s gate. Let nothing fail of all that you have spoken.”</verse>
+  <verse number="11" id="EST.6.11">Then Haman took the clothing and the horse, and arrayed Mordecai, and had him ride through the city square, and proclaimed before him, “Thus it shall be done to the man whom the king delights to honor!”</verse>
+  <verse number="12" id="EST.6.12">Mordecai came back to the king’s gate, but Haman hurried to his house, mourning and having his head covered.</verse>
+  <verse number="13" id="EST.6.13">Haman recounted to Zeresh his wife and all his friends everything that had happened to him. Then his wise men and Zeresh his wife said to him, “If Mordecai, before whom you have begun to fall, is of Jewish descent, you will not prevail against him, but you will surely fall before him.”</verse>
+  <verse number="14" id="EST.6.14">While they were yet talking with him, the king’s eunuchs came, and hurried to bring Haman to the banquet that Esther had prepared.</verse>
+  <notes>
+    <note id="EST.6.FN1" source-id="FN1" type="footnote" marker="†" verse="5">“Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.</note>
+  </notes>
+</chapter>

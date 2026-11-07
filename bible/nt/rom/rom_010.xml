@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="ROM" name="Romans" testament="nt" number="10" id="ROM.10">
+  <title>Romans 10</title>
+  <verse number="1" id="ROM.10.1">Brothers, my heart’s desire and my prayer to God is for Israel, that they may be saved.</verse>
+  <verse number="2" id="ROM.10.2">For I testify about them that they have a zeal for God, but not according to knowledge.</verse>
+  <verse number="3" id="ROM.10.3">For being ignorant of God’s righteousness, and seeking to establish their own righteousness, they didn’t subject themselves to the righteousness of God.</verse>
+  <verse number="4" id="ROM.10.4">For Christ is the fulfillment<noteref ref="ROM.10.FN1"/> of the law for righteousness to everyone who believes.</verse>
+  <verse number="5" id="ROM.10.5">For Moses writes about the righteousness of the law, “The one who does them will live by them.”<noteref ref="ROM.10.FN2"/></verse>
+  <verse number="6" id="ROM.10.6">But the righteousness which is of faith says this, “Don’t say in your heart, ‘Who will ascend into heaven?’<noteref ref="ROM.10.FN3"/> (that is, to bring Christ down);</verse>
+  <verse number="7" id="ROM.10.7">or, ‘Who will descend into the abyss?’<noteref ref="ROM.10.FN4"/> (that is, to bring Christ up from the dead.)”</verse>
+  <verse number="8" id="ROM.10.8">But what does it say? “The word is near you, in your mouth and in your heart;”<noteref ref="ROM.10.FN5"/> that is, the word of faith which we preach:</verse>
+  <verse number="9" id="ROM.10.9">that if you will confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.</verse>
+  <verse number="10" id="ROM.10.10">For with the heart one believes resulting in righteousness; and with the mouth confession is made resulting in salvation.</verse>
+  <verse number="11" id="ROM.10.11">For the Scripture says, “Whoever believes in him will not be disappointed.”<noteref ref="ROM.10.FN6"/></verse>
+  <verse number="12" id="ROM.10.12">For there is no distinction between Jew and Greek; for the same Lord is Lord of all, and is rich to all who call on him.</verse>
+  <verse number="13" id="ROM.10.13">For, “Whoever will call on the name of the Lord will be saved.”<noteref ref="ROM.10.FN7"/></verse>
+  <verse number="14" id="ROM.10.14">How then will they call on him in whom they have not believed? How will they believe in him whom they have not heard? How will they hear without a preacher?</verse>
+  <verse number="15" id="ROM.10.15">And how will they preach unless they are sent? As it is written: “How beautiful are the feet of those who preach the Good News of peace, who bring glad tidings of good things!”<noteref ref="ROM.10.FN8"/></verse>
+  <verse number="16" id="ROM.10.16">But they didn’t all listen to the glad news. For Isaiah says, “Lord, who has believed our report?”<noteref ref="ROM.10.FN9"/></verse>
+  <verse number="17" id="ROM.10.17">So faith comes by hearing, and hearing by the word of God.</verse>
+  <verse number="18" id="ROM.10.18">But I say, didn’t they hear? Yes, most certainly, “Their sound went out into all the earth, their words to the ends of the world.”<noteref ref="ROM.10.FN10"/></verse>
+  <verse number="19" id="ROM.10.19">But I ask, didn’t Israel know? First Moses says, “I will provoke you to jealousy with that which is no nation. I will make you angry with a nation void of understanding.”<noteref ref="ROM.10.FN11"/></verse>
+  <verse number="20" id="ROM.10.20">Isaiah is very bold and says, “I was found by those who didn’t seek me. I was revealed to those who didn’t ask for me.”<noteref ref="ROM.10.FN12"/></verse>
+  <verse number="21" id="ROM.10.21">But about Israel he says, “All day long I stretched out my hands to a disobedient and contrary people.”<noteref ref="ROM.10.FN13"/></verse>
+  <notes>
+    <note id="ROM.10.FN1" source-id="FN1" type="footnote" marker="†" verse="4">or, completion, or end</note>
+    <note id="ROM.10.FN2" source-id="FN2" type="cross-reference" marker="*" verse="5"><ref book="LEV" chapter="18" verse="5">Leviticus 18:5</ref></note>
+    <note id="ROM.10.FN3" source-id="FN3" type="cross-reference" marker="*" verse="6"><ref book="DEU" chapter="30" verse="12">Deuteronomy 30:12</ref></note>
+    <note id="ROM.10.FN4" source-id="FN4" type="cross-reference" marker="*" verse="7"><ref book="DEU" chapter="30" verse="13">Deuteronomy 30:13</ref></note>
+    <note id="ROM.10.FN5" source-id="FN5" type="cross-reference" marker="*" verse="8"><ref book="DEU" chapter="30" verse="14">Deuteronomy 30:14</ref></note>
+    <note id="ROM.10.FN6" source-id="FN6" type="cross-reference" marker="*" verse="11"><ref book="ISA" chapter="28" verse="16">Isaiah 28:16</ref></note>
+    <note id="ROM.10.FN7" source-id="FN7" type="cross-reference" marker="*" verse="13"><ref book="JOL" chapter="2" verse="32">Joel 2:32</ref></note>
+    <note id="ROM.10.FN8" source-id="FN8" type="cross-reference" marker="*" verse="15"><ref book="ISA" chapter="52" verse="7">Isaiah 52:7</ref></note>
+    <note id="ROM.10.FN9" source-id="FN9" type="cross-reference" marker="*" verse="16"><ref book="ISA" chapter="53" verse="1">Isaiah 53:1</ref></note>
+    <note id="ROM.10.FN10" source-id="FN10" type="cross-reference" marker="*" verse="18"><ref book="PSA" chapter="19" verse="4">Psalms 19:4</ref></note>
+    <note id="ROM.10.FN11" source-id="FN11" type="cross-reference" marker="*" verse="19"><ref book="DEU" chapter="32" verse="21">Deuteronomy 32:21</ref></note>
+    <note id="ROM.10.FN12" source-id="FN12" type="cross-reference" marker="*" verse="20"><ref book="ISA" chapter="65" verse="1">Isaiah 65:1</ref></note>
+    <note id="ROM.10.FN13" source-id="FN13" type="cross-reference" marker="*" verse="21"><ref book="ISA" chapter="65" verse="2">Isaiah 65:2</ref></note>
+  </notes>
+</chapter>

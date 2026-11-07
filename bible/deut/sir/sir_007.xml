@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="SIR" name="Sirach" testament="deut" number="7" id="SIR.7">
+  <title>Sirach 7</title>
+  <verse number="1" id="SIR.7.1">Do no evil, so no evil will overtake you.</verse>
+  <verse number="2" id="SIR.7.2">Depart from wrong, and it will turn away from you.</verse>
+  <verse number="3" id="SIR.7.3">My son, don’t sow upon the furrows of unrighteousness, and you won’t reap them sevenfold.</verse>
+  <verse number="4" id="SIR.7.4">Don’t seek preeminence from the Lord, nor the seat of honor from the king.</verse>
+  <verse number="5" id="SIR.7.5">Don’t justify yourself in the presence of the Lord, and don’t display your wisdom before the king.</verse>
+  <verse number="6" id="SIR.7.6">Don’t seek to be a judge, lest you not be able to take away iniquities, lest perhaps you fear the person of a mighty man, and lay a stumbling block in the way of your uprightness.</verse>
+  <verse number="7" id="SIR.7.7">Don’t sin against the multitude of the city. Don’t disgrace yourself in the crowd.</verse>
+  <verse number="8" id="SIR.7.8">Don’t commit a sin twice, for even in one you will not be unpunished.</verse>
+  <verse number="9" id="SIR.7.9">Don’t say, “He will look upon the multitude of my gifts. When I make an offering to the Most High God, he will accept it.”</verse>
+  <verse number="10" id="SIR.7.10">Don’t be faint-hearted in your prayer. Don’t neglect to give alms.</verse>
+  <verse number="11" id="SIR.7.11">Don’t laugh a man to scorn when he is in the bitterness of his soul, for there is one who humbles and exalts.</verse>
+  <verse number="12" id="SIR.7.12">Don’t devise<noteref ref="SIR.7.FN1"/> a lie against your brother, or do the same to a friend.</verse>
+  <verse number="13" id="SIR.7.13">Refuse to utter a lie, for that habit results in no good.</verse>
+  <verse number="14" id="SIR.7.14">Don’t babble in the assembly of elders. Don’t repeat your words in your prayer.</verse>
+  <verse number="15" id="SIR.7.15">Don’t hate hard labor or farm work, which the Most High has created.</verse>
+  <verse number="16" id="SIR.7.16">Don’t number yourself among the multitude of sinners. Remember that wrath will not wait.</verse>
+  <verse number="17" id="SIR.7.17">Humble your soul greatly, for the punishment of the ungodly man is fire and the worm.</verse>
+  <verse number="18" id="SIR.7.18">Don’t exchange a friend for something, neither a true brother for the gold of Ophir.</verse>
+  <verse number="19" id="SIR.7.19">Don’t deprive yourself of a wise and good wife, for her grace is worth more than gold.</verse>
+  <verse number="20" id="SIR.7.20">Don’t abuse a servant who works faithfully, or a hireling who gives you his life.</verse>
+  <verse number="21" id="SIR.7.21">Let your soul love a wise servant. Don’t defraud him of liberty.</verse>
+  <verse number="22" id="SIR.7.22">Do you have cattle? Look after them. If they are profitable to you, let them stay by you.</verse>
+  <verse number="23" id="SIR.7.23">Do you have children? Correct them, and make them obedient from their youth.</verse>
+  <verse number="24" id="SIR.7.24">Do you have daughters? Take care of their bodies, and don’t be overly indulgent toward them.</verse>
+  <verse number="25" id="SIR.7.25">Give your daughter in marriage, and you will have accomplished a great matter. Give her to a man of understanding.</verse>
+  <verse number="26" id="SIR.7.26">Do you have a wife who pleases you? Don’t cast her out. <noteref ref="SIR.7.FN2"/>But don’t trust yourself to one who is hateful.</verse>
+  <verse number="27" id="SIR.7.27">Honor your father with your whole heart, and don’t forget the birth pangs of your mother.</verse>
+  <verse number="28" id="SIR.7.28">Remember that you were born of them. What will you repay them for the things that they have done for you?</verse>
+  <verse number="29" id="SIR.7.29">Fear the Lord with all your soul; and revere his priests.</verse>
+  <verse number="30" id="SIR.7.30">With all your strength love him who made you. Don’t forsake his ministers.</verse>
+  <verse number="31" id="SIR.7.31">Fear the Lord and honor the priest. Give him his portion, even as it is commanded you: the first fruits, the trespass offering, the gift of the shoulders, the sacrifice of sanctification, and the first fruits of holy things.</verse>
+  <verse number="32" id="SIR.7.32">Also stretch out your hand to the poor man, that your blessing may be complete.</verse>
+  <verse number="33" id="SIR.7.33">A gift has grace in the sight of every living man. Don’t withhold grace for a dead man.</verse>
+  <verse number="34" id="SIR.7.34">Don’t avoid those who weep, and mourn with those who mourn.</verse>
+  <verse number="35" id="SIR.7.35">Don’t be slow to visit a sick man, for by such things you will gain love.</verse>
+  <verse number="36" id="SIR.7.36">In all your words, remember eternity, and you will never sin.</verse>
+  <notes>
+    <note id="SIR.7.FN1" source-id="FN1" type="footnote" marker="†" verse="12">Gr. <alternative>Don’t plow</alternative></note>
+    <note id="SIR.7.FN2" source-id="FN2" type="footnote" marker="‡" verse="26">Many authorities omit this line</note>
+  </notes>
+</chapter>

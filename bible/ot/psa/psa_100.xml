@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="PSA" name="Psalms" testament="ot" number="100" id="PSA.100">
+  <title>Psalm 100</title>
+  <heading kind="psalm-title">A Psalm of thanksgiving.</heading>
+  <verse number="1" id="PSA.100.1">Shout for joy to Yahweh, all you lands!</verse>
+  <verse number="2" id="PSA.100.2">Serve Yahweh with gladness. Come before his presence with singing.</verse>
+  <verse number="3" id="PSA.100.3">Know that Yahweh, he is God. It is he who has made us, and we are his. We are his people, and the sheep of his pasture.</verse>
+  <verse number="4" id="PSA.100.4">Enter into his gates with thanksgiving, and into his courts with praise. Give thanks to him, and bless his name.</verse>
+  <verse number="5" id="PSA.100.5">For Yahweh is good. His loving kindness endures forever, his faithfulness to all generations.</verse>
+</chapter>

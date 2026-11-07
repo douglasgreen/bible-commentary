@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="SIR" name="Sirach" testament="deut" number="17" id="SIR.17">
+  <title>Sirach 17</title>
+  <verse number="1" id="SIR.17.1">The Lord created mankind out of earth, and turned them back to it again.</verse>
+  <verse number="2" id="SIR.17.2">He gave them days by number, and a set time, and gave them authority over the things that are on it.</verse>
+  <verse number="3" id="SIR.17.3">He endowed them with strength proper to them, and made them according to his own image.</verse>
+  <verse number="4" id="SIR.17.4">He put the fear of man upon all flesh, and gave him dominion over beasts and birds.</verse>
+  <verse number="5" id="SIR.17.5" omitted="true"><noteref ref="SIR.17.FN1"/></verse>
+  <verse number="6" id="SIR.17.6">He gave them counsel, tongue, eyes, ears, and heart to have understanding.</verse>
+  <verse number="7" id="SIR.17.7">He filled them with the knowledge of wisdom, and showed them good and evil.</verse>
+  <verse number="8" id="SIR.17.8">He set his eye upon their hearts, to show them the majesty of his works.</verse>
+  <verse number="9" id="SIR.17.9" omitted="true"><noteref ref="SIR.17.FN2"/></verse>
+  <verse number="10" id="SIR.17.10">And they will praise his holy name, <noteref ref="SIR.17.FN3"/>that they may declare the majesty of his works.</verse>
+  <verse number="11" id="SIR.17.11">He added to them knowledge, and gave them a law of life for a heritage.</verse>
+  <verse number="12" id="SIR.17.12">He made an everlasting covenant with them, and showed them his decrees.</verse>
+  <verse number="13" id="SIR.17.13">Their eyes saw the majesty of his glory. Their ears heard the glory of his voice.</verse>
+  <verse number="14" id="SIR.17.14">He said to them, “Beware of all unrighteousness.” So he gave them commandment, each man concerning his neighbor.</verse>
+  <verse number="15" id="SIR.17.15">Their ways are ever before him. They will not be hidden from his eyes.</verse>
+  <verse number="16" id="SIR.17.16" omitted="true"><noteref ref="SIR.17.FN4"/></verse>
+  <verse number="17" id="SIR.17.17"><noteref ref="SIR.17.FN5"/>For every nation he appointed a ruler, but Israel is the Lord’s portion.</verse>
+  <verse number="18" id="SIR.17.18" omitted="true"><noteref ref="SIR.17.FN6"/></verse>
+  <verse number="19" id="SIR.17.19">All their works are as clear as the sun before him. His eyes are continually upon their ways.</verse>
+  <verse number="20" id="SIR.17.20">Their iniquities are not hidden from him. All their sins are before the Lord.</verse>
+  <verse number="21" id="SIR.17.21" omitted="true"><noteref ref="SIR.17.FN7"/></verse>
+  <verse number="22" id="SIR.17.22">With him the alms of a man is as a signet. He will keep a man’s kindness as the pupil of the eye.<noteref ref="SIR.17.FN8"/></verse>
+  <verse number="23" id="SIR.17.23">Afterwards he will rise up and repay them, and give their repayment upon their head.</verse>
+  <verse number="24" id="SIR.17.24">However to those who repent he grants a return. He comforts those who are losing hope.</verse>
+  <verse number="25" id="SIR.17.25">Return to the Lord, and forsake sins. Make your prayer before his face offend less.</verse>
+  <verse number="26" id="SIR.17.26">Turn again to the Most High, and turn away from iniquity.<noteref ref="SIR.17.FN9"/> Greatly hate the abominable thing.</verse>
+  <verse number="27" id="SIR.17.27">Who will give praise to the Most High in Hades, in place of the living who return thanks?</verse>
+  <verse number="28" id="SIR.17.28">Thanksgiving perishes from the dead, as from one who doesn’t exist. He who is in life and health will praise the Lord.</verse>
+  <verse number="29" id="SIR.17.29">How great is the mercy of the Lord, and his forgiveness to those who turn to him!</verse>
+  <verse number="30" id="SIR.17.30">For humans are not capable of everything, because the son of man is not immortal.</verse>
+  <verse number="31" id="SIR.17.31">What is brighter than the sun? Yet even this can be eclipsed. So flesh and blood devise evil.</verse>
+  <verse number="32" id="SIR.17.32">He looks upon the power of the height of heaven, while all men are earth and ashes.</verse>
+  <notes>
+    <note id="SIR.17.FN1" source-id="FN1" type="footnote" marker="†" verse="5">Verse 5 is omitted by the best authorities.</note>
+    <note id="SIR.17.FN2" source-id="FN2" type="footnote" marker="‡" verse="9">Verse 9 is omitted by the best authorities.</note>
+    <note id="SIR.17.FN3" source-id="FN3" type="footnote" marker="§" verse="10">This line is added by the best authorities.</note>
+    <note id="SIR.17.FN4" source-id="FN4" type="footnote" marker="†" verse="16">Verses 16, 18, and 21 are omitted by the best authorities.</note>
+    <note id="SIR.17.FN5" source-id="FN5" type="footnote" marker="‡" verse="17">The preceding part of this verse is omitted by the best authorities.</note>
+    <note id="SIR.17.FN6" source-id="FN6" type="footnote" marker="§" verse="18">Verses 16, 18, and 21 are omitted by the best authorities.</note>
+    <note id="SIR.17.FN7" source-id="FN7" type="footnote" marker="†" verse="21">Verses 16, 18, and 21 are omitted by the best authorities.</note>
+    <note id="SIR.17.FN8" source-id="FN8" type="footnote" marker="‡" verse="22">The remainder of this verse is omitted by the best authorities.</note>
+    <note id="SIR.17.FN9" source-id="FN9" type="footnote" marker="§" verse="26">A line is here omitted by the best authorities.</note>
+  </notes>
+</chapter>

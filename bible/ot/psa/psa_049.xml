@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="PSA" name="Psalms" testament="ot" number="49" id="PSA.49">
+  <title>Psalm 49</title>
+  <heading kind="psalm-title">For the Chief Musician. A Psalm by the sons of Korah.</heading>
+  <verse number="1" id="PSA.49.1">Hear this, all you peoples. Listen, all you inhabitants of the world,</verse>
+  <verse number="2" id="PSA.49.2">both low and high, rich and poor together.</verse>
+  <verse number="3" id="PSA.49.3">My mouth will speak words of wisdom. My heart will utter understanding.</verse>
+  <verse number="4" id="PSA.49.4">I will incline my ear to a proverb. I will solve my riddle on the harp.</verse>
+  <verse number="5" id="PSA.49.5">Why should I fear in the days of evil, when iniquity at my heels surrounds me?</verse>
+  <verse number="6" id="PSA.49.6">Those who trust in their wealth, and boast in the multitude of their riches—</verse>
+  <verse number="7" id="PSA.49.7">none of them can by any means redeem his brother, nor give God a ransom for him.</verse>
+  <verse number="8" id="PSA.49.8">For the redemption of their life is costly, no payment is ever enough,</verse>
+  <verse number="9" id="PSA.49.9">that he should live on forever, that he should not see corruption.</verse>
+  <verse number="10" id="PSA.49.10">For he sees that wise men die; likewise the fool and the senseless perish, and leave their wealth to others.</verse>
+  <verse number="11" id="PSA.49.11">Their inward thought is that their houses will endure forever, and their dwelling places to all generations. They name their lands after themselves.</verse>
+  <verse number="12" id="PSA.49.12">But man, despite his riches, doesn’t endure. He is like the animals that perish.</verse>
+  <verse number="13" id="PSA.49.13">This is the destiny of those who are foolish, and of those who approve their sayings. Selah.</verse>
+  <verse number="14" id="PSA.49.14">They are appointed as a flock for Sheol.<noteref ref="PSA.49.FN1"/> Death shall be their shepherd. The upright shall have dominion over them in the morning. Their beauty shall decay in Sheol,<noteref ref="PSA.49.FN2"/> far from their mansion.</verse>
+  <verse number="15" id="PSA.49.15">But God will redeem my soul from the power of Sheol,<noteref ref="PSA.49.FN3"/> for he will receive me. Selah.</verse>
+  <verse number="16" id="PSA.49.16">Don’t be afraid when a man is made rich, when the glory of his house is increased;</verse>
+  <verse number="17" id="PSA.49.17">for when he dies he will carry nothing away. His glory won’t descend after him.</verse>
+  <verse number="18" id="PSA.49.18">Though while he lived he blessed his soul— and men praise you when you do well for yourself—</verse>
+  <verse number="19" id="PSA.49.19">he shall go to the generation of his fathers. They shall never see the light.</verse>
+  <verse number="20" id="PSA.49.20">A man who has riches without understanding, is like the animals that perish.</verse>
+  <notes>
+    <note id="PSA.49.FN1" source-id="FN1" type="footnote" marker="†" verse="14">Sheol is the place of the dead.</note>
+    <note id="PSA.49.FN2" source-id="FN2" type="footnote" marker="‡" verse="14">Sheol is the place of the dead.</note>
+    <note id="PSA.49.FN3" source-id="FN3" type="footnote" marker="§" verse="15">Sheol is the place of the dead.</note>
+  </notes>
+</chapter>

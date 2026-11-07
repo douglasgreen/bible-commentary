@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="MAT" name="Matthew" testament="nt" number="23" id="MAT.23">
+  <title>Matthew 23</title>
+  <verse number="1" id="MAT.23.1">Then Jesus spoke to the multitudes and to his disciples,</verse>
+  <verse number="2" id="MAT.23.2">saying, <wj>“The scribes and the Pharisees sit on Moses’ seat. </wj></verse>
+  <verse number="3" id="MAT.23.3"><wj>All things therefore whatever they tell you to observe, observe and do, but don’t do their works; for they say, and don’t do. </wj></verse>
+  <verse number="4" id="MAT.23.4"><wj>For they bind heavy burdens that are grievous to be borne, and lay them on men’s shoulders; but they themselves will not lift a finger to help them. </wj></verse>
+  <verse number="5" id="MAT.23.5"><wj>But they do all their works to be seen by men. They make their phylacteries</wj><noteref ref="MAT.23.FN1"/> <wj>broad and enlarge the fringes</wj><noteref ref="MAT.23.FN2"/> <wj>of their garments, </wj></verse>
+  <verse number="6" id="MAT.23.6"><wj>and love the place of honor at feasts, the best seats in the synagogues, </wj></verse>
+  <verse number="7" id="MAT.23.7"><wj>the salutations in the marketplaces, and to be called ‘Rabbi, Rabbi’</wj><noteref ref="MAT.23.FN3"/> <wj>by men. </wj></verse>
+  <verse number="8" id="MAT.23.8"><wj>But you are not to be called ‘Rabbi’, for one is your teacher, the Christ, and all of you are brothers. </wj></verse>
+  <verse number="9" id="MAT.23.9"><wj>Call no man on the earth your father, for one is your Father, he who is in heaven. </wj></verse>
+  <verse number="10" id="MAT.23.10"><wj>Neither be called masters, for one is your master, the Christ. </wj></verse>
+  <verse number="11" id="MAT.23.11"><wj>But he who is greatest among you will be your servant. </wj></verse>
+  <verse number="12" id="MAT.23.12"><wj>Whoever exalts himself will be humbled, and whoever humbles himself will be exalted.</wj></verse>
+  <verse number="13" id="MAT.23.13"><wj>“Woe to you, scribes and Pharisees, hypocrites! For you devour widows’ houses, and as a pretense you make long prayers. Therefore you will receive greater condemnation.</wj></verse>
+  <verse number="14" id="MAT.23.14"><wj>“But woe to you, scribes and Pharisees, hypocrites! Because you shut up the Kingdom of Heaven against men; for you don’t enter in yourselves, neither do you allow those who are entering in to enter.</wj><noteref ref="MAT.23.FN4"/></verse>
+  <verse number="15" id="MAT.23.15"><wj>Woe to you, scribes and Pharisees, hypocrites! For you travel around by sea and land to make one proselyte; and when he becomes one, you make him twice as much a son of Gehenna</wj><noteref ref="MAT.23.FN5"/> <wj>as yourselves. </wj></verse>
+  <verse number="16" id="MAT.23.16"><wj>“Woe to you, you blind guides, who say, ‘Whoever swears by the temple, it is nothing; but whoever swears by the gold of the temple, he is obligated.’ </wj></verse>
+  <verse number="17" id="MAT.23.17"><wj>You blind fools! For which is greater, the gold or the temple that sanctifies the gold? </wj></verse>
+  <verse number="18" id="MAT.23.18"><wj>And, ‘Whoever swears by the altar, it is nothing; but whoever swears by the gift that is on it, he is obligated.’ </wj></verse>
+  <verse number="19" id="MAT.23.19"><wj>You blind fools! For which is greater, the gift, or the altar that sanctifies the gift? </wj></verse>
+  <verse number="20" id="MAT.23.20"><wj>He therefore who swears by the altar, swears by it and by everything on it. </wj></verse>
+  <verse number="21" id="MAT.23.21"><wj>He who swears by the temple, swears by it and by him who has been living</wj><noteref ref="MAT.23.FN6"/> <wj>in it. </wj></verse>
+  <verse number="22" id="MAT.23.22"><wj>He who swears by heaven, swears by the throne of God and by him who sits on it.</wj></verse>
+  <verse number="23" id="MAT.23.23"><wj>“Woe to you, scribes and Pharisees, hypocrites! For you tithe mint, dill, and cumin,</wj><noteref ref="MAT.23.FN7"/> <wj>and have left undone the weightier matters of the law: justice, mercy, and faith. But you ought to have done these, and not to have left the other undone. </wj></verse>
+  <verse number="24" id="MAT.23.24"><wj>You blind guides, who strain out a gnat, and swallow a camel! </wj></verse>
+  <verse number="25" id="MAT.23.25"><wj>“Woe to you, scribes and Pharisees, hypocrites! For you clean the outside of the cup and of the platter, but within they are full of extortion and unrighteousness.</wj><noteref ref="MAT.23.FN8"/></verse>
+  <verse number="26" id="MAT.23.26"><wj>You blind Pharisee, first clean the inside of the cup and of the platter, that its outside may become clean also.</wj></verse>
+  <verse number="27" id="MAT.23.27"><wj>“Woe to you, scribes and Pharisees, hypocrites! For you are like whitened tombs, which outwardly appear beautiful, but inwardly are full of dead men’s bones and of all uncleanness. </wj></verse>
+  <verse number="28" id="MAT.23.28"><wj>Even so you also outwardly appear righteous to men, but inwardly you are full of hypocrisy and iniquity.</wj></verse>
+  <verse number="29" id="MAT.23.29"><wj>“Woe to you, scribes and Pharisees, hypocrites! For you build the tombs of the prophets and decorate the tombs of the righteous, </wj></verse>
+  <verse number="30" id="MAT.23.30"><wj>and say, ‘If we had lived in the days of our fathers, we wouldn’t have been partakers with them in the blood of the prophets.’ </wj></verse>
+  <verse number="31" id="MAT.23.31"><wj>Therefore you testify to yourselves that you are children of those who killed the prophets. </wj></verse>
+  <verse number="32" id="MAT.23.32"><wj>Fill up, then, the measure of your fathers. </wj></verse>
+  <verse number="33" id="MAT.23.33"><wj>You serpents, you offspring of vipers, how will you escape the judgment of Gehenna?</wj><noteref ref="MAT.23.FN9"/></verse>
+  <verse number="34" id="MAT.23.34"><wj>Therefore, behold, I send to you prophets, wise men, and scribes. Some of them you will kill and crucify; and some of them you will scourge in your synagogues and persecute from city to city, </wj></verse>
+  <verse number="35" id="MAT.23.35"><wj>that on you may come all the righteous blood shed on the earth, from the blood of righteous Abel to the blood of Zachariah son of Barachiah, whom you killed between the sanctuary and the altar. </wj></verse>
+  <verse number="36" id="MAT.23.36"><wj>Most certainly I tell you, all these things will come upon this generation.</wj></verse>
+  <verse number="37" id="MAT.23.37"><wj>“Jerusalem, Jerusalem, who kills the prophets and stones those who are sent to her! How often I would have gathered your children together, even as a hen gathers her chicks under her wings, and you would not! </wj></verse>
+  <verse number="38" id="MAT.23.38"><wj>Behold, your house is left to you desolate. </wj></verse>
+  <verse number="39" id="MAT.23.39"><wj>For I tell you, you will not see me from now on, until you say, ‘Blessed is he who comes in the name of the Lord!’ ”</wj><noteref ref="MAT.23.FN10"/></verse>
+  <notes>
+    <note id="MAT.23.FN1" source-id="FN1" type="footnote" marker="†" verse="5">phylacteries (tefillin in Hebrew) are small leather pouches that some Jewish men wear on their forehead and arm in prayer. They are used to carry a small scroll with some Scripture in it. See <ref book="DEU" chapter="6" verse="8">Deuteronomy 6:8</ref>.</note>
+    <note id="MAT.23.FN2" source-id="FN2" type="footnote" marker="‡" verse="5">or, tassels</note>
+    <note id="MAT.23.FN3" source-id="FN3" type="footnote" marker="§" verse="7">NU omits the second “Rabbi”.</note>
+    <note id="MAT.23.FN4" source-id="FN4" type="footnote" marker="†" verse="14">Some Greek texts reverse the order of verses 13 and 14, and some omit verse 13, numbering verse 14 as 13. NU omits verse 14.</note>
+    <note id="MAT.23.FN5" source-id="FN5" type="footnote" marker="‡" verse="15">or, Hell</note>
+    <note id="MAT.23.FN6" source-id="FN6" type="footnote" marker="§" verse="21">NU reads “lives”</note>
+    <note id="MAT.23.FN7" source-id="FN7" type="footnote" marker="†" verse="23">cumin is an aromatic seed from Cuminum cyminum, resembling caraway in flavor and appearance. It is used as a spice.</note>
+    <note id="MAT.23.FN8" source-id="FN8" type="footnote" marker="‡" verse="25">TR reads “self-indulgence” instead of “unrighteousness”</note>
+    <note id="MAT.23.FN9" source-id="FN9" type="footnote" marker="§" verse="33">or, Hell</note>
+    <note id="MAT.23.FN10" source-id="FN10" type="cross-reference" marker="*" verse="39"><ref book="PSA" chapter="118" verse="26">Psalms 118:26</ref></note>
+  </notes>
+</chapter>

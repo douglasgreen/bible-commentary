@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="1CO" name="1 Corinthians" testament="nt" number="10" id="1CO.10">
+  <title>1 Corinthians 10</title>
+  <verse number="1" id="1CO.10.1">Now I would not have you ignorant, brothers, that our fathers were all under the cloud, and all passed through the sea;</verse>
+  <verse number="2" id="1CO.10.2">and were all baptized into Moses in the cloud and in the sea;</verse>
+  <verse number="3" id="1CO.10.3">and all ate the same spiritual food;</verse>
+  <verse number="4" id="1CO.10.4">and all drank the same spiritual drink. For they drank of a spiritual rock that followed them, and the rock was Christ.</verse>
+  <verse number="5" id="1CO.10.5">However with most of them, God was not well pleased, for they were overthrown in the wilderness.</verse>
+  <verse number="6" id="1CO.10.6">Now these things were our examples, to the intent we should not lust after evil things as they also lusted.</verse>
+  <verse number="7" id="1CO.10.7">Don’t be idolaters, as some of them were. As it is written, “The people sat down to eat and drink, and rose up to play.”<noteref ref="1CO.10.FN1"/></verse>
+  <verse number="8" id="1CO.10.8">Let’s not commit sexual immorality, as some of them committed, and in one day twenty-three thousand fell.</verse>
+  <verse number="9" id="1CO.10.9">Let’s not test Christ,<noteref ref="1CO.10.FN2"/> as some of them tested, and perished by the serpents.</verse>
+  <verse number="10" id="1CO.10.10">Don’t grumble, as some of them also grumbled, and perished by the destroyer.</verse>
+  <verse number="11" id="1CO.10.11">Now all these things happened to them by way of example, and they were written for our admonition, on whom the ends of the ages have come.</verse>
+  <verse number="12" id="1CO.10.12">Therefore let him who thinks he stands be careful that he doesn’t fall.</verse>
+  <verse number="13" id="1CO.10.13">No temptation has taken you except what is common to man. God is faithful, who will not allow you to be tempted above what you are able, but will with the temptation also make the way of escape, that you may be able to endure it.</verse>
+  <verse number="14" id="1CO.10.14">Therefore, my beloved, flee from idolatry.</verse>
+  <verse number="15" id="1CO.10.15">I speak as to wise men. Judge what I say.</verse>
+  <verse number="16" id="1CO.10.16">The cup of blessing which we bless, isn’t it a sharing of the blood of Christ? The bread which we break, isn’t it a sharing of the body of Christ?</verse>
+  <verse number="17" id="1CO.10.17">Because there is one loaf of bread, we, who are many, are one body; for we all partake of the one loaf of bread.</verse>
+  <verse number="18" id="1CO.10.18">Consider Israel according to the flesh. Don’t those who eat the sacrifices participate in the altar?</verse>
+  <verse number="19" id="1CO.10.19">What am I saying then? That a thing sacrificed to idols is anything, or that an idol is anything?</verse>
+  <verse number="20" id="1CO.10.20">But I say that the things which the Gentiles sacrifice, they sacrifice to demons and not to God, and I don’t desire that you would have fellowship with demons.</verse>
+  <verse number="21" id="1CO.10.21">You can’t both drink the cup of the Lord and the cup of demons. You can’t both partake of the table of the Lord and of the table of demons.</verse>
+  <verse number="22" id="1CO.10.22">Or do we provoke the Lord to jealousy? Are we stronger than he?</verse>
+  <verse number="23" id="1CO.10.23">“All things are lawful for me,” but not all things are profitable. “All things are lawful for me,” but not all things build up.</verse>
+  <verse number="24" id="1CO.10.24">Let no one seek his own, but each one his neighbor’s good.</verse>
+  <verse number="25" id="1CO.10.25">Whatever is sold in the butcher shop, eat, asking no question for the sake of conscience,</verse>
+  <verse number="26" id="1CO.10.26">for “the earth is the Lord’s, and its fullness.”<noteref ref="1CO.10.FN3"/></verse>
+  <verse number="27" id="1CO.10.27">But if one of those who don’t believe invites you to a meal, and you are inclined to go, eat whatever is set before you, asking no questions for the sake of conscience.</verse>
+  <verse number="28" id="1CO.10.28">But if anyone says to you, “This was offered to idols,” don’t eat it for the sake of the one who told you, and for the sake of conscience. For “the earth is the Lord’s, with all its fullness.”</verse>
+  <verse number="29" id="1CO.10.29">Conscience, I say, not your own, but the other’s conscience. For why is my liberty judged by another conscience?</verse>
+  <verse number="30" id="1CO.10.30">If I partake with thankfulness, why am I denounced for something I give thanks for?</verse>
+  <verse number="31" id="1CO.10.31">Whether therefore you eat or drink, or whatever you do, do all to the glory of God.</verse>
+  <verse number="32" id="1CO.10.32">Give no occasion for stumbling, whether to Jews, to Greeks, or to the assembly of God;</verse>
+  <verse number="33" id="1CO.10.33">even as I also please all men in all things, not seeking my own profit, but the profit of the many, that they may be saved.</verse>
+  <notes>
+    <note id="1CO.10.FN1" source-id="FN1" type="cross-reference" marker="*" verse="7"><ref book="EXO" chapter="32" verse="6">Exodus 32:6</ref></note>
+    <note id="1CO.10.FN2" source-id="FN2" type="footnote" marker="†" verse="9">NU reads “the Lord” instead of “Christ”.</note>
+    <note id="1CO.10.FN3" source-id="FN3" type="cross-reference" marker="*" verse="26"><ref book="PSA" chapter="24" verse="1">Psalms 24:1</ref></note>
+  </notes>
+</chapter>

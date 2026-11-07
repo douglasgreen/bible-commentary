@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="PSA" name="Psalms" testament="ot" number="2" id="PSA.2">
+  <title>Psalm 2</title>
+  <verse number="1" id="PSA.2.1">Why do the nations rage, and the peoples plot a vain thing?</verse>
+  <verse number="2" id="PSA.2.2">The kings of the earth take a stand, and the rulers take counsel together, against Yahweh, and against his Anointed,<noteref ref="PSA.2.FN1"/> saying,</verse>
+  <verse number="3" id="PSA.2.3">“Let’s break their bonds apart, and cast their cords from us.”</verse>
+  <verse number="4" id="PSA.2.4">He who sits in the heavens will laugh. The Lord<noteref ref="PSA.2.FN2"/> will have them in derision.</verse>
+  <verse number="5" id="PSA.2.5">Then he will speak to them in his anger, and terrify them in his wrath:</verse>
+  <verse number="6" id="PSA.2.6">“Yet I have set my King on my holy hill of Zion.”</verse>
+  <verse number="7" id="PSA.2.7">I will tell of the decree: Yahweh said to me, “You are my son. Today I have become your father.</verse>
+  <verse number="8" id="PSA.2.8">Ask of me, and I will give the nations for your inheritance, the uttermost parts of the earth for your possession.</verse>
+  <verse number="9" id="PSA.2.9">You shall break them with a rod of iron. You shall dash them in pieces like a potter’s vessel.”</verse>
+  <verse number="10" id="PSA.2.10">Now therefore be wise, you kings. Be instructed, you judges of the earth.</verse>
+  <verse number="11" id="PSA.2.11">Serve Yahweh with fear, and rejoice with trembling.</verse>
+  <verse number="12" id="PSA.2.12">Give sincere homage to the Son,<noteref ref="PSA.2.FN3"/> lest he be angry, and you perish on the way, for his wrath will soon be kindled. Blessed are all those who take refuge in him.</verse>
+  <notes>
+    <note id="PSA.2.FN1" source-id="FN1" type="footnote" marker="†" verse="2">The word “Anointed” is the same as the word for “Messiah” or “Christ”</note>
+    <note id="PSA.2.FN2" source-id="FN2" type="footnote" marker="‡" verse="4">The word translated “Lord” is “Adonai.”</note>
+    <note id="PSA.2.FN3" source-id="FN3" type="footnote" marker="§" verse="12">or, Kiss the son</note>
+  </notes>
+</chapter>

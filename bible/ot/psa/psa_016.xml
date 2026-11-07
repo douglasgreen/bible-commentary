@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="PSA" name="Psalms" testament="ot" number="16" id="PSA.16">
+  <title>Psalm 16</title>
+  <heading kind="psalm-title">A Poem by David.</heading>
+  <verse number="1" id="PSA.16.1">Preserve me, God, for I take refuge in you.</verse>
+  <verse number="2" id="PSA.16.2">My soul, you have said to Yahweh, “You are my Lord. Apart from you I have no good thing.”</verse>
+  <verse number="3" id="PSA.16.3">As for the saints who are on the earth, they are the excellent ones in whom is all my delight.</verse>
+  <verse number="4" id="PSA.16.4">Their sorrows shall be multiplied who give gifts to another god. Their drink offerings of blood I will not offer, nor take their names on my lips.</verse>
+  <verse number="5" id="PSA.16.5">Yahweh assigned my portion and my cup. You made my lot secure.</verse>
+  <verse number="6" id="PSA.16.6">The lines have fallen to me in pleasant places. Yes, I have a good inheritance.</verse>
+  <verse number="7" id="PSA.16.7">I will bless Yahweh, who has given me counsel. Yes, my heart instructs me in the night seasons.</verse>
+  <verse number="8" id="PSA.16.8">I have set Yahweh always before me. Because he is at my right hand, I shall not be moved.</verse>
+  <verse number="9" id="PSA.16.9">Therefore my heart is glad, and my tongue rejoices. My body shall also dwell in safety.</verse>
+  <verse number="10" id="PSA.16.10">For you will not leave my soul in Sheol,<noteref ref="PSA.16.FN1"/> neither will you allow your holy one to see corruption.</verse>
+  <verse number="11" id="PSA.16.11">You will show me the path of life. In your presence is fullness of joy. In your right hand there are pleasures forever more.</verse>
+  <notes>
+    <note id="PSA.16.FN1" source-id="FN1" type="footnote" marker="†" verse="10">Sheol is the place of the dead.</note>
+  </notes>
+</chapter>

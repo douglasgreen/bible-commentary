@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="TOB" name="Tobit" testament="deut" number="10" id="TOB.10">
+  <title>Tobit 10</title>
+  <verse number="1" id="TOB.10.1">Tobit his father counted every day. When the days of the journey were expired, and they didn’t come,</verse>
+  <verse number="2" id="TOB.10.2">he said, “Is he perchance detained?<noteref ref="TOB.10.FN1"/> Or is Gabael perchance dead, and there is no one to give him the money?”</verse>
+  <verse number="3" id="TOB.10.3">He was very grieved.</verse>
+  <verse number="4" id="TOB.10.4">But his wife said to him, “The child has perished, seeing he waits long.” She began to bewail him, and said,</verse>
+  <verse number="5" id="TOB.10.5">“I care about nothing,<noteref ref="TOB.10.FN2"/> my child, since I have let you go, the light of my eyes.”</verse>
+  <verse number="6" id="TOB.10.6">Tobit said to her, “Hold your peace. Don’t worry. He is in good health.”</verse>
+  <verse number="7" id="TOB.10.7">And she said to him, “Hold your peace. Don’t deceive me. My child has perished.” And she went out every day into the way by which they went, and ate no bread in the day-time, and didn’t stop bewailing her son Tobias for whole nights, until the fourteen days of the wedding feast were expired, which Raguel had sworn that he should spend there. Then Tobias said to Raguel, “Send me away, for my father and my mother look no more to see me.”</verse>
+  <verse number="8" id="TOB.10.8">But his father-in-law said to him, “Stay with me, and I will send to your father, and they will declare to him how things go with you.”</verse>
+  <verse number="9" id="TOB.10.9">Tobias said, “No. Send me away to my father.”</verse>
+  <verse number="10" id="TOB.10.10">Raguel arose, and gave him Sarah his wife, and half his goods, servants and cattle and money;</verse>
+  <verse number="11" id="TOB.10.11">and he blessed them, and sent them away, saying, “The God of heaven will prosper you, my children, before I die.”</verse>
+  <verse number="12" id="TOB.10.12">And he said to his daughter, “Honor your father-in-law and your mother-in-law. They are now your parents. Let me hear a good report of you.” Then he kissed her. Edna said to Tobias, “May the Lord of heaven restore you, dear brother, and grant to me that I may see your children of my daughter Sarah, that I may rejoice before the Lord. Behold, I commit my daughter to you in special trust. Don’t cause her grief.</verse>
+  <notes>
+    <note id="TOB.10.FN1" source-id="FN1" type="footnote" marker="†" verse="2">Many ancient authorities read <alternative>“Are they perchance put to shame?” </alternative></note>
+    <note id="TOB.10.FN2" source-id="FN2" type="footnote" marker="‡" verse="5">Some authorities read <alternative>“Woe is me.”</alternative></note>
+  </notes>
+</chapter>

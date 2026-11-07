@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="ROM" name="Romans" testament="nt" number="1" id="ROM.1">
+  <title>Romans 1</title>
+  <heading kind="book-title">Paul’s Letter to the</heading>
+  <heading kind="book-title">Romans</heading>
+  <verse number="1" id="ROM.1.1">Paul, a servant of Jesus Christ,<noteref ref="ROM.1.FN1"/> called to be an apostle, set apart for the Good News of God,</verse>
+  <verse number="2" id="ROM.1.2">which he promised before through his prophets in the holy Scriptures,</verse>
+  <verse number="3" id="ROM.1.3">concerning his Son, who was born of the offspring<noteref ref="ROM.1.FN2"/> of David according to the flesh,</verse>
+  <verse number="4" id="ROM.1.4">who was declared to be the Son of God with power according to the Spirit of holiness, by the resurrection from the dead, Jesus Christ our Lord,</verse>
+  <verse number="5" id="ROM.1.5">through whom we received grace and apostleship for obedience of faith among all the nations for his name’s sake;</verse>
+  <verse number="6" id="ROM.1.6">among whom you are also called to belong to Jesus Christ;</verse>
+  <verse number="7" id="ROM.1.7">to all who are in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ.</verse>
+  <verse number="8" id="ROM.1.8">First, I thank my God through Jesus Christ for all of you, that your faith is proclaimed throughout the whole world.</verse>
+  <verse number="9" id="ROM.1.9">For God is my witness, whom I serve in my spirit in the Good News of his Son, how unceasingly I make mention of you always in my prayers,</verse>
+  <verse number="10" id="ROM.1.10">requesting, if by any means now at last I may be prospered by the will of God to come to you.</verse>
+  <verse number="11" id="ROM.1.11">For I long to see you, that I may impart to you some spiritual gift, to the end that you may be established;</verse>
+  <verse number="12" id="ROM.1.12">that is, that I with you may be encouraged in you, each of us by the other’s faith, both yours and mine.</verse>
+  <verse number="13" id="ROM.1.13">Now I don’t desire to have you unaware, brothers, that I often planned to come to you (and was hindered so far), that I might have some fruit among you also, even as among the rest of the Gentiles.</verse>
+  <verse number="14" id="ROM.1.14">I am debtor both to Greeks and to foreigners, both to the wise and to the foolish.</verse>
+  <verse number="15" id="ROM.1.15">So as much as is in me, I am eager to preach the Good News to you also who are in Rome.</verse>
+  <verse number="16" id="ROM.1.16">For I am not ashamed of the Good News of Christ, because it is the power of God for salvation for everyone who believes, for the Jew first, and also for the Greek.</verse>
+  <verse number="17" id="ROM.1.17">For in it is revealed God’s righteousness from faith to faith. As it is written, “But the righteous shall live by faith.”<noteref ref="ROM.1.FN3"/></verse>
+  <verse number="18" id="ROM.1.18">For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men who suppress the truth in unrighteousness,</verse>
+  <verse number="19" id="ROM.1.19">because that which is known of God is revealed in them, for God revealed it to them.</verse>
+  <verse number="20" id="ROM.1.20">For the invisible things of him since the creation of the world are clearly seen, being perceived through the things that are made, even his everlasting power and divinity, that they may be without excuse.</verse>
+  <verse number="21" id="ROM.1.21">Because knowing God, they didn’t glorify him as God, and didn’t give thanks, but became vain in their reasoning, and their senseless heart was darkened.</verse>
+  <verse number="22" id="ROM.1.22">Professing themselves to be wise, they became fools,</verse>
+  <verse number="23" id="ROM.1.23">and traded the glory of the incorruptible God for the likeness of an image of corruptible man, and of birds, four-footed animals, and creeping things.</verse>
+  <verse number="24" id="ROM.1.24">Therefore God also gave them up in the lusts of their hearts to uncleanness, that their bodies should be dishonored among themselves;</verse>
+  <verse number="25" id="ROM.1.25">who exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen.</verse>
+  <verse number="26" id="ROM.1.26">For this reason, God gave them up to vile passions. For their women changed the natural function into that which is against nature.</verse>
+  <verse number="27" id="ROM.1.27">Likewise also the men, leaving the natural function of the woman, burned in their lust toward one another, men doing what is inappropriate with men, and receiving in themselves the due penalty of their error.</verse>
+  <verse number="28" id="ROM.1.28">Even as they refused to have God in their knowledge, God gave them up to a reprobate mind, to do those things which are not fitting;</verse>
+  <verse number="29" id="ROM.1.29">being filled with all unrighteousness, sexual immorality, wickedness, covetousness, malice; full of envy, murder, strife, deceit, evil habits, secret slanderers,</verse>
+  <verse number="30" id="ROM.1.30">backbiters, hateful to God, insolent, arrogant, boastful, inventors of evil things, disobedient to parents,</verse>
+  <verse number="31" id="ROM.1.31">without understanding, covenant breakers, without natural affection, unforgiving, unmerciful;</verse>
+  <verse number="32" id="ROM.1.32">who, knowing the ordinance of God, that those who practice such things are worthy of death, not only do the same, but also approve of those who practice them.</verse>
+  <notes>
+    <note id="ROM.1.FN1" source-id="FN1" type="footnote" marker="†" verse="1">“Christ” means “Anointed One”.</note>
+    <note id="ROM.1.FN2" source-id="FN2" type="footnote" marker="‡" verse="3">or, seed</note>
+    <note id="ROM.1.FN3" source-id="FN3" type="cross-reference" marker="*" verse="17"><ref book="HAB" chapter="2" verse="4">Habakkuk 2:4</ref></note>
+  </notes>
+</chapter>

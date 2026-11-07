@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="MAT" name="Matthew" testament="nt" number="14" id="MAT.14">
+  <title>Matthew 14</title>
+  <verse number="1" id="MAT.14.1">At that time, Herod the tetrarch heard the report concerning Jesus,</verse>
+  <verse number="2" id="MAT.14.2">and said to his servants, “This is John the Baptizer. He is risen from the dead. That is why these powers work in him.”</verse>
+  <verse number="3" id="MAT.14.3">For Herod had arrested John, bound him, and put him in prison for the sake of Herodias, his brother Philip’s wife.</verse>
+  <verse number="4" id="MAT.14.4">For John said to him, “It is not lawful for you to have her.”</verse>
+  <verse number="5" id="MAT.14.5">When he would have put him to death, he feared the multitude, because they counted him as a prophet.</verse>
+  <verse number="6" id="MAT.14.6">But when Herod’s birthday came, the daughter of Herodias danced among them and pleased Herod.</verse>
+  <verse number="7" id="MAT.14.7">Therefore he promised with an oath to give her whatever she should ask.</verse>
+  <verse number="8" id="MAT.14.8">She, being prompted by her mother, said, “Give me here on a platter the head of John the Baptizer.”</verse>
+  <verse number="9" id="MAT.14.9">The king was grieved, but for the sake of his oaths and of those who sat at the table with him, he commanded it to be given,</verse>
+  <verse number="10" id="MAT.14.10">and he sent and beheaded John in the prison.</verse>
+  <verse number="11" id="MAT.14.11">His head was brought on a platter and given to the young lady; and she brought it to her mother.</verse>
+  <verse number="12" id="MAT.14.12">His disciples came, took the body, and buried it. Then they went and told Jesus.</verse>
+  <verse number="13" id="MAT.14.13">Now when Jesus heard this, he withdrew from there in a boat to a deserted place apart. When the multitudes heard it, they followed him on foot from the cities.</verse>
+  <verse number="14" id="MAT.14.14">Jesus went out, and he saw a great multitude. He had compassion on them and healed their sick.</verse>
+  <verse number="15" id="MAT.14.15">When evening had come, his disciples came to him, saying, “This place is deserted, and the hour is already late. Send the multitudes away, that they may go into the villages, and buy themselves food.”</verse>
+  <verse number="16" id="MAT.14.16">But Jesus said to them, <wj>“They don’t need to go away. You give them something to eat.”</wj></verse>
+  <verse number="17" id="MAT.14.17">They told him, “We only have here five loaves and two fish.”</verse>
+  <verse number="18" id="MAT.14.18">He said, <wj>“Bring them here to me.”</wj></verse>
+  <verse number="19" id="MAT.14.19">He commanded the multitudes to sit down on the grass; and he took the five loaves and the two fish, and looking up to heaven, he blessed, broke and gave the loaves to the disciples; and the disciples gave to the multitudes.</verse>
+  <verse number="20" id="MAT.14.20">They all ate and were filled. They took up twelve baskets full of that which remained left over from the broken pieces.</verse>
+  <verse number="21" id="MAT.14.21">Those who ate were about five thousand men, in addition to women and children.</verse>
+  <verse number="22" id="MAT.14.22">Immediately Jesus made the disciples get into the boat and go ahead of him to the other side, while he sent the multitudes away.</verse>
+  <verse number="23" id="MAT.14.23">After he had sent the multitudes away, he went up into the mountain by himself to pray. When evening had come, he was there alone.</verse>
+  <verse number="24" id="MAT.14.24">But the boat was now in the middle of the sea, distressed by the waves, for the wind was contrary.</verse>
+  <verse number="25" id="MAT.14.25">In the fourth watch of the night,<noteref ref="MAT.14.FN1"/> Jesus came to them, walking on the sea.<noteref ref="MAT.14.FN2"/></verse>
+  <verse number="26" id="MAT.14.26">When the disciples saw him walking on the sea, they were troubled, saying, “It’s a ghost!” and they cried out for fear.</verse>
+  <verse number="27" id="MAT.14.27">But immediately Jesus spoke to them, saying, <wj>“Cheer up! It is I! </wj><noteref ref="MAT.14.FN3"/> <wj>Don’t be afraid.”</wj></verse>
+  <verse number="28" id="MAT.14.28">Peter answered him and said, “Lord, if it is you, command me to come to you on the waters.”</verse>
+  <verse number="29" id="MAT.14.29">He said, <wj>“Come!”</wj> Peter stepped down from the boat and walked on the waters to come to Jesus.</verse>
+  <verse number="30" id="MAT.14.30">But when he saw that the wind was strong, he was afraid, and beginning to sink, he cried out, saying, “Lord, save me!”</verse>
+  <verse number="31" id="MAT.14.31">Immediately Jesus stretched out his hand, took hold of him, and said to him, <wj>“You of little faith, why did you doubt?”</wj></verse>
+  <verse number="32" id="MAT.14.32">When they got up into the boat, the wind ceased.</verse>
+  <verse number="33" id="MAT.14.33">Those who were in the boat came and worshiped him, saying, “You are truly the Son of God!”</verse>
+  <verse number="34" id="MAT.14.34">When they had crossed over, they came to the land of Gennesaret.</verse>
+  <verse number="35" id="MAT.14.35">When the people of that place recognized him, they sent into all that surrounding region and brought to him all who were sick;</verse>
+  <verse number="36" id="MAT.14.36">and they begged him that they might just touch the fringe<noteref ref="MAT.14.FN4"/> of his garment. As many as touched it were made whole.</verse>
+  <notes>
+    <note id="MAT.14.FN1" source-id="FN1" type="footnote" marker="†" verse="25">The night was equally divided into four watches, so the fourth watch is approximately 3:00 a.m. to sunrise.</note>
+    <note id="MAT.14.FN2" source-id="FN2" type="cross-reference" marker="*" verse="25">See <ref book="JOB" chapter="9" verse="8">Job 9:8</ref></note>
+    <note id="MAT.14.FN3" source-id="FN3" type="footnote" marker="‡" verse="27">or, I AM!</note>
+    <note id="MAT.14.FN4" source-id="FN4" type="footnote" marker="§" verse="36">or, tassel</note>
+  </notes>
+</chapter>

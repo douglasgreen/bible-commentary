@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="PRO" name="Proverbs" testament="ot" number="1" id="PRO.1">
+  <title>Proverbs 1</title>
+  <heading kind="book-title">The Proverbs</heading>
+  <verse number="1" id="PRO.1.1">The proverbs of Solomon, the son of David, king of Israel:</verse>
+  <verse number="2" id="PRO.1.2">to know wisdom and instruction; to discern the words of understanding;</verse>
+  <verse number="3" id="PRO.1.3">to receive instruction in wise dealing, in righteousness, justice, and equity;</verse>
+  <verse number="4" id="PRO.1.4">to give prudence to the simple, knowledge and discretion to the young man—</verse>
+  <verse number="5" id="PRO.1.5">that the wise man may hear, and increase in learning; that the man of understanding may attain to sound counsel;</verse>
+  <verse number="6" id="PRO.1.6">to understand a proverb and parables, the words and riddles of the wise.</verse>
+  <verse number="7" id="PRO.1.7">The fear of Yahweh<noteref ref="PRO.1.FN1"/> is the beginning of knowledge, but the foolish despise wisdom and instruction.</verse>
+  <verse number="8" id="PRO.1.8">My son, listen to your father’s instruction, and don’t forsake your mother’s teaching;</verse>
+  <verse number="9" id="PRO.1.9">for they will be a garland to grace your head, and chains around your neck.</verse>
+  <verse number="10" id="PRO.1.10">My son, if sinners entice you, don’t consent.</verse>
+  <verse number="11" id="PRO.1.11">If they say, “Come with us. Let’s lie in wait for blood. Let’s lurk secretly for the innocent without cause.</verse>
+  <verse number="12" id="PRO.1.12">Let’s swallow them up alive like Sheol,<noteref ref="PRO.1.FN2"/> and whole, like those who go down into the pit.</verse>
+  <verse number="13" id="PRO.1.13">We’ll find all valuable wealth. We’ll fill our houses with plunder.</verse>
+  <verse number="14" id="PRO.1.14">You shall cast your lot among us. We’ll all have one purse”—</verse>
+  <verse number="15" id="PRO.1.15">my son, don’t walk on the path with them. Keep your foot from their path,</verse>
+  <verse number="16" id="PRO.1.16">for their feet run to evil. They hurry to shed blood.</verse>
+  <verse number="17" id="PRO.1.17">For the net is spread in vain in the sight of any bird;</verse>
+  <verse number="18" id="PRO.1.18">but these lay in wait for their own blood. They lurk secretly for their own lives.</verse>
+  <verse number="19" id="PRO.1.19">So are the ways of everyone who is greedy for gain. It takes away the life of its owners.</verse>
+  <verse number="20" id="PRO.1.20">Wisdom calls aloud in the street. She utters her voice in the public squares.</verse>
+  <verse number="21" id="PRO.1.21">She calls at the head of noisy places. At the entrance of the city gates, she utters her words:</verse>
+  <verse number="22" id="PRO.1.22">“How long, you simple ones, will you love simplicity? How long will mockers delight themselves in mockery, and fools hate knowledge?</verse>
+  <verse number="23" id="PRO.1.23">Turn at my reproof. Behold,<noteref ref="PRO.1.FN3"/> I will pour out my spirit on you. I will make known my words to you.</verse>
+  <verse number="24" id="PRO.1.24">Because I have called, and you have refused; I have stretched out my hand, and no one has paid attention;</verse>
+  <verse number="25" id="PRO.1.25">but you have ignored all my counsel, and wanted none of my reproof;</verse>
+  <verse number="26" id="PRO.1.26">I also will laugh at your disaster. I will mock when calamity overtakes you,</verse>
+  <verse number="27" id="PRO.1.27">when calamity overtakes you like a storm, when your disaster comes on like a whirlwind, when distress and anguish come on you.</verse>
+  <verse number="28" id="PRO.1.28">Then they will call on me, but I will not answer. They will seek me diligently, but they will not find me,</verse>
+  <verse number="29" id="PRO.1.29">because they hated knowledge, and didn’t choose the fear of Yahweh.</verse>
+  <verse number="30" id="PRO.1.30">They wanted none of my counsel. They despised all my reproof.</verse>
+  <verse number="31" id="PRO.1.31">Therefore they will eat of the fruit of their own way, and be filled with their own schemes.</verse>
+  <verse number="32" id="PRO.1.32">For the backsliding of the simple will kill them. The careless ease of fools will destroy them.</verse>
+  <verse number="33" id="PRO.1.33">But whoever listens to me will dwell securely, and will be at ease, without fear of harm.”</verse>
+  <notes>
+    <note id="PRO.1.FN1" source-id="FN1" type="footnote" marker="†" verse="7">“Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.</note>
+    <note id="PRO.1.FN2" source-id="FN2" type="footnote" marker="‡" verse="12">Sheol is the place of the dead.</note>
+    <note id="PRO.1.FN3" source-id="FN3" type="footnote" marker="§" verse="23">“Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.</note>
+  </notes>
+</chapter>

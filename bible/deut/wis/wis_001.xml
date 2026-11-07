@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="WIS" name="Wisdom" testament="deut" number="1" id="WIS.1">
+  <title>Wisdom 1</title>
+  <heading kind="book-title">The Wisdom of Solomon</heading>
+  <intro>The Wisdom of Solomon is recognized as Deuterocanonical Scripture by the Roman Catholic, Greek Orthodox, and Russian Orthodox Churches.</intro>
+  <verse number="1" id="WIS.1.1">Love righteousness, all you who are judges of the earth. Think of the Lord<noteref ref="WIS.1.FN1"/> with a good mind. Seek him in singleness of heart,</verse>
+  <verse number="2" id="WIS.1.2">because he is found by those who don’t put him to the test, and is manifested to those who trust him.</verse>
+  <verse number="3" id="WIS.1.3">for crooked thoughts separate from God. His Power convicts when it is tested, and exposes the foolish;</verse>
+  <verse number="4" id="WIS.1.4">because wisdom will not enter into a soul that devises evil, nor dwell in a body that is enslaved by sin.</verse>
+  <verse number="5" id="WIS.1.5">For a holy spirit of discipline will flee deceit, and will depart from thoughts that are without understanding, and will be ashamed when unrighteousness has come in.</verse>
+  <verse number="6" id="WIS.1.6">For<noteref ref="WIS.1.FN2"/> wisdom is a spirit who loves man, and she will not hold a<noteref ref="WIS.1.FN3"/> blasphemer guiltless for his lips, because God is witness of his inmost self, and is a true overseer of his heart, and a hearer of his tongue.</verse>
+  <verse number="7" id="WIS.1.7">Because the spirit of the Lord has filled<noteref ref="WIS.1.FN4"/> the world, and that which holds all things together knows what is said.</verse>
+  <verse number="8" id="WIS.1.8">Therefore no one who utters unrighteous things will be unseen; neither will Justice, when it convicts, pass him by.</verse>
+  <verse number="9" id="WIS.1.9">For in his counsels the ungodly will be searched out, and the sound of his words will come to the Lord to bring his lawless deeds to conviction;</verse>
+  <verse number="10" id="WIS.1.10">because a jealous ear listens to all things, and the noise of murmurings is not hidden.</verse>
+  <verse number="11" id="WIS.1.11">Beware then of unprofitable murmuring, and keep your tongue from slander; because no secret utterance will go on its way void, and a lying mouth destroys a soul.</verse>
+  <verse number="12" id="WIS.1.12">Don’t court death in the error of your life. Don’t draw destruction upon yourselves by the works of your hands;</verse>
+  <verse number="13" id="WIS.1.13">because God didn’t make death, neither does he delight when the living perish.</verse>
+  <verse number="14" id="WIS.1.14">For he created all things that they might have being. The generative powers of the world are wholesome, and there is no poison of destruction in them, nor has Hades<noteref ref="WIS.1.FN5"/> royal dominion upon earth;</verse>
+  <verse number="15" id="WIS.1.15">for righteousness is immortal,</verse>
+  <verse number="16" id="WIS.1.16">but ungodly men by their hands and their words summon death; deeming him a friend they<noteref ref="WIS.1.FN6"/> pined away. They made a covenant with him, because they are worthy to belong with him.</verse>
+  <notes>
+    <note id="WIS.1.FN1" source-id="FN1" type="footnote" marker="†" verse="1">Gr. <alternative>in goodness. </alternative></note>
+    <note id="WIS.1.FN2" source-id="FN2" type="footnote" marker="‡" verse="6">Some authorities read <alternative>the spirit of wisdom is loving to man. </alternative></note>
+    <note id="WIS.1.FN3" source-id="FN3" type="footnote" marker="§" verse="6">Or, <alternative>reviler </alternative></note>
+    <note id="WIS.1.FN4" source-id="FN4" type="footnote" marker="†" verse="7">Gr. <alternative>the inhabited earth. </alternative></note>
+    <note id="WIS.1.FN5" source-id="FN5" type="footnote" marker="‡" verse="14">Or, <alternative>a royal house </alternative></note>
+    <note id="WIS.1.FN6" source-id="FN6" type="footnote" marker="§" verse="16">Or, <alternative>were consumed </alternative>with love of him</note>
+  </notes>
+</chapter>

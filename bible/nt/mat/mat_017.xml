@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="MAT" name="Matthew" testament="nt" number="17" id="MAT.17">
+  <title>Matthew 17</title>
+  <verse number="1" id="MAT.17.1">After six days, Jesus took with him Peter, James, and John his brother, and brought them up into a high mountain by themselves.</verse>
+  <verse number="2" id="MAT.17.2">He was changed<noteref ref="MAT.17.FN1"/> before them. His face shone like the sun, and his garments became as white as the light.</verse>
+  <verse number="3" id="MAT.17.3">Behold, Moses and Elijah appeared to them talking with him.</verse>
+  <verse number="4" id="MAT.17.4">Peter answered and said to Jesus, “Lord, it is good for us to be here. If you want, let’s make three tents here: one for you, one for Moses, and one for Elijah.”</verse>
+  <verse number="5" id="MAT.17.5">While he was still speaking, behold, a bright cloud overshadowed them. Behold, a voice came out of the cloud, saying, “This is my beloved Son, in whom I am well pleased. Listen to him.”</verse>
+  <verse number="6" id="MAT.17.6">When the disciples heard it, they fell on their faces, and were very afraid.</verse>
+  <verse number="7" id="MAT.17.7">Jesus came and touched them and said, <wj>“Get up, and don’t be afraid.” </wj></verse>
+  <verse number="8" id="MAT.17.8">Lifting up their eyes, they saw no one, except Jesus alone.</verse>
+  <verse number="9" id="MAT.17.9">As they were coming down from the mountain, Jesus commanded them, saying, <wj>“Don’t tell anyone what you saw, until the Son of Man has risen from the dead.”</wj></verse>
+  <verse number="10" id="MAT.17.10">His disciples asked him, saying, “Then why do the scribes say that Elijah must come first?”</verse>
+  <verse number="11" id="MAT.17.11">Jesus answered them, <wj>“Elijah indeed comes first, and will restore all things; </wj></verse>
+  <verse number="12" id="MAT.17.12"><wj>but I tell you that Elijah has come already, and they didn’t recognize him, but did to him whatever they wanted to. Even so the Son of Man will also suffer by them.”</wj></verse>
+  <verse number="13" id="MAT.17.13">Then the disciples understood that he spoke to them of John the Baptizer.</verse>
+  <verse number="14" id="MAT.17.14">When they came to the multitude, a man came to him, kneeling down to him and saying,</verse>
+  <verse number="15" id="MAT.17.15">“Lord, have mercy on my son, for he is epileptic and suffers grievously; for he often falls into the fire, and often into the water.</verse>
+  <verse number="16" id="MAT.17.16">So I brought him to your disciples, and they could not cure him.”</verse>
+  <verse number="17" id="MAT.17.17">Jesus answered, <wj>“Faithless and perverse generation! How long will I be with you? How long will I bear with you? Bring him here to me.”</wj></verse>
+  <verse number="18" id="MAT.17.18">Jesus rebuked the demon, and it went out of him, and the boy was cured from that hour.</verse>
+  <verse number="19" id="MAT.17.19">Then the disciples came to Jesus privately, and said, “Why weren’t we able to cast it out?”</verse>
+  <verse number="20" id="MAT.17.20">He said to them, <wj>“Because of your unbelief. For most certainly I tell you, if you have faith as a grain of mustard seed, you will tell this mountain, ‘Move from here to there,’ and it will move; and nothing will be impossible for you. </wj></verse>
+  <verse number="21" id="MAT.17.21"><wj>But this kind doesn’t go out except by prayer and fasting.” </wj><noteref ref="MAT.17.FN2"/></verse>
+  <verse number="22" id="MAT.17.22">While they were staying in Galilee, Jesus said to them, <wj>“The Son of Man is about to be delivered up into the hands of men, </wj></verse>
+  <verse number="23" id="MAT.17.23"><wj>and they will kill him, and the third day he will be raised up.” </wj> They were exceedingly sorry.</verse>
+  <verse number="24" id="MAT.17.24">When they had come to Capernaum, those who collected the didrachma coins<noteref ref="MAT.17.FN3"/> came to Peter, and said, “Doesn’t your teacher pay the didrachma?”</verse>
+  <verse number="25" id="MAT.17.25">He said, “Yes.” When he came into the house, Jesus anticipated him, saying, <wj>“What do you think, Simon? From whom do the kings of the earth receive toll or tribute? From their children, or from strangers?”</wj></verse>
+  <verse number="26" id="MAT.17.26">Peter said to him, “From strangers.” Jesus said to him, <wj>“Therefore the children are exempt. </wj></verse>
+  <verse number="27" id="MAT.17.27"><wj>But, lest we cause them to stumble, go to the sea, cast a hook, and take up the first fish that comes up. When you have opened its mouth, you will find a stater coin.</wj><noteref ref="MAT.17.FN4"/> <wj>Take that, and give it to them for me and you.”</wj></verse>
+  <notes>
+    <note id="MAT.17.FN1" source-id="FN1" type="footnote" marker="†" verse="2">or, transfigured</note>
+    <note id="MAT.17.FN2" source-id="FN2" type="footnote" marker="‡" verse="21">NU omits verse 21.</note>
+    <note id="MAT.17.FN3" source-id="FN3" type="footnote" marker="§" verse="24">A didrachma is a Greek silver coin worth 2 drachmas, about as much as 2 Roman denarii, or about 2 days’ wages. It was commonly used to pay the half-shekel temple tax, because 2 drachmas were worth one half shekel of silver. A shekel is about 10 grams or about 0.35 ounces.</note>
+    <note id="MAT.17.FN4" source-id="FN4" type="footnote" marker="†" verse="27">A stater is a silver coin equivalent to four Attic or two Alexandrian drachmas, or a Jewish shekel: just exactly enough to cover the half-shekel temple tax for two people. A shekel is about 10 grams or about 0.35 ounces, usually in the form of a silver coin.</note>
+  </notes>
+</chapter>

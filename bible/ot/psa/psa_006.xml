@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="PSA" name="Psalms" testament="ot" number="6" id="PSA.6">
+  <title>Psalm 6</title>
+  <heading kind="psalm-title">For the Chief Musician; on stringed instruments, upon the eight-stringed lyre. A Psalm by David.</heading>
+  <verse number="1" id="PSA.6.1">Yahweh, don’t rebuke me in your anger, neither discipline me in your wrath.</verse>
+  <verse number="2" id="PSA.6.2">Have mercy on me, Yahweh, for I am faint. Yahweh, heal me, for my bones are troubled.</verse>
+  <verse number="3" id="PSA.6.3">My soul is also in great anguish. But you, Yahweh—how long?</verse>
+  <verse number="4" id="PSA.6.4">Return, Yahweh. Deliver my soul, and save me for your loving kindness’ sake.</verse>
+  <verse number="5" id="PSA.6.5">For in death there is no memory of you. In Sheol,<noteref ref="PSA.6.FN1"/> who shall give you thanks?</verse>
+  <verse number="6" id="PSA.6.6">I am weary with my groaning. Every night I flood my bed. I drench my couch with my tears.</verse>
+  <verse number="7" id="PSA.6.7">My eye wastes away because of grief. It grows old because of all my adversaries.</verse>
+  <verse number="8" id="PSA.6.8">Depart from me, all you workers of iniquity, for Yahweh has heard the voice of my weeping.</verse>
+  <verse number="9" id="PSA.6.9">Yahweh has heard my supplication. Yahweh accepts my prayer.</verse>
+  <verse number="10" id="PSA.6.10">May all my enemies be ashamed and dismayed. They shall turn back, they shall be disgraced suddenly.</verse>
+  <notes>
+    <note id="PSA.6.FN1" source-id="FN1" type="footnote" marker="†" verse="5">Sheol is the place of the dead.</note>
+  </notes>
+</chapter>

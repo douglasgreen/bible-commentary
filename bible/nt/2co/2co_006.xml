@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="2CO" name="2 Corinthians" testament="nt" number="6" id="2CO.6">
+  <title>2 Corinthians 6</title>
+  <verse number="1" id="2CO.6.1">Working together, we entreat also that you do not receive the grace of God in vain.</verse>
+  <verse number="2" id="2CO.6.2">For he says, “At an acceptable time I listened to you. In a day of salvation I helped you.”<noteref ref="2CO.6.FN1"/> Behold, now is the acceptable time. Behold, now is the day of salvation.</verse>
+  <verse number="3" id="2CO.6.3">We give no occasion of stumbling in anything, that our service may not be blamed,</verse>
+  <verse number="4" id="2CO.6.4">but in everything commending ourselves as servants of God: in great endurance, in afflictions, in hardships, in distresses,</verse>
+  <verse number="5" id="2CO.6.5">in beatings, in imprisonments, in riots, in labors, in watchings, in fastings,</verse>
+  <verse number="6" id="2CO.6.6">in pureness, in knowledge, in perseverance, in kindness, in the Holy Spirit, in sincere love,</verse>
+  <verse number="7" id="2CO.6.7">in the word of truth, in the power of God, by the armor of righteousness on the right hand and on the left,</verse>
+  <verse number="8" id="2CO.6.8">by glory and dishonor, by evil report and good report, as deceivers and yet true,</verse>
+  <verse number="9" id="2CO.6.9">as unknown and yet well known, as dying and behold—we live, as punished and not killed,</verse>
+  <verse number="10" id="2CO.6.10">as sorrowful yet always rejoicing, as poor yet making many rich, as having nothing and yet possessing all things.</verse>
+  <verse number="11" id="2CO.6.11">Our mouth is open to you, Corinthians. Our heart is enlarged.</verse>
+  <verse number="12" id="2CO.6.12">You are not restricted by us, but you are restricted by your own affections.</verse>
+  <verse number="13" id="2CO.6.13">Now in return—I speak as to my children—you also open your hearts.</verse>
+  <verse number="14" id="2CO.6.14">Don’t be unequally yoked with unbelievers, for what fellowship do righteousness and iniquity have? Or what fellowship does light have with darkness?</verse>
+  <verse number="15" id="2CO.6.15">What agreement does Christ have with Belial? Or what portion does a believer have with an unbeliever?</verse>
+  <verse number="16" id="2CO.6.16">What agreement does a temple of God have with idols? For you are a temple of the living God. Even as God said, “I will dwell in them and walk in them. I will be their God and they will be my people.”<noteref ref="2CO.6.FN2"/></verse>
+  <verse number="17" id="2CO.6.17">Therefore “ ‘Come out from among them, and be separate,’ says the Lord. ‘Touch no unclean thing. I will receive you.<noteref ref="2CO.6.FN3"/></verse>
+  <verse number="18" id="2CO.6.18">I will be to you a Father. You will be to me sons and daughters,’ says the Lord Almighty.”<noteref ref="2CO.6.FN4"/></verse>
+  <notes>
+    <note id="2CO.6.FN1" source-id="FN1" type="cross-reference" marker="*" verse="2"><ref book="ISA" chapter="49" verse="8">Isaiah 49:8</ref></note>
+    <note id="2CO.6.FN2" source-id="FN2" type="cross-reference" marker="*" verse="16"><ref book="LEV" chapter="26" verse="12">Leviticus 26:12</ref>; <ref book="JER" chapter="32" verse="38">Jeremiah 32:38</ref>; <ref book="EZK" chapter="37" verse="27">Ezekiel 37:27</ref></note>
+    <note id="2CO.6.FN3" source-id="FN3" type="cross-reference" marker="*" verse="17"><ref book="ISA" chapter="52" verse="11">Isaiah 52:11</ref>; <ref book="EZK" chapter="20" verse="34">Ezekiel 20:34,41</ref></note>
+    <note id="2CO.6.FN4" source-id="FN4" type="cross-reference" marker="*" verse="18"><ref book="2SA" chapter="7" verse="14">2 Samuel 7:14</ref>; <ref book="2SA" chapter="7" verse="8">7:8</ref></note>
+  </notes>
+</chapter>

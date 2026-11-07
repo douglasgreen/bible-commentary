@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="PSA" name="Psalms" testament="ot" number="34" id="PSA.34">
+  <title>Psalm 34</title>
+  <heading kind="psalm-title">By David; when he pretended to be insane before Abimelech, who drove him away, and he departed.</heading>
+  <verse number="1" id="PSA.34.1"><noteref ref="PSA.34.FN1"/>I will bless Yahweh at all times. His praise will always be in my mouth.</verse>
+  <verse number="2" id="PSA.34.2">My soul shall boast in Yahweh. The humble shall hear of it and be glad.</verse>
+  <verse number="3" id="PSA.34.3">Oh magnify Yahweh with me. Let’s exalt his name together.</verse>
+  <verse number="4" id="PSA.34.4">I sought Yahweh, and he answered me, and delivered me from all my fears.</verse>
+  <verse number="5" id="PSA.34.5">They looked to him, and were radiant. Their faces shall never be covered with shame.</verse>
+  <verse number="6" id="PSA.34.6">This poor man cried, and Yahweh heard him, and saved him out of all his troubles.</verse>
+  <verse number="7" id="PSA.34.7">Yahweh’s angel encamps around those who fear him, and delivers them.</verse>
+  <verse number="8" id="PSA.34.8">Oh taste and see that Yahweh is good. Blessed is the man who takes refuge in him.</verse>
+  <verse number="9" id="PSA.34.9">Oh fear Yahweh, you his saints, for there is no lack with those who fear him.</verse>
+  <verse number="10" id="PSA.34.10">The young lions do lack, and suffer hunger, but those who seek Yahweh shall not lack any good thing.</verse>
+  <verse number="11" id="PSA.34.11">Come, you children, listen to me. I will teach you the fear of Yahweh.</verse>
+  <verse number="12" id="PSA.34.12">Who is someone who desires life, and loves many days, that he may see good?</verse>
+  <verse number="13" id="PSA.34.13">Keep your tongue from evil, and your lips from speaking lies.</verse>
+  <verse number="14" id="PSA.34.14">Depart from evil, and do good. Seek peace, and pursue it.</verse>
+  <verse number="15" id="PSA.34.15">Yahweh’s eyes are toward the righteous. His ears listen to their cry.</verse>
+  <verse number="16" id="PSA.34.16">Yahweh’s face is against those who do evil, to cut off their memory from the earth.</verse>
+  <verse number="17" id="PSA.34.17">The righteous cry, and Yahweh hears, and delivers them out of all their troubles.</verse>
+  <verse number="18" id="PSA.34.18">Yahweh is near to those who have a broken heart, and saves those who have a crushed spirit.</verse>
+  <verse number="19" id="PSA.34.19">Many are the afflictions of the righteous, but Yahweh delivers him out of them all.</verse>
+  <verse number="20" id="PSA.34.20">He protects all of his bones. Not one of them is broken.</verse>
+  <verse number="21" id="PSA.34.21">Evil shall kill the wicked. Those who hate the righteous shall be condemned.</verse>
+  <verse number="22" id="PSA.34.22">Yahweh redeems the soul of his servants. None of those who take refuge in him shall be condemned.</verse>
+  <notes>
+    <note id="PSA.34.FN1" source-id="FN1" type="footnote" marker="†" verse="1">Psalm 34 is an acrostic poem, with each verse starting with a letter of the alphabet (ordered from Alef to Tav).</note>
+  </notes>
+</chapter>

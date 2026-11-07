@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="SNG" name="Song of Solomon" testament="ot" number="1" id="SNG.1">
+  <title>Song of Solomon 1</title>
+  <heading kind="book-title">The Song of Solomon</heading>
+  <verse number="1" id="SNG.1.1">The Song of songs, which is Solomon’s.</verse>
+  <verse number="2" id="SNG.1.2"><speaker>Beloved</speaker> Let him kiss me with the kisses of his mouth; for your love is better than wine.</verse>
+  <verse number="3" id="SNG.1.3">Your oils have a pleasing fragrance. Your name is oil poured out, therefore the virgins love you.</verse>
+  <verse number="4" id="SNG.1.4">Take me away with you. Let’s hurry. The king has brought me into his rooms. <speaker>Friends</speaker> We will be glad and rejoice in you. We will praise your love more than wine! <speaker>Beloved</speaker> They are right to love you.</verse>
+  <verse number="5" id="SNG.1.5">I am dark, but lovely, you daughters of Jerusalem, like Kedar’s tents, like Solomon’s curtains.</verse>
+  <verse number="6" id="SNG.1.6">Don’t stare at me because I am dark, because the sun has scorched me. My mother’s sons were angry with me. They made me keeper of the vineyards. I haven’t kept my own vineyard.</verse>
+  <verse number="7" id="SNG.1.7">Tell me, you whom my soul loves, where you graze your flock, where you rest them at noon; for why should I be as one who is veiled beside the flocks of your companions?</verse>
+  <verse number="8" id="SNG.1.8"><speaker>Lover</speaker> If you don’t know, most beautiful among women, follow the tracks of the sheep. Graze your young goats beside the shepherds’ tents.</verse>
+  <verse number="9" id="SNG.1.9">I have compared you, my love, to a steed in Pharaoh’s chariots.</verse>
+  <verse number="10" id="SNG.1.10">Your cheeks are beautiful with earrings, your neck with strings of jewels.</verse>
+  <verse number="11" id="SNG.1.11"><speaker>Friends</speaker> We will make you earrings of gold, with studs of silver.</verse>
+  <verse number="12" id="SNG.1.12"><speaker>Beloved</speaker> While the king sat at his table, my perfume spread its fragrance.</verse>
+  <verse number="13" id="SNG.1.13">My beloved is to me a sachet of myrrh, that lies between my breasts.</verse>
+  <verse number="14" id="SNG.1.14">My beloved is to me a cluster of henna blossoms from the vineyards of En Gedi.</verse>
+  <verse number="15" id="SNG.1.15"><speaker>Lover</speaker> Behold,<noteref ref="SNG.1.FN1"/> you are beautiful, my love. Behold, you are beautiful. Your eyes are like doves.</verse>
+  <verse number="16" id="SNG.1.16"><speaker>Beloved</speaker> Behold, you are beautiful, my beloved, yes, pleasant; and our couch is verdant.</verse>
+  <verse number="17" id="SNG.1.17"><speaker>Lover</speaker> The beams of our house are cedars. Our rafters are firs.</verse>
+  <notes>
+    <note id="SNG.1.FN1" source-id="FN1" type="footnote" marker="†" verse="15">“Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.</note>
+  </notes>
+</chapter>

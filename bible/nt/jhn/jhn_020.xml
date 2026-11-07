@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="JHN" name="John" testament="nt" number="20" id="JHN.20">
+  <title>John 20</title>
+  <verse number="1" id="JHN.20.1">Now on the first day of the week, Mary Magdalene went early, while it was still dark, to the tomb, and saw that the stone had been taken away from the tomb.</verse>
+  <verse number="2" id="JHN.20.2">Therefore she ran and came to Simon Peter and to the other disciple whom Jesus loved, and said to them, “They have taken away the Lord out of the tomb, and we don’t know where they have laid him!”</verse>
+  <verse number="3" id="JHN.20.3">Therefore Peter and the other disciple went out, and they went toward the tomb.</verse>
+  <verse number="4" id="JHN.20.4">They both ran together. The other disciple outran Peter and came to the tomb first.</verse>
+  <verse number="5" id="JHN.20.5">Stooping and looking in, he saw the linen cloths lying there; yet he didn’t enter in.</verse>
+  <verse number="6" id="JHN.20.6">Then Simon Peter came, following him, and entered into the tomb. He saw the linen cloths lying,</verse>
+  <verse number="7" id="JHN.20.7">and the cloth that had been on his head, not lying with the linen cloths, but rolled up in a place by itself.</verse>
+  <verse number="8" id="JHN.20.8">So then the other disciple who came first to the tomb also entered in, and he saw and believed.</verse>
+  <verse number="9" id="JHN.20.9">For as yet they didn’t know the Scripture, that he must rise from the dead.</verse>
+  <verse number="10" id="JHN.20.10">So the disciples went away again to their own homes.</verse>
+  <verse number="11" id="JHN.20.11">But Mary was standing outside at the tomb weeping. So as she wept, she stooped and looked into the tomb,</verse>
+  <verse number="12" id="JHN.20.12">and she saw two angels in white sitting, one at the head and one at the feet, where the body of Jesus had lain.</verse>
+  <verse number="13" id="JHN.20.13">They asked her, “Woman, why are you weeping?” She said to them, “Because they have taken away my Lord, and I don’t know where they have laid him.”</verse>
+  <verse number="14" id="JHN.20.14">When she had said this, she turned around and saw Jesus standing, and didn’t know that it was Jesus.</verse>
+  <verse number="15" id="JHN.20.15">Jesus said to her, <wj>“Woman, why are you weeping? Who are you looking for?”</wj> She, supposing him to be the gardener, said to him, “Sir, if you have carried him away, tell me where you have laid him, and I will take him away.”</verse>
+  <verse number="16" id="JHN.20.16">Jesus said to her, <wj>“Mary.”</wj> She turned and said to him, “Rabboni!”<noteref ref="JHN.20.FN1"/> which is to say, “Teacher!”<noteref ref="JHN.20.FN2"/></verse>
+  <verse number="17" id="JHN.20.17">Jesus said to her, <wj>“Don’t hold me, for I haven’t yet ascended to my Father; but go to my brothers and tell them, ‘I am ascending to my Father and your Father, to my God and your God.’ ”</wj></verse>
+  <verse number="18" id="JHN.20.18">Mary Magdalene came and told the disciples that she had seen the Lord, and that he had said these things to her.</verse>
+  <verse number="19" id="JHN.20.19">When therefore it was evening on that day, the first day of the week, and when the doors were locked where the disciples were assembled, for fear of the Jews, Jesus came and stood in the middle and said to them, <wj>“Peace be to you.”</wj></verse>
+  <verse number="20" id="JHN.20.20">When he had said this, he showed them his hands and his side. The disciples therefore were glad when they saw the Lord.</verse>
+  <verse number="21" id="JHN.20.21">Jesus therefore said to them again, <wj>“Peace be to you. As the Father has sent me, even so I send you.”</wj></verse>
+  <verse number="22" id="JHN.20.22">When he had said this, he breathed on them, and said to them, <wj>“Receive the Holy Spirit! </wj></verse>
+  <verse number="23" id="JHN.20.23"><wj>If you forgive anyone’s sins, they have been forgiven them. If you retain anyone’s sins, they have been retained.”</wj></verse>
+  <verse number="24" id="JHN.20.24">But Thomas, one of the twelve, called Didymus,<noteref ref="JHN.20.FN3"/> wasn’t with them when Jesus came.</verse>
+  <verse number="25" id="JHN.20.25">The other disciples therefore said to him, “We have seen the Lord!” But he said to them, “Unless I see in his hands the print of the nails, put my finger into the print of the nails, and put my hand into his side, I will not believe.”</verse>
+  <verse number="26" id="JHN.20.26">After eight days, again his disciples were inside and Thomas was with them. Jesus came, the doors being locked, and stood in the middle, and said, <wj>“Peace be to you.”</wj></verse>
+  <verse number="27" id="JHN.20.27">Then he said to Thomas, <wj>“Reach here your finger, and see my hands. Reach here your hand, and put it into my side. Don’t be unbelieving, but believing.”</wj></verse>
+  <verse number="28" id="JHN.20.28">Thomas answered him, “My Lord and my God!”</verse>
+  <verse number="29" id="JHN.20.29">Jesus said to him, <wj>“Because you have seen me,</wj><noteref ref="JHN.20.FN4"/> <wj>you have believed. Blessed are those who have not seen and have believed.”</wj></verse>
+  <verse number="30" id="JHN.20.30">Therefore Jesus did many other signs in the presence of his disciples, which are not written in this book;</verse>
+  <verse number="31" id="JHN.20.31">but these are written that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name.</verse>
+  <notes>
+    <note id="JHN.20.FN1" source-id="FN1" type="footnote" marker="†" verse="16">Rabboni is a transliteration of the Aramaic word for “great teacher.”</note>
+    <note id="JHN.20.FN2" source-id="FN2" type="footnote" marker="‡" verse="16">or, Master</note>
+    <note id="JHN.20.FN3" source-id="FN3" type="footnote" marker="§" verse="24">or, Twin</note>
+    <note id="JHN.20.FN4" source-id="FN4" type="footnote" marker="†" verse="29">TR adds “Thomas,”</note>
+  </notes>
+</chapter>

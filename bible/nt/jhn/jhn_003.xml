@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="JHN" name="John" testament="nt" number="3" id="JHN.3">
+  <title>John 3</title>
+  <verse number="1" id="JHN.3.1">Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.</verse>
+  <verse number="2" id="JHN.3.2">He came to Jesus by night and said to him, “Rabbi, we know that you are a teacher who has come from God, for no one can do these signs that you do, unless God is with him.”</verse>
+  <verse number="3" id="JHN.3.3">Jesus answered him, <wj>“Most certainly I tell you, unless one is born anew, </wj><noteref ref="JHN.3.FN1"/> <wj>he can’t see God’s Kingdom.”</wj></verse>
+  <verse number="4" id="JHN.3.4">Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb and be born?”</verse>
+  <verse number="5" id="JHN.3.5">Jesus answered, <wj>“Most certainly I tell you, unless one is born of water and Spirit, he can’t enter into God’s Kingdom.</wj></verse>
+  <verse number="6" id="JHN.3.6"><wj>That which is born of the flesh is flesh. That which is born of the Spirit is spirit. </wj></verse>
+  <verse number="7" id="JHN.3.7"><wj>Don’t marvel that I said to you, ‘You must all be born anew.’ </wj></verse>
+  <verse number="8" id="JHN.3.8"><wj>The wind</wj><noteref ref="JHN.3.FN2"/> <wj>blows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”</wj></verse>
+  <verse number="9" id="JHN.3.9">Nicodemus answered him, “How can these things be?”</verse>
+  <verse number="10" id="JHN.3.10">Jesus answered him, <wj>“Are you the teacher of Israel, and don’t understand these things? </wj></verse>
+  <verse number="11" id="JHN.3.11"><wj>Most certainly I tell you, we speak that which we know and testify of that which we have seen, and you don’t receive our witness. </wj></verse>
+  <verse number="12" id="JHN.3.12"><wj>If I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things? </wj></verse>
+  <verse number="13" id="JHN.3.13"><wj>No one has ascended into heaven but he who descended out of heaven, the Son of Man, who is in heaven. </wj></verse>
+  <verse number="14" id="JHN.3.14"><wj>As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, </wj></verse>
+  <verse number="15" id="JHN.3.15"><wj>that whoever believes in him should not perish, but have eternal life. </wj></verse>
+  <verse number="16" id="JHN.3.16"><wj>For God so loved the world, that he gave his only born</wj><noteref ref="JHN.3.FN3"/> <wj>Son, that whoever believes in him should not perish, but have eternal life. </wj></verse>
+  <verse number="17" id="JHN.3.17"><wj>For God didn’t send his Son into the world to judge the world, but that the world should be saved through him. </wj></verse>
+  <verse number="18" id="JHN.3.18"><wj>He who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the only born Son of God. </wj></verse>
+  <verse number="19" id="JHN.3.19"><wj>This is the judgment, that the light has come into the world, and men loved the darkness rather than the light, for their works were evil. </wj></verse>
+  <verse number="20" id="JHN.3.20"><wj>For everyone who does evil hates the light and doesn’t come to the light, lest his works would be exposed. </wj></verse>
+  <verse number="21" id="JHN.3.21"><wj>But he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”</wj></verse>
+  <verse number="22" id="JHN.3.22">After these things, Jesus came with his disciples into the land of Judea. He stayed there with them and baptized.</verse>
+  <verse number="23" id="JHN.3.23">John also was baptizing in Enon near Salim, because there was much water there. They came and were baptized;</verse>
+  <verse number="24" id="JHN.3.24">for John was not yet thrown into prison.</verse>
+  <verse number="25" id="JHN.3.25">Therefore a dispute arose on the part of John’s disciples with some Jews about purification.</verse>
+  <verse number="26" id="JHN.3.26">They came to John and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, he baptizes, and everyone is coming to him.”</verse>
+  <verse number="27" id="JHN.3.27">John answered, “A man can receive nothing unless it has been given him from heaven.</verse>
+  <verse number="28" id="JHN.3.28">You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’</verse>
+  <verse number="29" id="JHN.3.29">He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. Therefore my joy is made full.</verse>
+  <verse number="30" id="JHN.3.30">He must increase, but I must decrease.</verse>
+  <verse number="31" id="JHN.3.31">“He who comes from above is above all. He who is from the earth belongs to the earth and speaks of the earth. He who comes from heaven is above all.</verse>
+  <verse number="32" id="JHN.3.32">What he has seen and heard, of that he testifies; and no one receives his witness.</verse>
+  <verse number="33" id="JHN.3.33">He who has received his witness has set his seal to this, that God is true.</verse>
+  <verse number="34" id="JHN.3.34">For he whom God has sent speaks the words of God; for God gives the Spirit without measure.</verse>
+  <verse number="35" id="JHN.3.35">The Father loves the Son, and has given all things into his hand.</verse>
+  <verse number="36" id="JHN.3.36">One who believes in the Son has eternal life, but one who disobeys<noteref ref="JHN.3.FN4"/> the Son won’t see life, but the wrath of God remains on him.”</verse>
+  <notes>
+    <note id="JHN.3.FN1" source-id="FN1" type="footnote" marker="†" verse="3">The word translated “anew” here and in <ref book="JHN" chapter="3" verse="7">John 3:7</ref> (ἄνωθεν) also means “again” and “from above”.</note>
+    <note id="JHN.3.FN2" source-id="FN2" type="footnote" marker="‡" verse="8">The same Greek word (πνεῦμα) means wind, breath, and spirit.</note>
+    <note id="JHN.3.FN3" source-id="FN3" type="footnote" marker="§" verse="16">The phrase “only born” is from the Greek word “μονογενη”, which is sometimes translated “only begotten” or “one and only”.</note>
+    <note id="JHN.3.FN4" source-id="FN4" type="footnote" marker="†" verse="36">The same word can be translated “disobeys” or “disbelieves” in this context.</note>
+  </notes>
+</chapter>

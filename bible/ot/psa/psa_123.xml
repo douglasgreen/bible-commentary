@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="PSA" name="Psalms" testament="ot" number="123" id="PSA.123">
+  <title>Psalm 123</title>
+  <heading kind="psalm-title">A Song of Ascents.</heading>
+  <verse number="1" id="PSA.123.1">I lift up my eyes to you, you who sit in the heavens.</verse>
+  <verse number="2" id="PSA.123.2">Behold, as the eyes of servants look to the hand of their master, as the eyes of a maid to the hand of her mistress, so our eyes look to Yahweh, our God, until he has mercy on us.</verse>
+  <verse number="3" id="PSA.123.3">Have mercy on us, Yahweh, have mercy on us, for we have endured much contempt.</verse>
+  <verse number="4" id="PSA.123.4">Our soul is exceedingly filled with the scoffing of those who are at ease, with the contempt of the proud.</verse>
+</chapter>

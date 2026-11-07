@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="1TI" name="1 Timothy" testament="nt" number="5" id="1TI.5">
+  <title>1 Timothy 5</title>
+  <verse number="1" id="1TI.5.1">Don’t rebuke an older man, but exhort him as a father; the younger men as brothers;</verse>
+  <verse number="2" id="1TI.5.2">the elder women as mothers; the younger as sisters, in all purity.</verse>
+  <verse number="3" id="1TI.5.3">Honor widows who are widows indeed.</verse>
+  <verse number="4" id="1TI.5.4">But if any widow has children or grandchildren, let them learn first to show piety toward their own family and to repay their parents, for this is<noteref ref="1TI.5.FN1"/> acceptable in the sight of God.</verse>
+  <verse number="5" id="1TI.5.5">Now she who is a widow indeed and desolate, has her hope set on God and continues in petitions and prayers night and day.</verse>
+  <verse number="6" id="1TI.5.6">But she who gives herself to pleasure is dead while she lives.</verse>
+  <verse number="7" id="1TI.5.7">Also command these things, that they may be without reproach.</verse>
+  <verse number="8" id="1TI.5.8">But if anyone doesn’t provide for his own, and especially his own household, he has denied the faith and is worse than an unbeliever.</verse>
+  <verse number="9" id="1TI.5.9">Let no one be enrolled as a widow under sixty years old, having been the wife of one man,</verse>
+  <verse number="10" id="1TI.5.10">being approved by good works, if she has brought up children, if she has been hospitable to strangers, if she has washed the saints’ feet, if she has relieved the afflicted, and if she has diligently followed every good work.</verse>
+  <verse number="11" id="1TI.5.11">But refuse younger widows, for when they have grown wanton against Christ, they desire to marry,</verse>
+  <verse number="12" id="1TI.5.12">having condemnation, because they have rejected their first pledge.</verse>
+  <verse number="13" id="1TI.5.13">Besides, they also learn to be idle, going about from house to house. Not only idle, but also gossips and busybodies, saying things which they ought not.</verse>
+  <verse number="14" id="1TI.5.14">I desire therefore that the younger widows marry, bear children, rule the household, and give no occasion to the adversary for insulting.</verse>
+  <verse number="15" id="1TI.5.15">For already some have turned away after Satan.</verse>
+  <verse number="16" id="1TI.5.16">If any man or woman who believes has widows, let them relieve them, and don’t let the assembly be burdened, that it might relieve those who are widows indeed.</verse>
+  <verse number="17" id="1TI.5.17">Let the elders who rule well be counted worthy of double honor, especially those who labor in the word and in teaching.</verse>
+  <verse number="18" id="1TI.5.18">For the Scripture says, “You shall not muzzle the ox when it treads out the grain.”<noteref ref="1TI.5.FN2"/> And, <wj>“The laborer is worthy of his wages.”</wj><noteref ref="1TI.5.FN3"/></verse>
+  <verse number="19" id="1TI.5.19">Don’t receive an accusation against an elder except at the word of two or three witnesses.</verse>
+  <verse number="20" id="1TI.5.20">Those who sin, reprove in the sight of all, that the rest also may be in fear.</verse>
+  <verse number="21" id="1TI.5.21">I command you in the sight of God, and the Lord Jesus Christ, and the chosen angels, that you observe these things without prejudice, doing nothing by partiality.</verse>
+  <verse number="22" id="1TI.5.22">Lay hands hastily on no one. Don’t be a participant in other people’s sins. Keep yourself pure.</verse>
+  <verse number="23" id="1TI.5.23">Be no longer a drinker of water only, but use a little wine for your stomach’s sake and your frequent infirmities.</verse>
+  <verse number="24" id="1TI.5.24">Some men’s sins are evident, preceding them to judgment, and some also follow later.</verse>
+  <verse number="25" id="1TI.5.25">In the same way also there are good works that are obvious, and those that are otherwise can’t be hidden.</verse>
+  <notes>
+    <note id="1TI.5.FN1" source-id="FN1" type="footnote" marker="†" verse="4">TR adds “good and”</note>
+    <note id="1TI.5.FN2" source-id="FN2" type="cross-reference" marker="*" verse="18"><ref book="DEU" chapter="25" verse="4">Deuteronomy 25:4</ref></note>
+    <note id="1TI.5.FN3" source-id="FN3" type="cross-reference" marker="*" verse="18"><ref book="LUK" chapter="10" verse="7">Luke 10:7</ref>; <ref book="LEV" chapter="19" verse="13">Leviticus 19:13</ref></note>
+  </notes>
+</chapter>

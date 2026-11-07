@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="PSA" name="Psalms" testament="ot" number="112" id="PSA.112">
+  <title>Psalm 112</title>
+  <verse number="1" id="PSA.112.1">Praise Yah!<noteref ref="PSA.112.FN1"/> Blessed is the man who fears Yahweh, who delights greatly in his commandments.</verse>
+  <verse number="2" id="PSA.112.2">His offspring will be mighty in the land. The generation of the upright will be blessed.</verse>
+  <verse number="3" id="PSA.112.3">Wealth and riches are in his house. His righteousness endures forever.</verse>
+  <verse number="4" id="PSA.112.4">Light dawns in the darkness for the upright, gracious, merciful, and righteous.</verse>
+  <verse number="5" id="PSA.112.5">It is well with the man who deals graciously and lends. He will maintain his cause in judgment.</verse>
+  <verse number="6" id="PSA.112.6">For he will never be shaken. The righteous will be remembered forever.</verse>
+  <verse number="7" id="PSA.112.7">He will not be afraid of evil news. His heart is steadfast, trusting in Yahweh.</verse>
+  <verse number="8" id="PSA.112.8">His heart is established. He will not be afraid in the end when he sees his adversaries.</verse>
+  <verse number="9" id="PSA.112.9">He has dispersed, he has given to the poor. His righteousness endures forever. His horn will be exalted with honor.</verse>
+  <verse number="10" id="PSA.112.10">The wicked will see it, and be grieved. He shall gnash with his teeth, and melt away. The desire of the wicked will perish.</verse>
+  <notes>
+    <note id="PSA.112.FN1" source-id="FN1" type="footnote" marker="†" verse="1">Psalm 112 is an acrostic poem, with each verse after the initial “Praise Yah!” starting with a letter of the alphabet (ordered from Alef to Tav).</note>
+  </notes>
+</chapter>

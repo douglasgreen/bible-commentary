@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="PSA" name="Psalms" testament="ot" number="97" id="PSA.97">
+  <title>Psalm 97</title>
+  <verse number="1" id="PSA.97.1">Yahweh reigns! Let the earth rejoice! Let the multitude of islands be glad!</verse>
+  <verse number="2" id="PSA.97.2">Clouds and darkness are around him. Righteousness and justice are the foundation of his throne.</verse>
+  <verse number="3" id="PSA.97.3">A fire goes before him, and burns up his adversaries on every side.</verse>
+  <verse number="4" id="PSA.97.4">His lightning lights up the world. The earth sees, and trembles.</verse>
+  <verse number="5" id="PSA.97.5">The mountains melt like wax at the presence of Yahweh, at the presence of the Lord of the whole earth.</verse>
+  <verse number="6" id="PSA.97.6">The heavens declare his righteousness. All the peoples have seen his glory.</verse>
+  <verse number="7" id="PSA.97.7">Let all them be shamed who serve engraved images, who boast in their idols. Worship him, all you gods!<noteref ref="PSA.97.FN1"/></verse>
+  <verse number="8" id="PSA.97.8">Zion heard and was glad. The daughters of Judah rejoiced because of your judgments, Yahweh.</verse>
+  <verse number="9" id="PSA.97.9">For you, Yahweh, are most high above all the earth. You are exalted far above all gods.</verse>
+  <verse number="10" id="PSA.97.10">You who love Yahweh, hate evil! He preserves the souls of his saints. He delivers them out of the hand of the wicked.</verse>
+  <verse number="11" id="PSA.97.11">Light is sown for the righteous, and gladness for the upright in heart.</verse>
+  <verse number="12" id="PSA.97.12">Be glad in Yahweh, you righteous people! Give thanks to his holy Name.</verse>
+  <notes>
+    <note id="PSA.97.FN1" source-id="FN1" type="footnote" marker="†" verse="7">LXX reads “angels” instead of “gods”.</note>
+  </notes>
+</chapter>

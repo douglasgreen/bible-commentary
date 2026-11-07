@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="SIR" name="Sirach" testament="deut" number="30" id="SIR.30">
+  <title>Sirach 30</title>
+  <verse number="1" id="SIR.30.1">He who loves his son will continue to lay stripes upon him, that he may have joy from him in the end.</verse>
+  <verse number="2" id="SIR.30.2">He who chastises his son will have profit from him, and will brag about him among his acquaintances.</verse>
+  <verse number="3" id="SIR.30.3">He who teaches his son will provoke his enemy to jealousy. Before friends, he will rejoice in him.</verse>
+  <verse number="4" id="SIR.30.4">His father dies, and is as though he had not died; for he has left one behind him like himself.</verse>
+  <verse number="5" id="SIR.30.5">In his life, he saw his son and rejoiced. When he died, it was without regret.</verse>
+  <verse number="6" id="SIR.30.6">He left behind him an avenger against his enemies, and one to repay kindness to his friends.</verse>
+  <verse number="7" id="SIR.30.7">He who makes too much of his son will bind up his wounds. His heart will be troubled at every cry.</verse>
+  <verse number="8" id="SIR.30.8">An unbroken horse becomes stubborn. An unrestrained son becomes headstrong.</verse>
+  <verse number="9" id="SIR.30.9">Pamper your child, and he will make you afraid. Play with him, and he will grieve you.</verse>
+  <verse number="10" id="SIR.30.10">Don’t laugh with him, lest you have sorrow with him, and you gnash your teeth in the end.</verse>
+  <verse number="11" id="SIR.30.11">Give him no liberty in his youth, and don’t ignore his follies.<noteref ref="SIR.30.FN1"/></verse>
+  <verse number="12" id="SIR.30.12"><noteref ref="SIR.30.FN2"/>Bow down his neck in his youth, and beat him on the sides while he is a child, lest he become stubborn, and be disobedient to you, and there be sorrow to your soul.<noteref ref="SIR.30.FN3"/></verse>
+  <verse number="13" id="SIR.30.13">Chastise your son, and give him work, lest his shameless behavior be an offense to you.</verse>
+  <verse number="14" id="SIR.30.14">Better is a poor man who is healthy and fit, than a rich man who is afflicted in his body.</verse>
+  <verse number="15" id="SIR.30.15">Health and fitness are better than all gold, and a strong body better than wealth without measure.</verse>
+  <verse number="16" id="SIR.30.16">There is no wealth better than health of body. There is no gladness above the joy of the heart.</verse>
+  <verse number="17" id="SIR.30.17">Death is better than a bitter life, and eternal rest than a continual sickness.</verse>
+  <verse number="18" id="SIR.30.18">Good things poured out upon a mouth that is closed are like food offerings laid upon a grave.</verse>
+  <verse number="19" id="SIR.30.19">What does an offering profit an idol? For it can’t eat or smell. So is he who is punished by the Lord,</verse>
+  <verse number="20" id="SIR.30.20">seeing with his eyes and groaning, like a eunuch embracing a virgin and groaning.</verse>
+  <verse number="21" id="SIR.30.21">Don’t give your soul to sorrow. Don’t afflict yourself deliberately.</verse>
+  <verse number="22" id="SIR.30.22">Gladness of heart is the life of a man. Cheerfulness of a man lengthens his days.</verse>
+  <verse number="23" id="SIR.30.23">Love your own soul, and comfort your heart. Remove sorrow far from you, for sorrow has destroyed many, and there is no profit in it.</verse>
+  <verse number="24" id="SIR.30.24">Envy and wrath shorten life. Anxiety brings old age before its time.</verse>
+  <verse number="25" id="SIR.30.25">Those who are cheerful and merry will benefit from their food.</verse>
+  <notes>
+    <note id="SIR.30.FN1" source-id="FN1" type="footnote" marker="†" verse="11">This line and the previous two lines are absent from some older MSS.</note>
+    <note id="SIR.30.FN2" source-id="FN2" type="footnote" marker="‡" verse="12">These three lines are absent from the oldest MSS.</note>
+    <note id="SIR.30.FN3" source-id="FN3" type="footnote" marker="§" verse="12">These three lines are absent from the oldest MSS.</note>
+  </notes>
+</chapter>

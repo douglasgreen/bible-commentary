@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="MAT" name="Matthew" testament="nt" number="10" id="MAT.10">
+  <title>Matthew 10</title>
+  <verse number="1" id="MAT.10.1">He called to himself his twelve disciples, and gave them authority over unclean spirits, to cast them out, and to heal every disease and every sickness.</verse>
+  <verse number="2" id="MAT.10.2">Now the names of the twelve apostles are these. The first, Simon, who is called Peter; Andrew, his brother; James the son of Zebedee; John, his brother;</verse>
+  <verse number="3" id="MAT.10.3">Philip; Bartholomew; Thomas; Matthew the tax collector; James the son of Alphaeus; Lebbaeus, who was also called<noteref ref="MAT.10.FN1"/> Thaddaeus;</verse>
+  <verse number="4" id="MAT.10.4">Simon the Zealot; and Judas Iscariot, who also betrayed him.</verse>
+  <verse number="5" id="MAT.10.5">Jesus sent these twelve out and commanded them, saying, <wj>“Don’t go among the Gentiles, and don’t enter into any city of the Samaritans. </wj></verse>
+  <verse number="6" id="MAT.10.6"><wj>Rather, go to the lost sheep of the house of Israel. </wj></verse>
+  <verse number="7" id="MAT.10.7"><wj>As you go, preach, saying, ‘The Kingdom of Heaven is at hand!’ </wj></verse>
+  <verse number="8" id="MAT.10.8"><wj>Heal the sick, cleanse the lepers,</wj><noteref ref="MAT.10.FN2"/> <wj>and cast out demons. Freely you received, so freely give. </wj></verse>
+  <verse number="9" id="MAT.10.9"><wj>Don’t take any gold, silver, or brass in your money belts. </wj></verse>
+  <verse number="10" id="MAT.10.10"><wj>Take no bag for your journey, neither two coats, nor sandals, nor staff: for the laborer is worthy of his food. </wj></verse>
+  <verse number="11" id="MAT.10.11"><wj>Into whatever city or village you enter, find out who in it is worthy, and stay there until you go on. </wj></verse>
+  <verse number="12" id="MAT.10.12"><wj>As you enter into the household, greet it. </wj></verse>
+  <verse number="13" id="MAT.10.13"><wj>If the household is worthy, let your peace come on it, but if it isn’t worthy, let your peace return to you. </wj></verse>
+  <verse number="14" id="MAT.10.14"><wj>Whoever doesn’t receive you or hear your words, as you go out of that house or that city, shake the dust off your feet. </wj></verse>
+  <verse number="15" id="MAT.10.15"><wj>Most certainly I tell you, it will be more tolerable for the land of Sodom and Gomorrah in the day of judgment than for that city.</wj></verse>
+  <verse number="16" id="MAT.10.16"><wj>“Behold, I send you out as sheep among wolves. Therefore be wise as serpents and harmless as doves. </wj></verse>
+  <verse number="17" id="MAT.10.17"><wj>But beware of men, for they will deliver you up to councils, and in their synagogues they will scourge you. </wj></verse>
+  <verse number="18" id="MAT.10.18"><wj>Yes, and you will be brought before governors and kings for my sake, for a testimony to them and to the nations. </wj></verse>
+  <verse number="19" id="MAT.10.19"><wj>But when they deliver you up, don’t be anxious how or what you will say, for it will be given you in that hour what you will say. </wj></verse>
+  <verse number="20" id="MAT.10.20"><wj>For it is not you who speak, but the Spirit of your Father who speaks in you.</wj></verse>
+  <verse number="21" id="MAT.10.21"><wj>“Brother will deliver up brother to death, and the father his child. Children will rise up against parents and cause them to be put to death. </wj></verse>
+  <verse number="22" id="MAT.10.22"><wj>You will be hated by all men for my name’s sake, but he who endures to the end will be saved. </wj></verse>
+  <verse number="23" id="MAT.10.23"><wj>But when they persecute you in this city, flee into the next, for most certainly I tell you, you will not have gone through the cities of Israel until the Son of Man has come.</wj></verse>
+  <verse number="24" id="MAT.10.24"><wj>“A disciple is not above his teacher, nor a servant above his lord. </wj></verse>
+  <verse number="25" id="MAT.10.25"><wj>It is enough for the disciple that he be like his teacher, and the servant like his lord. If they have called the master of the house Beelzebul,</wj><noteref ref="MAT.10.FN3"/> <wj>how much more those of his household! </wj></verse>
+  <verse number="26" id="MAT.10.26"><wj>Therefore don’t be afraid of them, for there is nothing covered that will not be revealed, or hidden that will not be known. </wj></verse>
+  <verse number="27" id="MAT.10.27"><wj>What I tell you in the darkness, speak in the light; and what you hear whispered in the ear, proclaim on the housetops. </wj></verse>
+  <verse number="28" id="MAT.10.28"><wj>Don’t be afraid of those who kill the body, but are not able to kill the soul. Rather, fear him who is able to destroy both soul and body in Gehenna.</wj><noteref ref="MAT.10.FN4"/></verse>
+  <verse number="29" id="MAT.10.29"><wj>“Aren’t two sparrows sold for an assarion coin?</wj><noteref ref="MAT.10.FN5"/> <wj>Not one of them falls to the ground apart from your Father’s will. </wj></verse>
+  <verse number="30" id="MAT.10.30"><wj>But the very hairs of your head are all numbered. </wj></verse>
+  <verse number="31" id="MAT.10.31"><wj>Therefore don’t be afraid. You are of more value than many sparrows. </wj></verse>
+  <verse number="32" id="MAT.10.32"><wj>Everyone therefore who confesses me before men, I will also confess him before my Father who is in heaven. </wj></verse>
+  <verse number="33" id="MAT.10.33"><wj>But whoever denies me before men, I will also deny him before my Father who is in heaven.</wj></verse>
+  <verse number="34" id="MAT.10.34"><wj>“Don’t think that I came to send peace on the earth. I didn’t come to send peace, but a sword. </wj></verse>
+  <verse number="35" id="MAT.10.35"><wj>For I came to set a man at odds against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law. </wj></verse>
+  <verse number="36" id="MAT.10.36"><wj>A man’s foes will be those of his own household.</wj><noteref ref="MAT.10.FN6"/></verse>
+  <verse number="37" id="MAT.10.37"><wj>He who loves father or mother more than me is not worthy of me; and he who loves son or daughter more than me isn’t worthy of me. </wj></verse>
+  <verse number="38" id="MAT.10.38"><wj>He who doesn’t take his cross and follow after me isn’t worthy of me. </wj></verse>
+  <verse number="39" id="MAT.10.39"><wj>He who seeks his life will lose it; and he who loses his life for my sake will find it. </wj></verse>
+  <verse number="40" id="MAT.10.40"><wj>“He who receives you receives me, and he who receives me receives him who sent me. </wj></verse>
+  <verse number="41" id="MAT.10.41"><wj>He who receives a prophet in the name of a prophet will receive a prophet’s reward. He who receives a righteous man in the name of a righteous man will receive a righteous man’s reward. </wj></verse>
+  <verse number="42" id="MAT.10.42"><wj>Whoever gives one of these little ones just a cup of cold water to drink in the name of a disciple, most certainly I tell you, he will in no way lose his reward.”</wj></verse>
+  <notes>
+    <note id="MAT.10.FN1" source-id="FN1" type="footnote" marker="†" verse="3">NU omits “Lebbaeus, who was also called”</note>
+    <note id="MAT.10.FN2" source-id="FN2" type="footnote" marker="‡" verse="8">TR adds “raise the dead,”</note>
+    <note id="MAT.10.FN3" source-id="FN3" type="footnote" marker="§" verse="25">Literally, Lord of the Flies, or the devil</note>
+    <note id="MAT.10.FN4" source-id="FN4" type="footnote" marker="†" verse="28">or, Hell.</note>
+    <note id="MAT.10.FN5" source-id="FN5" type="footnote" marker="‡" verse="29">An assarion is a small coin worth one tenth of a drachma or a sixteenth of a denarius. An assarion is approximately the wages of one half hour of agricultural labor.</note>
+    <note id="MAT.10.FN6" source-id="FN6" type="cross-reference" marker="*" verse="36"><ref book="MIC" chapter="7" verse="6">Micah 7:6</ref></note>
+  </notes>
+</chapter>

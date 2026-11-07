@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="1JN" name="1 John" testament="nt" number="2" id="1JN.2">
+  <title>1 John 2</title>
+  <verse number="1" id="1JN.2.1">My little children, I write these things to you so that you may not sin. If anyone sins, we have a Counselor<noteref ref="1JN.2.FN1"/> with the Father, Jesus Christ, the righteous.</verse>
+  <verse number="2" id="1JN.2.2">And he is the atoning sacrifice<noteref ref="1JN.2.FN2"/> for our sins, and not for ours only, but also for the whole world.</verse>
+  <verse number="3" id="1JN.2.3">This is how we know that we know him: if we keep his commandments.</verse>
+  <verse number="4" id="1JN.2.4">One who says, “I know him,” and doesn’t keep his commandments, is a liar, and the truth isn’t in him.</verse>
+  <verse number="5" id="1JN.2.5">But God’s love has most certainly been perfected in whoever keeps his word. This is how we know that we are in him:</verse>
+  <verse number="6" id="1JN.2.6">he who says he remains in him ought himself also to walk just like he walked.</verse>
+  <verse number="7" id="1JN.2.7">Brothers, I write no new commandment to you, but an old commandment which you had from the beginning. The old commandment is the word which you heard from the beginning.</verse>
+  <verse number="8" id="1JN.2.8">Again, I write a new commandment to you, which is true in him and in you, because the darkness is passing away and the true light already shines.</verse>
+  <verse number="9" id="1JN.2.9">He who says he is in the light and hates his brother is in the darkness even until now.</verse>
+  <verse number="10" id="1JN.2.10">He who loves his brother remains in the light, and there is no occasion for stumbling in him.</verse>
+  <verse number="11" id="1JN.2.11">But he who hates his brother is in the darkness, and walks in the darkness, and doesn’t know where he is going, because the darkness has blinded his eyes.</verse>
+  <verse number="12" id="1JN.2.12">I write to you, little children, because your sins are forgiven you for his name’s sake.</verse>
+  <verse number="13" id="1JN.2.13">I write to you, fathers, because you know him who is from the beginning. I write to you, young men, because you have overcome the evil one. I write to you, little children, because you know the Father.</verse>
+  <verse number="14" id="1JN.2.14">I have written to you, fathers, because you know him who is from the beginning. I have written to you, young men, because you are strong, and the word of God remains in you, and you have overcome the evil one.</verse>
+  <verse number="15" id="1JN.2.15">Don’t love the world or the things that are in the world. If anyone loves the world, the Father’s love isn’t in him.</verse>
+  <verse number="16" id="1JN.2.16">For all that is in the world—the lust of the flesh, the lust of the eyes, and the pride of life—isn’t the Father’s, but is the world’s.</verse>
+  <verse number="17" id="1JN.2.17">The world is passing away with its lusts, but he who does God’s will remains forever.</verse>
+  <verse number="18" id="1JN.2.18">Little children, these are the end times, and as you heard that the Antichrist is coming, even now many antichrists have arisen. By this we know that it is the final hour.</verse>
+  <verse number="19" id="1JN.2.19">They went out from us, but they didn’t belong to us; for if they had belonged to us, they would have continued with us. But they left, that they might be revealed that none of them belong to us.</verse>
+  <verse number="20" id="1JN.2.20">You have an anointing from the Holy One, and you all have knowledge.<noteref ref="1JN.2.FN3"/></verse>
+  <verse number="21" id="1JN.2.21">I have not written to you because you don’t know the truth, but because you know it, and because no lie is of the truth.</verse>
+  <verse number="22" id="1JN.2.22">Who is the liar but he who denies that Jesus is the Christ? This is the Antichrist, he who denies the Father and the Son.</verse>
+  <verse number="23" id="1JN.2.23">Whoever denies the Son doesn’t have the Father. He who confesses the Son has the Father also.<noteref ref="1JN.2.FN4"/></verse>
+  <verse number="24" id="1JN.2.24">Therefore, as for you, let that remain in you which you heard from the beginning. If that which you heard from the beginning remains in you, you also will remain in the Son, and in the Father.</verse>
+  <verse number="25" id="1JN.2.25">This is the promise which he promised us, the eternal life.</verse>
+  <verse number="26" id="1JN.2.26">These things I have written to you concerning those who would lead you astray.</verse>
+  <verse number="27" id="1JN.2.27">As for you, the anointing which you received from him remains in you, and you don’t need for anyone to teach you. But as his anointing teaches you concerning all things, and is true, and is no lie, and even as it taught you, you will remain in him.</verse>
+  <verse number="28" id="1JN.2.28">Now, little children, remain in him, that when he appears, we may have boldness and not be ashamed before him at his coming.</verse>
+  <verse number="29" id="1JN.2.29">If you know that he is righteous, you know that everyone who practices righteousness has been born of him.</verse>
+  <notes>
+    <note id="1JN.2.FN1" source-id="FN1" type="footnote" marker="†" verse="1">Greek παρακλητον: Counselor, Helper, Intercessor, Advocate, and Comforter.</note>
+    <note id="1JN.2.FN2" source-id="FN2" type="footnote" marker="‡" verse="2">“atoning sacrifice” is from the Greek “ιλασμος”, an appeasing, propitiating, or the means of appeasement or propitiation—the sacrifice that turns away God’s wrath because of our sin.</note>
+    <note id="1JN.2.FN3" source-id="FN3" type="footnote" marker="§" verse="20">Or, “know what is true”, or, “know all things”</note>
+    <note id="1JN.2.FN4" source-id="FN4" type="footnote" marker="†" verse="23">MT omits: He who confesses the Son has the Father also.</note>
+  </notes>
+</chapter>

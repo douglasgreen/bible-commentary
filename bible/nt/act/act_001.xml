@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="ACT" name="Acts" testament="nt" number="1" id="ACT.1">
+  <title>Acts 1</title>
+  <heading kind="book-title">The Acts of the Apostles</heading>
+  <verse number="1" id="ACT.1.1">The first book I wrote, Theophilus, concerned all that Jesus began both to do and to teach,</verse>
+  <verse number="2" id="ACT.1.2">until the day in which he was received up, after he had given commandment through the Holy Spirit to the apostles whom he had chosen.</verse>
+  <verse number="3" id="ACT.1.3">To these he also showed himself alive after he suffered, by many proofs, appearing to them over a period of forty days and speaking about God’s Kingdom.</verse>
+  <verse number="4" id="ACT.1.4">Being assembled together with them, he commanded them, <wj>“Don’t depart from Jerusalem, but wait for the promise of the Father, which you heard from me. </wj></verse>
+  <verse number="5" id="ACT.1.5"><wj>For John indeed baptized in water, but you will be baptized in the Holy Spirit not many days from now.”</wj></verse>
+  <verse number="6" id="ACT.1.6">Therefore, when they had come together, they asked him, “Lord, are you now restoring the kingdom to Israel?”</verse>
+  <verse number="7" id="ACT.1.7">He said to them, <wj>“It isn’t for you to know times or seasons which the Father has set within his own authority. </wj></verse>
+  <verse number="8" id="ACT.1.8"><wj>But you will receive power when the Holy Spirit has come upon you. You will be witnesses to me in Jerusalem, in all Judea and Samaria, and to the uttermost parts of the earth.”</wj></verse>
+  <verse number="9" id="ACT.1.9">When he had said these things, as they were looking, he was taken up, and a cloud received him out of their sight.</verse>
+  <verse number="10" id="ACT.1.10">While they were looking steadfastly into the sky as he went, behold,<noteref ref="ACT.1.FN1"/> two men stood by them in white clothing,</verse>
+  <verse number="11" id="ACT.1.11">who also said, “You men of Galilee, why do you stand looking into the sky? This Jesus, who was received up from you into the sky, will come back in the same way as you saw him going into the sky.”</verse>
+  <verse number="12" id="ACT.1.12">Then they returned to Jerusalem from the mountain called Olivet, which is near Jerusalem, a Sabbath day’s journey away.</verse>
+  <verse number="13" id="ACT.1.13">When they had come in, they went up into the upper room where they were staying, that is Peter, John, James, Andrew, Philip, Thomas, Bartholomew, Matthew, James the son of Alphaeus, Simon the Zealot, and Judas the son of James.</verse>
+  <verse number="14" id="ACT.1.14">All these with one accord continued steadfastly in prayer and supplication, along with the women and Mary the mother of Jesus, and with his brothers.</verse>
+  <verse number="15" id="ACT.1.15">In these days, Peter stood up in the middle of the disciples (and the number of names was about one hundred twenty), and said,</verse>
+  <verse number="16" id="ACT.1.16">“Brothers, it was necessary that this Scripture should be fulfilled, which the Holy Spirit spoke before by the mouth of David concerning Judas, who was guide to those who took Jesus.</verse>
+  <verse number="17" id="ACT.1.17">For he was counted with us, and received his portion in this ministry.</verse>
+  <verse number="18" id="ACT.1.18">Now this man obtained a field with the reward for his wickedness; and falling headlong, his body burst open and all his intestines gushed out.</verse>
+  <verse number="19" id="ACT.1.19">It became known to everyone who lived in Jerusalem that in their language that field was called ‘Akeldama,’ that is, ‘The field of blood.’</verse>
+  <verse number="20" id="ACT.1.20">For it is written in the book of Psalms, ‘Let his habitation be made desolate. Let no one dwell in it;’<noteref ref="ACT.1.FN2"/> and, ‘Let another take his office.’<noteref ref="ACT.1.FN3"/></verse>
+  <verse number="21" id="ACT.1.21">“Of the men therefore who have accompanied us all the time that the Lord Jesus went in and out among us,</verse>
+  <verse number="22" id="ACT.1.22">beginning from the baptism of John to the day that he was received up from us, of these one must become a witness with us of his resurrection.”</verse>
+  <verse number="23" id="ACT.1.23">They put forward two: Joseph called Barsabbas, who was also called Justus, and Matthias.</verse>
+  <verse number="24" id="ACT.1.24">They prayed and said, “You, Lord, who know the hearts of all men, show which one of these two you have chosen</verse>
+  <verse number="25" id="ACT.1.25">to take part in this ministry and apostleship from which Judas fell away, that he might go to his own place.”</verse>
+  <verse number="26" id="ACT.1.26">They drew lots for them, and the lot fell on Matthias; and he was counted with the eleven apostles.</verse>
+  <notes>
+    <note id="ACT.1.FN1" source-id="FN1" type="footnote" marker="†" verse="10">“Behold”, from “ἰδοὺ”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.</note>
+    <note id="ACT.1.FN2" source-id="FN2" type="cross-reference" marker="*" verse="20"><ref book="PSA" chapter="69" verse="25">Psalms 69:25</ref></note>
+    <note id="ACT.1.FN3" source-id="FN3" type="cross-reference" marker="*" verse="20"><ref book="PSA" chapter="109" verse="8">Psalms 109:8</ref></note>
+  </notes>
+</chapter>

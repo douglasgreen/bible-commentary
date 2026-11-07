@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="TIT" name="Titus" testament="nt" number="1" id="TIT.1">
+  <title>Titus 1</title>
+  <heading kind="book-title">Paul’s Letter to Titus</heading>
+  <verse number="1" id="TIT.1.1">Paul, a servant of God and an apostle of Jesus Christ,<noteref ref="TIT.1.FN1"/> according to the faith of God’s chosen ones and the knowledge of the truth which is according to godliness,</verse>
+  <verse number="2" id="TIT.1.2">in hope of eternal life, which God, who can’t lie, promised before time began;</verse>
+  <verse number="3" id="TIT.1.3">but in his own time revealed his word in the message with which I was entrusted according to the commandment of God our Savior,</verse>
+  <verse number="4" id="TIT.1.4">to Titus, my true child according to a common faith: Grace, mercy, and peace from God the Father and the Lord Jesus Christ our Savior.</verse>
+  <verse number="5" id="TIT.1.5">I left you in Crete for this reason, that you would set in order the things that were lacking and appoint elders in every city, as I directed you—</verse>
+  <verse number="6" id="TIT.1.6">if anyone is blameless, the husband of one wife, having children who believe, who are not accused of loose or unruly behavior.</verse>
+  <verse number="7" id="TIT.1.7">For the overseer must be blameless, as God’s steward, not self-pleasing, not easily angered, not given to wine, not violent, not greedy for dishonest gain;</verse>
+  <verse number="8" id="TIT.1.8">but given to hospitality, a lover of good, sober minded, fair, holy, self-controlled,</verse>
+  <verse number="9" id="TIT.1.9">holding to the faithful word which is according to the teaching, that he may be able to exhort in the sound doctrine, and to convict those who contradict him.</verse>
+  <verse number="10" id="TIT.1.10">For there are also many unruly men, vain talkers and deceivers, especially those of the circumcision,</verse>
+  <verse number="11" id="TIT.1.11">whose mouths must be stopped: men who overthrow whole houses, teaching things which they ought not, for dishonest gain’s sake.</verse>
+  <verse number="12" id="TIT.1.12">One of them, a prophet of their own, said, “Cretans are always liars, evil beasts, and idle gluttons.”</verse>
+  <verse number="13" id="TIT.1.13">This testimony is true. For this cause, reprove them sharply, that they may be sound in the faith,</verse>
+  <verse number="14" id="TIT.1.14">not paying attention to Jewish fables and commandments of men who turn away from the truth.</verse>
+  <verse number="15" id="TIT.1.15">To the pure, all things are pure, but to those who are defiled and unbelieving, nothing is pure; but both their mind and their conscience are defiled.</verse>
+  <verse number="16" id="TIT.1.16">They profess that they know God, but by their deeds they deny him, being abominable, disobedient, and unfit for any good work.</verse>
+  <notes>
+    <note id="TIT.1.FN1" source-id="FN1" type="footnote" marker="†" verse="1">“Christ” means “Anointed One”.</note>
+  </notes>
+</chapter>

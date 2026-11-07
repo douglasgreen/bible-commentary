@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="PSA" name="Psalms" testament="ot" number="88" id="PSA.88">
+  <title>Psalm 88</title>
+  <heading kind="psalm-title">A Song. A Psalm by the sons of Korah. For the Chief Musician. To the tune of “The Suffering of Affliction.” A contemplation by Heman, the Ezrahite.</heading>
+  <verse number="1" id="PSA.88.1">Yahweh, the God of my salvation, I have cried day and night before you.</verse>
+  <verse number="2" id="PSA.88.2">Let my prayer enter into your presence. Turn your ear to my cry.</verse>
+  <verse number="3" id="PSA.88.3">For my soul is full of troubles. My life draws near to Sheol.<noteref ref="PSA.88.FN1"/></verse>
+  <verse number="4" id="PSA.88.4">I am counted among those who go down into the pit. I am like a man who has no help,</verse>
+  <verse number="5" id="PSA.88.5">set apart among the dead, like the slain who lie in the grave, whom you remember no more. They are cut off from your hand.</verse>
+  <verse number="6" id="PSA.88.6">You have laid me in the lowest pit, in the darkest depths.</verse>
+  <verse number="7" id="PSA.88.7">Your wrath lies heavily on me. You have afflicted me with all your waves. Selah.</verse>
+  <verse number="8" id="PSA.88.8">You have taken my friends from me. You have made me an abomination to them. I am confined, and I can’t escape.</verse>
+  <verse number="9" id="PSA.88.9">My eyes are dim from grief. I have called on you daily, Yahweh. I have spread out my hands to you.</verse>
+  <verse number="10" id="PSA.88.10">Do you show wonders to the dead? Do the departed spirits rise up and praise you? Selah.</verse>
+  <verse number="11" id="PSA.88.11">Is your loving kindness declared in the grave? Or your faithfulness in Destruction?</verse>
+  <verse number="12" id="PSA.88.12">Are your wonders made known in the dark? Or your righteousness in the land of forgetfulness?</verse>
+  <verse number="13" id="PSA.88.13">But to you, Yahweh, I have cried. In the morning, my prayer comes before you.</verse>
+  <verse number="14" id="PSA.88.14">Yahweh, why do you reject my soul? Why do you hide your face from me?</verse>
+  <verse number="15" id="PSA.88.15">I am afflicted and ready to die from my youth up. While I suffer your terrors, I am distracted.</verse>
+  <verse number="16" id="PSA.88.16">Your fierce wrath has gone over me. Your terrors have cut me off.</verse>
+  <verse number="17" id="PSA.88.17">They came around me like water all day long. They completely engulfed me.</verse>
+  <verse number="18" id="PSA.88.18">You have put lover and friend far from me, and my friends into darkness.</verse>
+  <notes>
+    <note id="PSA.88.FN1" source-id="FN1" type="footnote" marker="†" verse="3">Sheol is the place of the dead.</note>
+  </notes>
+</chapter>

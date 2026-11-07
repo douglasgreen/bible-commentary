@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="JOS" name="Joshua" testament="ot" number="1" id="JOS.1">
+  <title>Joshua 1</title>
+  <heading kind="book-title">The Book of</heading>
+  <heading kind="book-title">Joshua</heading>
+  <verse number="1" id="JOS.1.1">Now after the death of Moses the servant of Yahweh,<noteref ref="JOS.1.FN1"/> Yahweh spoke to Joshua the son of Nun, Moses’ servant, saying,</verse>
+  <verse number="2" id="JOS.1.2">“Moses my servant is dead. Now therefore arise, go across this Jordan, you and all these people, to the land which I am giving to them, even to the children of Israel.</verse>
+  <verse number="3" id="JOS.1.3">I have given you every place that the sole of your foot will tread on, as I told Moses.</verse>
+  <verse number="4" id="JOS.1.4">From the wilderness and this Lebanon even to the great river, the river Euphrates, all the land of the Hittites, and to the great sea toward the going down of the sun, shall be your border.</verse>
+  <verse number="5" id="JOS.1.5">No man will be able to stand before you all the days of your life. As I was with Moses, so I will be with you. I will not fail you nor forsake you.</verse>
+  <verse number="6" id="JOS.1.6">“Be strong and courageous; for you shall cause this people to inherit the land which I swore to their fathers to give them.</verse>
+  <verse number="7" id="JOS.1.7">Only be strong and very courageous. Be careful to observe to do according to all the law which Moses my servant commanded you. Don’t turn from it to the right hand or to the left, that you may have good success wherever you go.</verse>
+  <verse number="8" id="JOS.1.8">This book of the law shall not depart from your mouth, but you shall meditate on it day and night, that you may observe to do according to all that is written in it; for then you shall make your way prosperous, and then you shall have good success.</verse>
+  <verse number="9" id="JOS.1.9">Haven’t I commanded you? Be strong and courageous. Don’t be afraid. Don’t be dismayed, for Yahweh your God<noteref ref="JOS.1.FN2"/> is with you wherever you go.”</verse>
+  <verse number="10" id="JOS.1.10">Then Joshua commanded the officers of the people, saying,</verse>
+  <verse number="11" id="JOS.1.11">“Pass through the middle of the camp, and command the people, saying, ‘Prepare food; for within three days you are to pass over this Jordan, to go in to possess the land which Yahweh your God gives you to possess.’ ”</verse>
+  <verse number="12" id="JOS.1.12">Joshua spoke to the Reubenites, and to the Gadites, and to the half-tribe of Manasseh, saying,</verse>
+  <verse number="13" id="JOS.1.13">“Remember the word which Moses the servant of Yahweh commanded you, saying, ‘Yahweh your God gives you rest, and will give you this land.</verse>
+  <verse number="14" id="JOS.1.14">Your wives, your little ones, and your livestock shall live in the land which Moses gave you beyond the Jordan; but you shall pass over before your brothers armed, all the mighty men of valor, and shall help them</verse>
+  <verse number="15" id="JOS.1.15">until Yahweh has given your brothers rest, as he has given you, and they have also possessed the land which Yahweh your God gives them. Then you shall return to the land of your possession and possess it, which Moses the servant of Yahweh gave you beyond the Jordan toward the sunrise.’ ”</verse>
+  <verse number="16" id="JOS.1.16">They answered Joshua, saying, “All that you have commanded us we will do, and wherever you send us we will go.</verse>
+  <verse number="17" id="JOS.1.17">Just as we listened to Moses in all things, so will we listen to you. Only may Yahweh your God be with you, as he was with Moses.</verse>
+  <verse number="18" id="JOS.1.18">Whoever rebels against your commandment, and doesn’t listen to your words in all that you command him shall himself be put to death. Only be strong and courageous.”</verse>
+  <notes>
+    <note id="JOS.1.FN1" source-id="FN1" type="footnote" marker="†" verse="1">“Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.</note>
+    <note id="JOS.1.FN2" source-id="FN2" type="footnote" marker="‡" verse="9">The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).</note>
+  </notes>
+</chapter>

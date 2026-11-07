@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="2TI" name="2 Timothy" testament="nt" number="2" id="2TI.2">
+  <title>2 Timothy 2</title>
+  <verse number="1" id="2TI.2.1">You therefore, my child, be strengthened in the grace that is in Christ Jesus.</verse>
+  <verse number="2" id="2TI.2.2">The things which you have heard from me among many witnesses, commit the same things to faithful men who will be able to teach others also.</verse>
+  <verse number="3" id="2TI.2.3">You therefore must endure hardship as a good soldier of Christ Jesus.</verse>
+  <verse number="4" id="2TI.2.4">No soldier on duty entangles himself in the affairs of life, that he may please him who enrolled him as a soldier.</verse>
+  <verse number="5" id="2TI.2.5">Also, if anyone competes in athletics, he isn’t crowned unless he has competed by the rules.</verse>
+  <verse number="6" id="2TI.2.6">The farmer who labors must be the first to get a share of the crops.</verse>
+  <verse number="7" id="2TI.2.7">Consider what I say, and may the Lord give you understanding in all things.</verse>
+  <verse number="8" id="2TI.2.8">Remember Jesus Christ, risen from the dead, of the offspring<noteref ref="2TI.2.FN1"/> of David, according to my Good News,</verse>
+  <verse number="9" id="2TI.2.9">in which I suffer hardship to the point of chains as a criminal. But God’s word isn’t chained.</verse>
+  <verse number="10" id="2TI.2.10">Therefore I endure all things for the chosen ones’ sake, that they also may obtain the salvation which is in Christ Jesus with eternal glory.</verse>
+  <verse number="11" id="2TI.2.11">This saying is trustworthy: “For if we died with him, we will also live with him.</verse>
+  <verse number="12" id="2TI.2.12">If we endure, we will also reign with him. If we deny him, he also will deny us.</verse>
+  <verse number="13" id="2TI.2.13">If we are faithless, he remains faithful; for he can’t deny himself.”</verse>
+  <verse number="14" id="2TI.2.14">Remind them of these things, charging them in the sight of the Lord that they don’t argue about words to no profit, to the subverting of those who hear.</verse>
+  <verse number="15" id="2TI.2.15">Give diligence to present yourself approved by God, a workman who doesn’t need to be ashamed, properly handling the Word of Truth.</verse>
+  <verse number="16" id="2TI.2.16">But shun empty chatter, for it will go further in ungodliness,</verse>
+  <verse number="17" id="2TI.2.17">and those words will consume like gangrene, of whom is Hymenaeus and Philetus:</verse>
+  <verse number="18" id="2TI.2.18">men who have erred concerning the truth, saying that the resurrection is already past, and overthrowing the faith of some.</verse>
+  <verse number="19" id="2TI.2.19">However, God’s firm foundation stands, having this seal: “The Lord knows those who are his,”<noteref ref="2TI.2.FN2"/> and, “Let every one who names the name of the Lord<noteref ref="2TI.2.FN3"/> depart from unrighteousness.”</verse>
+  <verse number="20" id="2TI.2.20">Now in a large house there are not only vessels of gold and of silver, but also of wood and of clay. Some are for honor and some for dishonor.</verse>
+  <verse number="21" id="2TI.2.21">If anyone therefore purges himself from these, he will be a vessel for honor, sanctified, and suitable for the master’s use, prepared for every good work.</verse>
+  <verse number="22" id="2TI.2.22">Flee from youthful lusts; but pursue righteousness, faith, love, and peace with those who call on the Lord out of a pure heart.</verse>
+  <verse number="23" id="2TI.2.23">But refuse foolish and ignorant questionings, knowing that they generate strife.</verse>
+  <verse number="24" id="2TI.2.24">The Lord’s servant must not quarrel, but be gentle toward all, able to teach, patient,</verse>
+  <verse number="25" id="2TI.2.25">in gentleness correcting those who oppose him. Perhaps God may give them repentance leading to a full knowledge of the truth,</verse>
+  <verse number="26" id="2TI.2.26">and they may recover themselves out of the devil’s snare, having been taken captive by him to do his will.</verse>
+  <notes>
+    <note id="2TI.2.FN1" source-id="FN1" type="footnote" marker="†" verse="8">or, seed</note>
+    <note id="2TI.2.FN2" source-id="FN2" type="cross-reference" marker="*" verse="19"><ref book="NUM" chapter="16" verse="5">Numbers 16:5</ref></note>
+    <note id="2TI.2.FN3" source-id="FN3" type="footnote" marker="‡" verse="19">TR reads “Christ” instead of “the Lord”</note>
+  </notes>
+</chapter>

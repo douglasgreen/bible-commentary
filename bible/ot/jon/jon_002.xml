@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="JON" name="Jonah" testament="ot" number="2" id="JON.2">
+  <title>Jonah 2</title>
+  <verse number="1" id="JON.2.1">Then Jonah prayed to Yahweh, his God, out of the fish’s belly.</verse>
+  <verse number="2" id="JON.2.2">He said, “I called because of my affliction to Yahweh. He answered me. Out of the belly of Sheol<noteref ref="JON.2.FN1"/> I cried. You heard my voice.</verse>
+  <verse number="3" id="JON.2.3">For you threw me into the depths, in the heart of the seas. The flood was all around me. All your waves and your billows passed over me.</verse>
+  <verse number="4" id="JON.2.4">I said, ‘I have been banished from your sight; yet I will look again toward your holy temple.’</verse>
+  <verse number="5" id="JON.2.5">The waters surrounded me, even to the soul. The deep was around me. The weeds were wrapped around my head.</verse>
+  <verse number="6" id="JON.2.6">I went down to the bottoms of the mountains. The earth barred me in forever; yet you have brought my life up from the pit, Yahweh my God.</verse>
+  <verse number="7" id="JON.2.7">“When my soul fainted within me, I remembered Yahweh. My prayer came in to you, into your holy temple.</verse>
+  <verse number="8" id="JON.2.8">Those who regard vain idols forsake their own mercy.</verse>
+  <verse number="9" id="JON.2.9">But I will sacrifice to you with the voice of thanksgiving. I will pay that which I have vowed. Salvation belongs to Yahweh.”</verse>
+  <verse number="10" id="JON.2.10">Then Yahweh spoke to the fish, and it vomited out Jonah on the dry land.</verse>
+  <notes>
+    <note id="JON.2.FN1" source-id="FN1" type="footnote" marker="†" verse="2">Sheol is the place of the dead.</note>
+  </notes>
+</chapter>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="EXO" name="Exodus" testament="ot" number="1" id="EXO.1">
+  <title>Exodus 1</title>
+  <heading kind="book-title">The Second Book of Moses,</heading>
+  <heading kind="book-title">Commonly Called</heading>
+  <heading kind="book-title">Exodus</heading>
+  <verse number="1" id="EXO.1.1">Now these are the names of the sons of Israel, who came into Egypt (every man and his household came with Jacob):</verse>
+  <verse number="2" id="EXO.1.2">Reuben, Simeon, Levi, and Judah,</verse>
+  <verse number="3" id="EXO.1.3">Issachar, Zebulun, and Benjamin,</verse>
+  <verse number="4" id="EXO.1.4">Dan and Naphtali, Gad and Asher.</verse>
+  <verse number="5" id="EXO.1.5">All the souls who came out of Jacob’s body were seventy souls, and Joseph was in Egypt already.</verse>
+  <verse number="6" id="EXO.1.6">Joseph died, as did all his brothers, and all that generation.</verse>
+  <verse number="7" id="EXO.1.7">The children of Israel were fruitful, and increased abundantly, and multiplied, and grew exceedingly mighty; and the land was filled with them.</verse>
+  <verse number="8" id="EXO.1.8">Now there arose a new king over Egypt, who didn’t know Joseph.</verse>
+  <verse number="9" id="EXO.1.9">He said to his people, “Behold,<noteref ref="EXO.1.FN1"/> the people of the children of Israel are more and mightier than we.</verse>
+  <verse number="10" id="EXO.1.10">Come, let’s deal wisely with them, lest they multiply, and it happen that when any war breaks out, they also join themselves to our enemies and fight against us, and escape out of the land.”</verse>
+  <verse number="11" id="EXO.1.11">Therefore they set taskmasters over them to afflict them with their burdens. They built storage cities for Pharaoh: Pithom and Raamses.</verse>
+  <verse number="12" id="EXO.1.12">But the more they afflicted them, the more they multiplied and the more they spread out. They started to dread the children of Israel.</verse>
+  <verse number="13" id="EXO.1.13">The Egyptians ruthlessly made the children of Israel serve,</verse>
+  <verse number="14" id="EXO.1.14">and they made their lives bitter with hard service in mortar and in brick, and in all kinds of service in the field, all their service, in which they ruthlessly made them serve.</verse>
+  <verse number="15" id="EXO.1.15">The king of Egypt spoke to the Hebrew midwives, of whom the name of the one was Shiphrah, and the name of the other Puah,</verse>
+  <verse number="16" id="EXO.1.16">and he said, “When you perform the duty of a midwife to the Hebrew women, and see them on the birth stool, if it is a son, then you shall kill him; but if it is a daughter, then she shall live.”</verse>
+  <verse number="17" id="EXO.1.17">But the midwives feared God,<noteref ref="EXO.1.FN2"/> and didn’t do what the king of Egypt commanded them, but saved the baby boys alive.</verse>
+  <verse number="18" id="EXO.1.18">The king of Egypt called for the midwives, and said to them, “Why have you done this thing and saved the boys alive?”</verse>
+  <verse number="19" id="EXO.1.19">The midwives said to Pharaoh, “Because the Hebrew women aren’t like the Egyptian women; for they are vigorous and give birth before the midwife comes to them.”</verse>
+  <verse number="20" id="EXO.1.20">God dealt well with the midwives, and the people multiplied, and grew very mighty.</verse>
+  <verse number="21" id="EXO.1.21">Because the midwives feared God, he gave them families.</verse>
+  <verse number="22" id="EXO.1.22">Pharaoh commanded all his people, saying, “You shall cast every son who is born into the river, and every daughter you shall save alive.”</verse>
+  <notes>
+    <note id="EXO.1.FN1" source-id="FN1" type="footnote" marker="†" verse="9">“Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.</note>
+    <note id="EXO.1.FN2" source-id="FN2" type="footnote" marker="‡" verse="17">The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).</note>
+  </notes>
+</chapter>

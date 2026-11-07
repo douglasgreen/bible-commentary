@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="EPH" name="Ephesians" testament="nt" number="6" id="EPH.6">
+  <title>Ephesians 6</title>
+  <verse number="1" id="EPH.6.1">Children, obey your parents in the Lord, for this is right.</verse>
+  <verse number="2" id="EPH.6.2">“Honor your father and mother,” which is the first commandment with a promise:</verse>
+  <verse number="3" id="EPH.6.3">“that it may be well with you, and you may live long on the earth.”<noteref ref="EPH.6.FN1"/></verse>
+  <verse number="4" id="EPH.6.4">You fathers, don’t provoke your children to wrath, but nurture them in the discipline and instruction of the Lord.</verse>
+  <verse number="5" id="EPH.6.5">Servants, be obedient to those who according to the flesh are your masters, with fear and trembling, in singleness of your heart, as to Christ,</verse>
+  <verse number="6" id="EPH.6.6">not in the way of service only when eyes are on you, as men pleasers, but as servants of Christ, doing the will of God from the heart,</verse>
+  <verse number="7" id="EPH.6.7">with good will doing service as to the Lord and not to men,</verse>
+  <verse number="8" id="EPH.6.8">knowing that whatever good thing each one does, he will receive the same good again from the Lord, whether he is bound or free.</verse>
+  <verse number="9" id="EPH.6.9">You masters, do the same things to them, and give up threatening, knowing that he who is both their Master and yours is in heaven, and there is no partiality with him.</verse>
+  <verse number="10" id="EPH.6.10">Finally, be strong in the Lord and in the strength of his might.</verse>
+  <verse number="11" id="EPH.6.11">Put on the whole armor of God, that you may be able to stand against the wiles of the devil.</verse>
+  <verse number="12" id="EPH.6.12">For our wrestling is not against flesh and blood, but against the principalities, against the powers, against the world’s rulers of the darkness of this age, and against the spiritual forces of wickedness in the heavenly places.</verse>
+  <verse number="13" id="EPH.6.13">Therefore put on the whole armor of God, that you may be able to withstand in the evil day, and having done all, to stand.</verse>
+  <verse number="14" id="EPH.6.14">Stand therefore, having the utility belt of truth buckled around your waist, and having put on the breastplate of righteousness,</verse>
+  <verse number="15" id="EPH.6.15">and having fitted your feet with the preparation of the Good News of peace,</verse>
+  <verse number="16" id="EPH.6.16">above all, taking up the shield of faith, with which you will be able to quench all the fiery darts of the evil one.</verse>
+  <verse number="17" id="EPH.6.17">And take the helmet of salvation, and the sword of the Spirit, which is the word<noteref ref="EPH.6.FN2"/> of God;</verse>
+  <verse number="18" id="EPH.6.18">with all prayer and requests, praying at all times in the Spirit, and being watchful to this end in all perseverance and requests for all the saints.</verse>
+  <verse number="19" id="EPH.6.19">Pray for me, that utterance may be given to me in opening my mouth, to make known with boldness the mystery of the Good News,</verse>
+  <verse number="20" id="EPH.6.20">for which I am an ambassador in chains; that in it I may speak boldly, as I ought to speak.</verse>
+  <verse number="21" id="EPH.6.21">But that you also may know my affairs, how I am doing, Tychicus, the beloved brother and faithful servant in the Lord, will make known to you all things.</verse>
+  <verse number="22" id="EPH.6.22">I have sent him to you for this very purpose, that you may know our state and that he may comfort your hearts.</verse>
+  <verse number="23" id="EPH.6.23">Peace be to the brothers, and love with faith, from God the Father and the Lord Jesus Christ.</verse>
+  <verse number="24" id="EPH.6.24">Grace be with all those who love our Lord Jesus Christ with incorruptible love. Amen.</verse>
+  <notes>
+    <note id="EPH.6.FN1" source-id="FN1" type="cross-reference" marker="*" verse="3"><ref book="DEU" chapter="5" verse="16">Deuteronomy 5:16</ref></note>
+    <note id="EPH.6.FN2" source-id="FN2" type="footnote" marker="†" verse="17">from the Greek “ῥῆμα” (rhema), which means “spoken word”</note>
+  </notes>
+</chapter>

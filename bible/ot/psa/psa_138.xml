@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="PSA" name="Psalms" testament="ot" number="138" id="PSA.138">
+  <title>Psalm 138</title>
+  <heading kind="psalm-title">By David.</heading>
+  <verse number="1" id="PSA.138.1">I will give you thanks with my whole heart. Before the gods,<noteref ref="PSA.138.FN1"/> I will sing praises to you.</verse>
+  <verse number="2" id="PSA.138.2">I will bow down toward your holy temple, and give thanks to your Name for your loving kindness and for your truth; for you have exalted your Name and your Word above all.</verse>
+  <verse number="3" id="PSA.138.3">In the day that I called, you answered me. You encouraged me with strength in my soul.</verse>
+  <verse number="4" id="PSA.138.4">All the kings of the earth will give you thanks, Yahweh, for they have heard the words of your mouth.</verse>
+  <verse number="5" id="PSA.138.5">Yes, they will sing of the ways of Yahweh, for Yahweh’s glory is great!</verse>
+  <verse number="6" id="PSA.138.6">For though Yahweh is high, yet he looks after the lowly; but he knows the proud from afar.</verse>
+  <verse number="7" id="PSA.138.7">Though I walk in the middle of trouble, you will revive me. You will stretch out your hand against the wrath of my enemies. Your right hand will save me.</verse>
+  <verse number="8" id="PSA.138.8">Yahweh will fulfill that which concerns me. Your loving kindness, Yahweh, endures forever. Don’t forsake the works of your own hands.</verse>
+  <notes>
+    <note id="PSA.138.FN1" source-id="FN1" type="footnote" marker="†" verse="1">The word elohim, used here, usually means “God” but can also mean “gods”, “princes”, or “angels”.</note>
+  </notes>
+</chapter>

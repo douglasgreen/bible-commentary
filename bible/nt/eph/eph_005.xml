@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="EPH" name="Ephesians" testament="nt" number="5" id="EPH.5">
+  <title>Ephesians 5</title>
+  <verse number="1" id="EPH.5.1">Be therefore imitators of God, as beloved children.</verse>
+  <verse number="2" id="EPH.5.2">Walk in love, even as Christ also loved us and gave himself up for us, an offering and a sacrifice to God for a sweet-smelling fragrance.</verse>
+  <verse number="3" id="EPH.5.3">But sexual immorality, and all uncleanness or covetousness, let it not even be mentioned among you, as becomes saints;</verse>
+  <verse number="4" id="EPH.5.4">nor filthiness, nor foolish talking, nor jesting, which are not appropriate, but rather giving of thanks.</verse>
+  <verse number="5" id="EPH.5.5">Know this for sure, that no sexually immoral person, nor unclean person, nor covetous man (who is an idolater), has any inheritance in the Kingdom of Christ and God.</verse>
+  <verse number="6" id="EPH.5.6">Let no one deceive you with empty words, for because of these things the wrath of God comes on the children of disobedience.</verse>
+  <verse number="7" id="EPH.5.7">Therefore don’t be partakers with them.</verse>
+  <verse number="8" id="EPH.5.8">For you were once darkness, but are now light in the Lord. Walk as children of light,</verse>
+  <verse number="9" id="EPH.5.9">for the fruit of the Spirit is in all goodness and righteousness and truth,</verse>
+  <verse number="10" id="EPH.5.10">proving what is well pleasing to the Lord.</verse>
+  <verse number="11" id="EPH.5.11">Have no fellowship with the unfruitful deeds of darkness, but rather even reprove them.</verse>
+  <verse number="12" id="EPH.5.12">For it is a shame even to speak of the things which are done by them in secret.</verse>
+  <verse number="13" id="EPH.5.13">But all things, when they are reproved, are revealed by the light, for everything that reveals is light.</verse>
+  <verse number="14" id="EPH.5.14">Therefore he says, “Awake, you who sleep, and arise from the dead, and Christ will shine on you.”</verse>
+  <verse number="15" id="EPH.5.15">Therefore watch carefully how you walk, not as unwise, but as wise,</verse>
+  <verse number="16" id="EPH.5.16">redeeming the time, because the days are evil.</verse>
+  <verse number="17" id="EPH.5.17">Therefore, don’t be foolish, but understand what the will of the Lord is.</verse>
+  <verse number="18" id="EPH.5.18">Don’t be drunken with wine, in which is dissipation, but be filled with the Spirit,</verse>
+  <verse number="19" id="EPH.5.19">speaking to one another in psalms, hymns, and spiritual songs; singing and making melody in your heart to the Lord;</verse>
+  <verse number="20" id="EPH.5.20">giving thanks always concerning all things in the name of our Lord Jesus Christ to God, even the Father;</verse>
+  <verse number="21" id="EPH.5.21">subjecting yourselves to one another in the fear of Christ.</verse>
+  <verse number="22" id="EPH.5.22">Wives, be subject to your own husbands, as to the Lord.</verse>
+  <verse number="23" id="EPH.5.23">For the husband is the head of the wife, as Christ also is the head of the assembly, being himself the savior of the body.</verse>
+  <verse number="24" id="EPH.5.24">But as the assembly is subject to Christ, so let the wives also be to their own husbands in everything.</verse>
+  <verse number="25" id="EPH.5.25">Husbands, love your wives, even as Christ also loved the assembly and gave himself up for her,</verse>
+  <verse number="26" id="EPH.5.26">that he might sanctify her, having cleansed her by the washing of water with the word,</verse>
+  <verse number="27" id="EPH.5.27">that he might present the assembly to himself gloriously, not having spot or wrinkle or any such thing, but that she should be holy and without defect.</verse>
+  <verse number="28" id="EPH.5.28">Even so husbands also ought to love their own wives as their own bodies. He who loves his own wife loves himself.</verse>
+  <verse number="29" id="EPH.5.29">For no man ever hated his own flesh, but nourishes and cherishes it, even as the Lord also does the assembly,</verse>
+  <verse number="30" id="EPH.5.30">because we are members of his body, of his flesh and bones.</verse>
+  <verse number="31" id="EPH.5.31">“For this cause a man will leave his father and mother and will be joined to his wife. Then the two will become one flesh.”<noteref ref="EPH.5.FN1"/></verse>
+  <verse number="32" id="EPH.5.32">This mystery is great, but I speak concerning Christ and the assembly.</verse>
+  <verse number="33" id="EPH.5.33">Nevertheless each of you must also love his own wife even as himself; and let the wife see that she respects her husband.</verse>
+  <notes>
+    <note id="EPH.5.FN1" source-id="FN1" type="cross-reference" marker="*" verse="31"><ref book="GEN" chapter="2" verse="24">Genesis 2:24</ref></note>
+  </notes>
+</chapter>

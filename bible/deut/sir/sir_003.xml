@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="SIR" name="Sirach" testament="deut" number="3" id="SIR.3">
+  <title>Sirach 3</title>
+  <verse number="1" id="SIR.3.1">Hear me, your father, O my children, and do what you hear, that you all may be safe.</verse>
+  <verse number="2" id="SIR.3.2">For the Lord honors the father over the children, and has confirmed the judgment of the mother over her sons.</verse>
+  <verse number="3" id="SIR.3.3">He who honors his father will make atonement for sins.</verse>
+  <verse number="4" id="SIR.3.4">He who gives glory to his mother is as one who lays up treasure.</verse>
+  <verse number="5" id="SIR.3.5">Whoever honors his father will have joy in his own children. He will be heard in the day of his prayer.</verse>
+  <verse number="6" id="SIR.3.6">He who gives glory to his father will have length of days. He who listens to the Lord will bring rest to his mother,</verse>
+  <verse number="7" id="SIR.3.7"><noteref ref="SIR.3.FN1"/>and will serve under his parents, as to masters.</verse>
+  <verse number="8" id="SIR.3.8">Honor your father in deed and word, that a blessing may come upon you from him.</verse>
+  <verse number="9" id="SIR.3.9">For the blessing of the father establishes the houses of children, but the curse of the mother roots out the foundations.</verse>
+  <verse number="10" id="SIR.3.10">Don’t glorify yourself in the dishonor of your father, for your father’s dishonor is no glory to you.</verse>
+  <verse number="11" id="SIR.3.11">For the glory of a man is from the honor of his father, and a mother in dishonor is a reproach to her children.</verse>
+  <verse number="12" id="SIR.3.12">My son, help your father in his old age, and don’t grieve him as long as he lives.</verse>
+  <verse number="13" id="SIR.3.13">If he fails in understanding, have patience with him. Don’t dishonor him in your full strength.</verse>
+  <verse number="14" id="SIR.3.14">For the kindness to your father will not be forgotten. Instead of sins it will be added to build you up.</verse>
+  <verse number="15" id="SIR.3.15">In the day of your affliction it will be remembered for you, as fair weather upon ice, so your sins will also melt away.</verse>
+  <verse number="16" id="SIR.3.16">He who forsakes his father is as a blasphemer. He who provokes his mother is cursed by the Lord.</verse>
+  <verse number="17" id="SIR.3.17">My son, go on with your business in humility; so you will be loved by an acceptable man.</verse>
+  <verse number="18" id="SIR.3.18">The greater you are, humble yourself the more, and you will find favor before the Lord.</verse>
+  <verse number="19" id="SIR.3.19" omitted="true"><noteref ref="SIR.3.FN2"/></verse>
+  <verse number="20" id="SIR.3.20">For the power of the Lord is great, and he is glorified by those who are lowly.</verse>
+  <verse number="21" id="SIR.3.21">Don’t seek things that are too hard for you, and don’t search out things that are above your strength.</verse>
+  <verse number="22" id="SIR.3.22">Think about the things that have been commanded you, for you have no need of the things that are secret.</verse>
+  <verse number="23" id="SIR.3.23">Don’t be overly busy in tasks that are beyond you, for more things are shown to you than men can understand.</verse>
+  <verse number="24" id="SIR.3.24">For the conceit of many has led them astray. Evil opinion has caused their judgment to slip.</verse>
+  <verse number="25" id="SIR.3.25"><noteref ref="SIR.3.FN3"/>There is no light without eyes. There is no wisdom without knowledge.</verse>
+  <verse number="26" id="SIR.3.26">A stubborn heart will do badly at the end. He who loves danger will perish in it.</verse>
+  <verse number="27" id="SIR.3.27">A stubborn heart will be burdened with troubles. The sinner will heap sin upon sins.</verse>
+  <verse number="28" id="SIR.3.28">The calamity of the proud has no healing, for a weed of wickedness has taken root in him.</verse>
+  <verse number="29" id="SIR.3.29">The heart of the prudent will understand a proverb. A wise man desires the ear of a listener.</verse>
+  <verse number="30" id="SIR.3.30">Water will quench a flaming fire; almsgiving will make atonement for sins.</verse>
+  <verse number="31" id="SIR.3.31">He who repays good turns is mindful of that which comes afterward. In the time of his falling he will find a support.</verse>
+  <notes>
+    <note id="SIR.3.FN1" source-id="FN1" type="footnote" marker="†" verse="7">Some manuscripts add <alternative>those who fear the Lord honor their father,</alternative></note>
+    <note id="SIR.3.FN2" source-id="FN2" type="footnote" marker="‡" verse="19">Some manuscripts add <alternative>Many are lofty and renowned, but he reveals his secrets to the humble.</alternative></note>
+    <note id="SIR.3.FN3" source-id="FN3" type="footnote" marker="§" verse="25">Some manuscripts omit verse 25.</note>
+  </notes>
+</chapter>

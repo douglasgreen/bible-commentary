@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="JAS" name="James" testament="nt" number="2" id="JAS.2">
+  <title>James 2</title>
+  <verse number="1" id="JAS.2.1">My brothers, don’t hold the faith of our glorious Lord Jesus Christ with partiality.</verse>
+  <verse number="2" id="JAS.2.2">For if a man with a gold ring, in fine clothing, comes into your synagogue,<noteref ref="JAS.2.FN1"/> and a poor man in filthy clothing also comes in,</verse>
+  <verse number="3" id="JAS.2.3">and you pay special attention to him who wears the fine clothing and say, “Sit here in a good place;” and you tell the poor man, “Stand there,” or “Sit by my footstool”</verse>
+  <verse number="4" id="JAS.2.4">haven’t you shown partiality among yourselves, and become judges with evil thoughts?</verse>
+  <verse number="5" id="JAS.2.5">Listen, my beloved brothers. Didn’t God choose those who are poor in this world to be rich in faith and heirs of the Kingdom which he promised to those who love him?</verse>
+  <verse number="6" id="JAS.2.6">But you have dishonored the poor man. Don’t the rich oppress you and personally drag you before the courts?</verse>
+  <verse number="7" id="JAS.2.7">Don’t they blaspheme the honorable name by which you are called?</verse>
+  <verse number="8" id="JAS.2.8">However, if you fulfill the royal law according to the Scripture, “You shall love your neighbor as yourself,”<noteref ref="JAS.2.FN2"/> you do well.</verse>
+  <verse number="9" id="JAS.2.9">But if you show partiality, you commit sin, being convicted by the law as transgressors.</verse>
+  <verse number="10" id="JAS.2.10">For whoever keeps the whole law, and yet stumbles in one point, he has become guilty of all.</verse>
+  <verse number="11" id="JAS.2.11">For he who said, “Do not commit adultery,”<noteref ref="JAS.2.FN3"/> also said, “Do not commit murder.”<noteref ref="JAS.2.FN4"/> Now if you do not commit adultery but do murder, you have become a transgressor of the law.</verse>
+  <verse number="12" id="JAS.2.12">So speak and so do as men who are to be judged by the law of freedom.</verse>
+  <verse number="13" id="JAS.2.13">For judgment is without mercy to him who has shown no mercy. Mercy triumphs over judgment.</verse>
+  <verse number="14" id="JAS.2.14">What good is it, my brothers, if a man says he has faith, but has no works? Can faith save him?</verse>
+  <verse number="15" id="JAS.2.15">And if a brother or sister is naked and in lack of daily food,</verse>
+  <verse number="16" id="JAS.2.16">and one of you tells them, “Go in peace. Be warmed and filled;” yet you didn’t give them the things the body needs, what good is it?</verse>
+  <verse number="17" id="JAS.2.17">Even so faith, if it has no works, is dead in itself.</verse>
+  <verse number="18" id="JAS.2.18">Yes, a man will say, “You have faith, and I have works.” Show me your faith without works, and I will show you my faith by my works.</verse>
+  <verse number="19" id="JAS.2.19">You believe that God is one. You do well. The demons also believe—and shudder.</verse>
+  <verse number="20" id="JAS.2.20">But do you want to know, vain man, that faith apart from works is dead?</verse>
+  <verse number="21" id="JAS.2.21">Wasn’t Abraham our father justified by works, in that he offered up Isaac his son on the altar?</verse>
+  <verse number="22" id="JAS.2.22">You see that faith worked with his works, and by works faith was perfected.</verse>
+  <verse number="23" id="JAS.2.23">So the Scripture was fulfilled which says, “Abraham believed God, and it was accounted to him as righteousness,”<noteref ref="JAS.2.FN5"/> and he was called the friend of God.</verse>
+  <verse number="24" id="JAS.2.24">You see then that by works a man is justified, and not only by faith.</verse>
+  <verse number="25" id="JAS.2.25">In the same way, wasn’t Rahab the prostitute also justified by works when she received the messengers and sent them out another way?</verse>
+  <verse number="26" id="JAS.2.26">For as the body apart from the spirit is dead, even so faith apart from works is dead.</verse>
+  <notes>
+    <note id="JAS.2.FN1" source-id="FN1" type="footnote" marker="†" verse="2">or, meeting</note>
+    <note id="JAS.2.FN2" source-id="FN2" type="cross-reference" marker="*" verse="8"><ref book="LEV" chapter="19" verse="18">Leviticus 19:18</ref></note>
+    <note id="JAS.2.FN3" source-id="FN3" type="cross-reference" marker="*" verse="11"><ref book="EXO" chapter="20" verse="14">Exodus 20:14</ref>; <ref book="DEU" chapter="5" verse="18">Deuteronomy 5:18</ref></note>
+    <note id="JAS.2.FN4" source-id="FN4" type="cross-reference" marker="*" verse="11"><ref book="EXO" chapter="20" verse="13">Exodus 20:13</ref>; <ref book="DEU" chapter="5" verse="17">Deuteronomy 5:17</ref></note>
+    <note id="JAS.2.FN5" source-id="FN5" type="cross-reference" marker="*" verse="23"><ref book="GEN" chapter="15" verse="6">Genesis 15:6</ref></note>
+  </notes>
+</chapter>

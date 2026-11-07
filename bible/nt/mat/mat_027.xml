@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="MAT" name="Matthew" testament="nt" number="27" id="MAT.27">
+  <title>Matthew 27</title>
+  <verse number="1" id="MAT.27.1">Now when morning had come, all the chief priests and the elders of the people took counsel against Jesus to put him to death.</verse>
+  <verse number="2" id="MAT.27.2">They bound him, led him away, and delivered him up to Pontius Pilate, the governor.</verse>
+  <verse number="3" id="MAT.27.3">Then Judas, who betrayed him, when he saw that Jesus was condemned, felt remorse, and brought back the thirty pieces of silver to the chief priests and elders,</verse>
+  <verse number="4" id="MAT.27.4">saying, “I have sinned in that I betrayed innocent blood.” But they said, “What is that to us? You see to it.”</verse>
+  <verse number="5" id="MAT.27.5">He threw down the pieces of silver in the sanctuary and departed. Then he went away and hanged himself.</verse>
+  <verse number="6" id="MAT.27.6">The chief priests took the pieces of silver and said, “It’s not lawful to put them into the treasury, since it is the price of blood.”</verse>
+  <verse number="7" id="MAT.27.7">They took counsel, and bought the potter’s field with them to bury strangers in.</verse>
+  <verse number="8" id="MAT.27.8">Therefore that field has been called “The Field of Blood” to this day.</verse>
+  <verse number="9" id="MAT.27.9">Then that which was spoken through Jeremiah<noteref ref="MAT.27.FN1"/> the prophet was fulfilled, saying, “They took the thirty pieces of silver, the price of him upon whom a price had been set, whom some of the children of Israel priced,</verse>
+  <verse number="10" id="MAT.27.10">and they gave them for the potter’s field, as the Lord commanded me.”<noteref ref="MAT.27.FN2"/></verse>
+  <verse number="11" id="MAT.27.11">Now Jesus stood before the governor; and the governor asked him, saying, “Are you the King of the Jews?” Jesus said to him, <wj>“So you say.”</wj></verse>
+  <verse number="12" id="MAT.27.12">When he was accused by the chief priests and elders, he answered nothing.</verse>
+  <verse number="13" id="MAT.27.13">Then Pilate said to him, “Don’t you hear how many things they testify against you?”</verse>
+  <verse number="14" id="MAT.27.14">He gave him no answer, not even one word, so that the governor marveled greatly.</verse>
+  <verse number="15" id="MAT.27.15">Now at the feast the governor was accustomed to release to the multitude one prisoner whom they desired.</verse>
+  <verse number="16" id="MAT.27.16">They had then a notable prisoner called Barabbas.</verse>
+  <verse number="17" id="MAT.27.17">When therefore they were gathered together, Pilate said to them, “Whom do you want me to release to you? Barabbas, or Jesus who is called Christ?”</verse>
+  <verse number="18" id="MAT.27.18">For he knew that because of envy they had delivered him up.</verse>
+  <verse number="19" id="MAT.27.19">While he was sitting on the judgment seat, his wife sent to him, saying, “Have nothing to do with that righteous man, for I have suffered many things today in a dream because of him.”</verse>
+  <verse number="20" id="MAT.27.20">Now the chief priests and the elders persuaded the multitudes to ask for Barabbas and destroy Jesus.</verse>
+  <verse number="21" id="MAT.27.21">But the governor answered them, “Which of the two do you want me to release to you?” They said, “Barabbas!”</verse>
+  <verse number="22" id="MAT.27.22">Pilate said to them, “What then shall I do to Jesus who is called Christ?” They all said to him, “Let him be crucified!”</verse>
+  <verse number="23" id="MAT.27.23">But the governor said, “Why? What evil has he done?” But they cried out exceedingly, saying, “Let him be crucified!”</verse>
+  <verse number="24" id="MAT.27.24">So when Pilate saw that nothing was being gained, but rather that a disturbance was starting, he took water and washed his hands before the multitude, saying, “I am innocent of the blood of this righteous person. You see to it.”</verse>
+  <verse number="25" id="MAT.27.25">All the people answered, “May his blood be on us and on our children!”</verse>
+  <verse number="26" id="MAT.27.26">Then he released Barabbas to them, but Jesus he flogged and delivered to be crucified.</verse>
+  <verse number="27" id="MAT.27.27">Then the governor’s soldiers took Jesus into the Praetorium, and gathered the whole garrison together against him.</verse>
+  <verse number="28" id="MAT.27.28">They stripped him and put a scarlet robe on him.</verse>
+  <verse number="29" id="MAT.27.29">They braided a crown of thorns and put it on his head, and a reed in his right hand; and they kneeled down before him and mocked him, saying, “Hail, King of the Jews!”</verse>
+  <verse number="30" id="MAT.27.30">They spat on him, and took the reed and struck him on the head.</verse>
+  <verse number="31" id="MAT.27.31">When they had mocked him, they took the robe off him, and put his clothes on him, and led him away to crucify him.</verse>
+  <verse number="32" id="MAT.27.32">As they came out, they found a man of Cyrene, Simon by name, and they compelled him to go with them, that he might carry his cross.</verse>
+  <verse number="33" id="MAT.27.33">When they came to a place called “Golgotha”, that is to say, “The place of a skull,”</verse>
+  <verse number="34" id="MAT.27.34">they gave him sour wine<noteref ref="MAT.27.FN3"/> to drink mixed with gall.<noteref ref="MAT.27.FN4"/> When he had tasted it, he would not drink.</verse>
+  <verse number="35" id="MAT.27.35">When they had crucified him, they divided his clothing among them, casting lots,<noteref ref="MAT.27.FN5"/></verse>
+  <verse number="36" id="MAT.27.36">and they sat and watched him there.</verse>
+  <verse number="37" id="MAT.27.37">They set up over his head the accusation against him written, “THIS IS JESUS, THE KING OF THE JEWS.”</verse>
+  <verse number="38" id="MAT.27.38">Then there were two robbers crucified with him, one on his right hand and one on the left.</verse>
+  <verse number="39" id="MAT.27.39">Those who passed by blasphemed him, wagging their heads</verse>
+  <verse number="40" id="MAT.27.40">and saying, “You who destroy the temple and build it in three days, save yourself! If you are the Son of God, come down from the cross!”</verse>
+  <verse number="41" id="MAT.27.41">Likewise the chief priests also mocking with the scribes, the Pharisees,<noteref ref="MAT.27.FN6"/> and the elders, said,</verse>
+  <verse number="42" id="MAT.27.42">“He saved others, but he can’t save himself. If he is the King of Israel, let him come down from the cross now, and we will believe in him.</verse>
+  <verse number="43" id="MAT.27.43">He trusts in God. Let God deliver him now, if he wants him; for he said, ‘I am the Son of God.’ ”</verse>
+  <verse number="44" id="MAT.27.44">The robbers also who were crucified with him cast on him the same reproach.</verse>
+  <verse number="45" id="MAT.27.45">Now from the sixth hour<noteref ref="MAT.27.FN7"/> there was darkness over all the land until the ninth hour.<noteref ref="MAT.27.FN8"/></verse>
+  <verse number="46" id="MAT.27.46">About the ninth hour Jesus cried with a loud voice, saying, <wj>“Eli, Eli, lima</wj><noteref ref="MAT.27.FN9"/> <wj>sabachthani?” </wj> That is, <wj>“My God, my God, why have you forsaken me?”</wj><noteref ref="MAT.27.FN10"/></verse>
+  <verse number="47" id="MAT.27.47">Some of them who stood there, when they heard it, said, “This man is calling Elijah.”</verse>
+  <verse number="48" id="MAT.27.48">Immediately one of them ran and took a sponge, filled it with vinegar, put it on a reed, and gave him a drink.</verse>
+  <verse number="49" id="MAT.27.49">The rest said, “Let him be. Let’s see whether Elijah comes to save him.”</verse>
+  <verse number="50" id="MAT.27.50">Jesus cried again with a loud voice, and yielded up his spirit.</verse>
+  <verse number="51" id="MAT.27.51">Behold, the veil of the temple was torn in two from the top to the bottom. The earth quaked and the rocks were split.</verse>
+  <verse number="52" id="MAT.27.52">The tombs were opened, and many bodies of the saints who had fallen asleep were raised;</verse>
+  <verse number="53" id="MAT.27.53">and coming out of the tombs after his resurrection, they entered into the holy city and appeared to many.</verse>
+  <verse number="54" id="MAT.27.54">Now the centurion and those who were with him watching Jesus, when they saw the earthquake and the things that were done, were terrified, saying, “Truly this was the Son of God!”</verse>
+  <verse number="55" id="MAT.27.55">Many women were there watching from afar, who had followed Jesus from Galilee, serving him.</verse>
+  <verse number="56" id="MAT.27.56">Among them were Mary Magdalene, Mary the mother of James and Joses, and the mother of the sons of Zebedee.</verse>
+  <verse number="57" id="MAT.27.57">When evening had come, a rich man from Arimathaea named Joseph, who himself was also Jesus’ disciple, came.</verse>
+  <verse number="58" id="MAT.27.58">This man went to Pilate and asked for Jesus’ body. Then Pilate commanded the body to be given up.</verse>
+  <verse number="59" id="MAT.27.59">Joseph took the body and wrapped it in a clean linen cloth</verse>
+  <verse number="60" id="MAT.27.60">and laid it in his own new tomb, which he had cut out in the rock. Then he rolled a large stone against the door of the tomb, and departed.</verse>
+  <verse number="61" id="MAT.27.61">Mary Magdalene was there, and the other Mary, sitting opposite the tomb.</verse>
+  <verse number="62" id="MAT.27.62">Now on the next day, which was the day after the Preparation Day, the chief priests and the Pharisees were gathered together to Pilate,</verse>
+  <verse number="63" id="MAT.27.63">saying, “Sir, we remember what that deceiver said while he was still alive: ‘After three days I will rise again.’</verse>
+  <verse number="64" id="MAT.27.64">Command therefore that the tomb be made secure until the third day, lest perhaps his disciples come at night and steal him away, and tell the people, ‘He is risen from the dead;’ and the last deception will be worse than the first.”</verse>
+  <verse number="65" id="MAT.27.65">Pilate said to them, “You have a guard. Go, make it as secure as you can.”</verse>
+  <verse number="66" id="MAT.27.66">So they went with the guard and made the tomb secure, sealing the stone.</verse>
+  <notes>
+    <note id="MAT.27.FN1" source-id="FN1" type="footnote" marker="†" verse="9">some manuscripts omit “Jeremiah”</note>
+    <note id="MAT.27.FN2" source-id="FN2" type="cross-reference" marker="*" verse="10"><ref book="ZEC" chapter="11" verse="12">Zechariah 11:12-13</ref>; <ref book="JER" chapter="19" verse="1">Jeremiah 19:1-13</ref>; <ref book="JER" chapter="32" verse="6">32:6-9</ref></note>
+    <note id="MAT.27.FN3" source-id="FN3" type="footnote" marker="‡" verse="34">or, vinegar</note>
+    <note id="MAT.27.FN4" source-id="FN4" type="footnote" marker="§" verse="34">Gall is a bitter-tasting, dark green oil from a wormwood plant that is alcoholic in its effect.</note>
+    <note id="MAT.27.FN5" source-id="FN5" type="footnote" marker="†" verse="35">TR adds “that it might be fulfilled which was spoken by the prophet: ‘They divided my garments among them, and for my clothing they cast lots;’ ” [see <ref book="PSA" chapter="22" verse="18">Psalms 22:18</ref> and <ref book="JHN" chapter="19" verse="24">John 19:24</ref>]</note>
+    <note id="MAT.27.FN6" source-id="FN6" type="footnote" marker="‡" verse="41">TR omits “the Pharisees”</note>
+    <note id="MAT.27.FN7" source-id="FN7" type="footnote" marker="§" verse="45">noon</note>
+    <note id="MAT.27.FN8" source-id="FN8" type="footnote" marker="†" verse="45">3:00 p.m.</note>
+    <note id="MAT.27.FN9" source-id="FN9" type="footnote" marker="‡" verse="46">TR reads “lama” instead of “lima”</note>
+    <note id="MAT.27.FN10" source-id="FN10" type="cross-reference" marker="*" verse="46"><ref book="PSA" chapter="22" verse="1">Psalms 22:1</ref></note>
+  </notes>
+</chapter>

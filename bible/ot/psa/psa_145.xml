@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter code="PSA" name="Psalms" testament="ot" number="145" id="PSA.145">
+  <title>Psalm 145</title>
+  <heading kind="psalm-title">A praise psalm by David.<noteref ref="PSA.145.FN1"/></heading>
+  <verse number="1" id="PSA.145.1">I will exalt you, my God, the King. I will praise your name forever and ever.</verse>
+  <verse number="2" id="PSA.145.2">Every day I will praise you. I will extol your name forever and ever.</verse>
+  <verse number="3" id="PSA.145.3">Great is Yahweh, and greatly to be praised! His greatness is unsearchable.</verse>
+  <verse number="4" id="PSA.145.4">One generation will commend your works to another, and will declare your mighty acts.</verse>
+  <verse number="5" id="PSA.145.5">I will meditate on the glorious majesty of your honor, on your wondrous works.</verse>
+  <verse number="6" id="PSA.145.6">Men will speak of the might of your awesome acts. I will declare your greatness.</verse>
+  <verse number="7" id="PSA.145.7">They will utter the memory of your great goodness, and will sing of your righteousness.</verse>
+  <verse number="8" id="PSA.145.8">Yahweh is gracious, merciful, slow to anger, and of great loving kindness.</verse>
+  <verse number="9" id="PSA.145.9">Yahweh is good to all. His tender mercies are over all his works.</verse>
+  <verse number="10" id="PSA.145.10">All your works will give thanks to you, Yahweh. Your saints will extol you.</verse>
+  <verse number="11" id="PSA.145.11">They will speak of the glory of your kingdom, and talk about your power,</verse>
+  <verse number="12" id="PSA.145.12">to make known to the sons of men his mighty acts, the glory of the majesty of his kingdom.</verse>
+  <verse number="13" id="PSA.145.13">Your kingdom is an everlasting kingdom. Your dominion endures throughout all generations. Yahweh is faithful in all his words, and loving in all his deeds.<noteref ref="PSA.145.FN2"/></verse>
+  <verse number="14" id="PSA.145.14">Yahweh upholds all who fall, and raises up all those who are bowed down.</verse>
+  <verse number="15" id="PSA.145.15">The eyes of all wait for you. You give them their food in due season.</verse>
+  <verse number="16" id="PSA.145.16">You open your hand, and satisfy the desire of every living thing.</verse>
+  <verse number="17" id="PSA.145.17">Yahweh is righteous in all his ways, and gracious in all his works.</verse>
+  <verse number="18" id="PSA.145.18">Yahweh is near to all those who call on him, to all who call on him in truth.</verse>
+  <verse number="19" id="PSA.145.19">He will fulfill the desire of those who fear him. He also will hear their cry, and will save them.</verse>
+  <verse number="20" id="PSA.145.20">Yahweh preserves all those who love him, but he will destroy all the wicked.</verse>
+  <verse number="21" id="PSA.145.21">My mouth will speak the praise of Yahweh. Let all flesh bless his holy name forever and ever.</verse>
+  <notes>
+    <note id="PSA.145.FN1" source-id="FN1" type="footnote" marker="†" verse="1">This is an acrostic psalm, with every verse (including the second half of verse 13) starting with a consecutive letter of the Hebrew alphabet.</note>
+    <note id="PSA.145.FN2" source-id="FN2" type="footnote" marker="‡" verse="13">Some manuscripts omit these last two lines.</note>
+  </notes>
+</chapter>
