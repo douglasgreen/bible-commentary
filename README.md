@@ -527,7 +527,7 @@ The Stage 1 exit check for this plan: every Bible chapter in `bible/toc.xml` has
 2. Run `python3 check_book.py --list` to see the manifest, or `python3 check_book.py --book GEN` to check one book.
 3. Complete the global Stage 2 seed once, then work in book units: research a book chapter by chapter, draft it, check it, then integrate it with its neighbors.
 4. Update this README when scope, the chapter architecture, a visual, a page allocation, or the status of a book changes.
-5. Do not create a second outline. Do not maintain a separate `outline.md`. The chapter briefs live in the chapter files; the plan lives here.
+5. Do not create a second outline. The chapter briefs live in the chapter files; the plan lives here.
 6. Do not describe a chapter as checked until every applicable item in AGENTS.md §7 has been completed and the structural checker has passed or its remaining findings are declared blockers.
 
 The commentary is large, but the method is small: read the chapter, state what it says, set it in context, explain what is unclear, offer a Christian reading, cite the evidence, and leave the reader with the text.
