@@ -24,6 +24,9 @@ from pathlib import Path
 from typing import Iterable, Iterator, Sequence
 from xml.sax.saxutils import escape, quoteattr
 
+_HERE = Path(__file__).resolve().parent
+ROOT = _HERE.parent if _HERE.name == "tools" else _HERE
+
 # ---------------------------------------------------------------------------
 # HTML parsing (small DOM built on html.parser)
 # ---------------------------------------------------------------------------
@@ -1057,8 +1060,8 @@ def validate_output(output_root: Path, books: Sequence[Book], other: Sequence[Ot
 
 def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    default_source = Path(__file__).resolve().parent / "eng-web_html"
-    default_output = Path(__file__).resolve().parent / "bible"
+    default_source = ROOT / "eng-web_html"
+    default_output = ROOT / "bible"
     parser.add_argument(
         "--source", type=Path, default=default_source,
         help=f"directory containing the HTML edition (default: {default_source})",

@@ -13,8 +13,8 @@ The chapter is the unit of writing, but the **book** is the unit of work. Do not
 | **`README.md`** | Canonical book plan, chapter architecture, genre modes, page budget, visual register, and book-level status |
 | **`metadata.yaml`** | Title, author, rights, and language |
 | **`AGENTS.md`** | Process, evidence standards, chapter architecture, and house style |
-| **`check_book.py`** | Pre-render structural checker |
-| **`convert_bible.py`** | Converter from the WEB HTML edition to the XML corpus |
+| **`tools/check_book.py`** | Pre-render structural checker |
+| **`tools/convert_bible.py`** | Converter from the WEB HTML edition to the XML corpus |
 | **`bible/toc.xml`** | Authoritative list of 81 books and 1,402 chapters |
 | **`bible/{ot,deut,nt}/<book>/<book>_<NNN>.xml`** | The WEB text, one file per Bible chapter |
 | **`chapters/00-introduction.md`** | Introduction |
@@ -43,22 +43,22 @@ When scope, chapter structure, a book-level emphasis, a visual, a page allocatio
 
 This repository began with a plan and tooling adapted from a different book, a history of the United States. That book’s apparatus — epigraphs, opening scenes, In Focus boxes, formal debates, Legacies sections, chapter summaries, study questions, Further Reading sections, closing notes, and bridges — is **retired** here. It does not fit a one-page commentary chapter, and importing it would produce padding rather than commentary.
 
-The four adapted files are `AGENTS.md`, `README.md`, `check_book.py`, and `metadata.yaml`. The XML corpus and `convert_bible.py` are this repository’s own. Do not reintroduce history-book conventions by habit. If a convention from the older project is still useful, adapt it explicitly in this file and in the checker.
+The four adapted files are `AGENTS.md`, `README.md`, `tools/check_book.py`, and `metadata.yaml`. The XML corpus and `tools/convert_bible.py` are this repository’s own. Do not reintroduce history-book conventions by habit. If a convention from the older project is still useful, adapt it explicitly in this file and in the checker.
 
 There is no manuscript draft yet. The current stage is `planned`. Do not describe a chapter as drafted, checked, or integrated until its file exists and the relevant stage checks have been performed.
 
 ### Repository checks
 
-`check_book.py` is the pre-render structural checker. Run it from the repository root:
+`tools/check_book.py` is the pre-render structural checker. Run it from the repository root:
 
 ```bash
-python3 check_book.py
-python3 check_book.py --strict
-python3 check_book.py --json
-python3 check_book.py --quiet
-python3 check_book.py --book GEN
-python3 check_book.py chapters/ot/gen/001-gen-1.md
-python3 check_book.py --list
+python3 tools/check_book.py
+python3 tools/check_book.py --strict
+python3 tools/check_book.py --json
+python3 tools/check_book.py --quiet
+python3 tools/check_book.py --book GEN
+python3 tools/check_book.py chapters/ot/gen/001-gen-1.md
+python3 tools/check_book.py --list
 ```
 
 With no arguments it checks the full manifest derived from `bible/toc.xml`, plus `chapters/00-introduction.md` and the five appendix files: 1,408 files. `--book GEN` checks one biblical book’s chapters. Positional paths check only those files. `--list` prints the expected paths and exits without checking. `--strict` treats warnings as failures; `--json` emits a machine-readable report; `--quiet` suppresses individual findings and prints the summary. Exit status is 0 when the check passes, 1 when it fails, and 2 for invalid usage or a missing manifest. At Stage 2, run the checker without `--strict`; the short-seed warnings are expected. Use `--strict` from Stage 4 onward.
@@ -453,7 +453,7 @@ Before calling a chapter checked, complete every applicable item. Whole-book ite
 - [ ] **Language and sound:** terminology, names, tense, spelling, quotation marks, dashes, ellipses, and emphasis follow §6. Cadence has been checked; repetitions and mechanical scaffolding have been cut.
 - [ ] **Notes and citations:** citations, explanations, textual notes, qualifications, and editorial questions appear in one named-footnote list, ordered by first reference; no separate Sources or citation list remains. Editorial questions are resolved or remain declared blockers; permanent citations are retained; Appendix E is not being used as an evidence ledger.
 - [ ] **Integration:** the Introduction, README, book chapters, appendices, recurring terms, chronology, and visual counts agree; no obsolete second outline or contradictory register is being maintained.
-- [ ] **Structural checks:** `python3 check_book.py --strict` passes for the chapter, or every reported error and warning is resolved or declared as a blocker. This does not replace the evidence, quotation, exegesis, visual, or rendering checks above.
+- [ ] **Structural checks:** `python3 tools/check_book.py --strict` passes for the chapter, or every reported error and warning is resolved or declared as a blocker. This does not replace the evidence, quotation, exegesis, visual, or rendering checks above.
 - [ ] **Rendering and budget:** available builds pass without unresolved warnings; the combined notes, citation and return links, tables, images, and emphasis have been inspected; measured length has been reconciled with the budget. Unavailable checks are reported, not asserted as passed.
 
 ## 8. Web research with TinyFish

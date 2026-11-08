@@ -9,13 +9,13 @@ house typography, and word counts. It does not verify that a citation supports
 a claim, that a quotation matches its edition, that an exegetical judgment is
 sound, that a visual asset exists, or that a table fits a typeset page.
 
-Usage:
-    python3 check_book.py
-    python3 check_book.py --book GEN
-    python3 check_book.py chapters/ot/gen/001-gen-1.md
-    python3 check_book.py --list
-    python3 check_book.py --strict
-    python3 check_book.py --json
+Usage (from the repository root):
+    python3 tools/check_book.py
+    python3 tools/check_book.py --book GEN
+    python3 tools/check_book.py chapters/ot/gen/001-gen-1.md
+    python3 tools/check_book.py --list
+    python3 tools/check_book.py --strict
+    python3 tools/check_book.py --json
 
 Exit status is 0 when there are no errors, 1 when there are errors (or, with
 --strict, warnings), and 2 for invalid usage or a missing manifest.
@@ -1340,5 +1340,5 @@ if __name__ == "__main__":
     try:
         sys.exit(main())
     except BrokenPipeError:
-        # The consumer closed the pipe, as in `python3 check_book.py --list | head`.
+        # The consumer closed the pipe, as in `python3 tools/check_book.py --list | head`.
         sys.exit(0)
